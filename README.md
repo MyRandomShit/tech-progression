@@ -12,6 +12,8 @@ random notes on my predictions of tech in the next X years
 
 ## Communication
 
+## Energy Production
+
 ## Manufacturing
 
 ## Space Propulsion
