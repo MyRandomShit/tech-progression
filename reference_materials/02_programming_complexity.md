@@ -2,31 +2,39 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | AI-Assisted Coding | 80% of code written with AI pair programming |
-| 2026  | Self-Healing Systems | Programs automatically detect and repair bugs in real-time |
-| 2027  | Emergent Behavior Modeling | AI systems begin designing algorithms humans can't fully comprehend |
-| 2028  | Swarm Intelligence Framework | First distributed AI coordination protocols |
-| 2029  | Quantum Algorithm Synthesis | AI generates quantum algorithms through evolutionary computation |
-| 2030  | Autonomous Code Evolution | Software systems evolve and optimize themselves without human intervention |
+| 2025  | AI-Assisted Coding | 60% of code written with AI pair programming (overpromised, underdelivered) |
+| 2027  | Self-Healing Systems | Programs automatically detect and repair bugs in real-time |
+| 2029  | Emergent Behavior Crisis | AI-designed algorithm causes stock market crash; 4-year regulatory freeze |
+| 2033  | Oversight Protocols | After crisis, new frameworks for AI-generated code safety |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2035  | Collective Intelligence OS | Operating systems designed for coordinating millions of AI agents |
-| 2040  | Hive Mind Protocols | First successful multi-node consciousness coordination algorithms |
-| 2045  | Bio-Code Translation | Programming languages that compile to biological cellular instructions |
-| 2050  | Cellular Reprogramming APIs | Direct software control of living cell behavior |
+| 2038  | Swarm Intelligence Framework | First distributed AI coordination protocols (after safety delays) |
+| 2043  | Quantum Algorithm Synthesis | AI generates quantum algorithms through evolutionary computation |
+| 2047  | Autonomous Code Evolution | Software systems evolve and optimize themselves without human intervention |
+| 2052  | Collective Intelligence OS | Operating systems designed for coordinating millions of AI agents |
+| 2058  | Hive Protocol Failures | Early multi-node consciousness coordination crashes catastrophically |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Emergent Consciousness Frameworks | AI systems exhibit coordinated group awareness |
-| 2060  | Nano-Swarm Orchestration | Billion-node hive mind coordination algorithms |
-| 2065  | Biological Machine Language | DNA sequences as executable code for biomachines |
-| 2070  | **Distributed Hive Intelligence** | **Seamless control of nano-biomachine collectives via unified consciousness** |
+| 2063  | Hive Mind Protocols | After fixes, successful multi-node consciousness coordination |
+| 2069  | Bio-Code Translation | Programming languages that compile to biological cellular instructions |
+| 2074  | Debugging Crisis | Bio-code bugs cause organ failures; 3-year setback |
+| 2077  | Cellular Reprogramming APIs | After safety overhaul, direct software control of living cell behavior |
+| 2082  | Emergent Consciousness Frameworks | AI systems exhibit coordinated group awareness |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2088  | Nano-Swarm Orchestration | Billion-node hive mind coordination algorithms |
+| 2093  | Biological Machine Language | DNA sequences as executable code for biomachines |
+| 2097  | Integration Challenges | Code-biology interface proves harder than expected |
+| 2100  | **Distributed Hive Intelligence** | **Seamless control of nano-biomachine collectives via unified consciousness** |
 
 ## Key Developments
 

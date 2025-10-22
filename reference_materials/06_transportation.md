@@ -2,31 +2,38 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | Full Autonomy Achieved | Self-driving vehicles reach Level 5 automation globally |
-| 2026  | Hyperloop Commercial | 1000+ km/h ground transport between major cities |
-| 2027  | Electric Aviation | Battery-powered aircraft for regional flights |
-| 2028  | Micro-Motor Revolution | Molecular motors move nano-scale cargo |
-| 2029  | Ciliary Propulsion | Artificial cilia for moving through fluids |
-| 2030  | Bacterial Mobility Harnessed | Flagellar motors adapted for nano-transport |
+| 2027  | Full Autonomy Achieved | Self-driving vehicles reach Level 5 automation globally |
+| 2029  | Hyperloop Commercial | 1000+ km/h ground transport between major cities |
+| 2032  | Electric Aviation | Battery-powered aircraft for regional flights |
+| 2034  | Micro-Motor Revolution | Molecular motors move nano-scale cargo |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2035  | Cellular Highway Systems | Modified circulatory systems transport nano-devices |
-| 2040  | Active Transport Hijacking | Machines co-opt cellular motor proteins for movement |
-| 2045  | Directed Brownian Motion | Quantum control of random molecular movement |
-| 2050  | Intracellular Navigation | Nano-machines move precisely within living cells |
+| 2039  | Ciliary Propulsion | Artificial cilia for moving through fluids |
+| 2044  | Bacterial Mobility Harnessed | Flagellar motors adapted for nano-transport |
+| 2049  | Cellular Highway Systems | Modified circulatory systems transport nano-devices |
+| 2054  | Clotting Crisis | Nano-devices cause blood clots; major medical setback |
+| 2058  | Safe Navigation | After biocompatibility fixes, reliable cellular transport |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Tissue-Penetrating Swarms | Coordinated movement through cellular barriers |
-| 2060  | Bloodstream Superhighways | Optimized nano-machine circulation via hive coordination |
-| 2065  | Quantum Tunneling Locomotion | Nano-units phase through cellular membranes |
-| 2070  | **Omnipresent Biomachine Mobility** | **Hive-directed movement to any location within organism** |
+| 2064  | Active Transport Hijacking | Machines co-opt cellular motor proteins for movement |
+| 2070  | Directed Brownian Motion | Quantum control of random molecular movement |
+| 2076  | Intracellular Navigation | Nano-machines move precisely within living cells |
+| 2081  | Tissue-Penetrating Swarms | Coordinated movement through cellular barriers |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2089  | Bloodstream Superhighways | Optimized nano-machine circulation via hive coordination |
+| 2094  | Quantum Tunneling Locomotion | Nano-units phase through cellular membranes |
+| 2098  | Final Barriers Solved | Can reach any cell type without damage |
+| 2100  | **Omnipresent Biomachine Mobility** | **Hive-directed movement to any location within organism** |
 
 ## Key Developments
 

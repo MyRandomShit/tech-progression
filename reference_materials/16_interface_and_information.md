@@ -2,31 +2,37 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Primary Interface | Communication | Information Truth | Entertainment |
 |-------|-------------------|---------------|-------------------|---------------|
-| 2025  | Touch screens, voice | Social media, video calls | Fact-checkers, AI detection | Streaming, some VR |
-| 2026  | AR glasses emerging | Mixed reality calls | Blockchain verification | Immersive experiences |
-| 2027  | Gesture + voice common | Holographic presence | AI truth scoring | Interactive narratives |
-| 2028  | Early neural interfaces | Real-time translation | Deepfake crisis peaks | Personalized content |
-| 2029  | Brain-computer prototypes | Thought-to-text | Verification standards | Sensory entertainment |
-| 2030  | Multi-modal (all methods) | Seamless XR | Nano-verified media | Experience sharing begins |
+| 2026  | Touch screens, voice | Social media, video calls | Fact-checkers, AI detection | Streaming, some VR |
+| 2028  | AR glasses emerging | Mixed reality calls | Blockchain verification | Immersive experiences |
+| 2030  | Gesture + voice common | Holographic presence | AI truth scoring | Interactive narratives |
+| 2033  | Early neural interfaces | Real-time translation | Deepfake crisis peaks | Personalized content |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Primary Interface | Communication | Information Truth | Entertainment |
 |-------|-------------------|---------------|-------------------|---------------|
-| 2035  | Neural interfaces standard | Emotion transmission | Cryptographic truth | Full immersion VR |
-| 2040  | Direct thought input | Mind-to-mind feeling | Impossible to fake | Live experience sharing |
-| 2045  | Nano-mediated connection | Collective experiences | Perfect provenance | Memory recording |
-| 2050  | Seamless bio-digital | Hive-mind coordination | Post-misinformation era | Shared consciousness |
+| 2038  | Brain-computer prototypes | Thought-to-text | Verification standards | Sensory entertainment |
+| 2043  | Multi-modal (all methods) | Seamless XR | Nano-verified media | Experience sharing begins |
+| 2048  | Neural interfaces standard | Emotion transmission | Cryptographic truth | Full immersion VR |
+| 2053  | Direct thought input | Mind-to-mind feeling | Impossible to fake | Live experience sharing |
+| 2058  | Nano-mediated connection | Collective experiences | Perfect provenance | Memory recording |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Primary Interface | Communication | Information Truth | Entertainment |
 |-------|-------------------|---------------|-------------------|---------------|
-| 2055  | Thought-speed interaction | Telepathy-like | Source always known | Reality indistinguishable |
-| 2060  | Unconscious control | Collective consciousness | Truth self-evident | Experience as art |
-| 2065  | Interface invisible | Hive experiences | Lies impossible | Life as entertainment |
-| 2070  | **No "interface"—direct** | **Merged consciousness** | **Truth absolute** | **Experience itself** |
+| 2064  | Seamless bio-digital | Hive-mind coordination | Post-misinformation era | Shared consciousness |
+| 2070  | Thought-speed interaction | Telepathy-like | Source always known | Reality indistinguishable |
+| 2076  | Unconscious control | Collective consciousness | Truth self-evident | Experience as art |
+| 2082  | Interface invisible | Hive experiences | Lies impossible | Life as entertainment |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Primary Interface | Communication | Information Truth | Entertainment |
+|-------|-------------------|---------------|-------------------|---------------|
+| 2089  | Nearly direct thought | Merged consciousness emerging | Truth absolute | Experience itself |
+| 2095  | Interface fading | Full telepathy-like communication | Lies physically impossible | Reality = art |
+| 2100  | **No "interface"—direct** | **Merged consciousness** | **Truth absolute** | **Experience itself** |
 
 ## Detailed Evolution
 

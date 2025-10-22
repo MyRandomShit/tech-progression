@@ -2,36 +2,42 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | Reusable Rockets Mature | SpaceX Starship enables $100/kg to orbit |
-| 2026  | Lunar Gateway Operational | Permanent human presence returns to Moon orbit |
-| 2027  | First Asteroid Prospecting | Robotic missions assess near-Earth asteroid composition |
-| 2028  | Mars Sample Return | First Martian samples arrive on Earth for analysis |
-| 2029  | Commercial Lunar Mining | Private companies begin extracting lunar water ice |
-| 2030  | Orbital Manufacturing | First products manufactured in zero gravity |
+| 2026  | Reusable Rockets Mature | SpaceX Starship enables $100/kg to orbit |
+| 2028  | Lunar Gateway Operational | Permanent human presence returns to Moon orbit |
+| 2030  | First Asteroid Prospecting | Robotic missions assess near-Earth asteroid composition |
+| 2032  | Mars Sample Return | First Martian samples arrive on Earth for analysis |
+| 2034  | Commercial Lunar Mining | Private companies begin extracting lunar water ice |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2033  | First Asteroid Mining | Platinum-group metals extracted from near-Earth asteroid |
-| 2036  | Permanent Lunar Base | 50 people living on Moon continuously |
-| 2038  | Mars Colony Established | First 100 settlers arrive on Mars |
-| 2042  | **The Abundance Discovery** | **Massive rare-earth deposits found in asteroid belt** |
-| 2045  | Asteroid Mining Boom | Rare elements flood market; material economy shakes |
-| 2048  | Fusion Breakthrough | Space-mined helium-3 enables commercial fusion power |
-| 2050  | Material Scarcity Ends | Space resources make most elements abundant |
+| 2038  | Orbital Manufacturing | First products manufactured in zero gravity |
+| 2043  | First Asteroid Mining | Platinum-group metals extracted from near-Earth asteroid |
+| 2048  | Permanent Lunar Base | 50 people living on Moon continuously |
+| 2053  | Mars Colony Established | First 100 settlers arrive on Mars |
+| 2057  | Mining Setback | Asteroid extraction harder than expected; progress slows |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Nano-Mining Revolution | Nano-biomachines enable asteroid processing in space |
-| 2058  | Europa Mission Success | Evidence of life discovered in subsurface ocean |
-| 2060  | Interstellar Probe Launch | First probe to reach another star system in 100 years |
-| 2065  | Orbital Habitats Thrive | 100,000+ people living in space permanently |
-| 2068  | Elemental Synthesis Achieved | Nano-biomachines transmute elements; mining becomes obsolete |
-| 2070  | **Post-Scarcity Space Era** | **Space accessible to all; resources unlimited** |
+| 2064  | Mining Breakthrough | New techniques make extraction viable |
+| 2069  | Fusion Breakthrough | Space-mined helium-3 enables commercial fusion power |
+| 2072  | **The Abundance Discovery** | **Massive rare-earth deposits found in asteroid belt ("Cornucopia")** |
+| 2075  | Asteroid Mining Boom | Rare elements flood market; material economy shakes |
+| 2079  | Material Scarcity Ends | Space resources make most elements abundant |
+| 2083  | Europa Mission Success | Evidence of life discovered in subsurface ocean |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2088  | Nano-Mining Revolution | Nano-biomachines enable asteroid processing in space |
+| 2092  | Interstellar Probe Launch | First probe to reach another star system in 100 years |
+| 2096  | Orbital Habitats Thrive | 150,000+ people living in space permanently |
+| 2099  | Elemental Synthesis Achieved | Nano-biomachines transmute elements; mining becomes obsolete |
+| 2100  | **Post-Scarcity Space Era** | **Space accessible to all; resources unlimited** |
 
 ## Key Developments
 

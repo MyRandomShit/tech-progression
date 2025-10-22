@@ -2,31 +2,38 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | Smart City Infrastructure | IoT sensors monitor and optimize all urban systems |
-| 2026  | Self-Healing Materials | Concrete and steel that repair their own damage |
-| 2027  | 3D-Printed Buildings | Entire structures printed in days, not months |
-| 2028  | Living Buildings | Structures incorporating biological systems for sustainability |
-| 2029  | Programmable Architecture | Buildings reshape themselves based on occupancy needs |
-| 2030  | Molecular Construction | Nano-assemblers build structures atom by atom |
+| 2026  | Smart City Infrastructure | IoT sensors monitor and optimize all urban systems |
+| 2028  | Self-Healing Materials | Concrete and steel that repair their own damage |
+| 2030  | 3D-Printed Buildings | Entire structures printed in days, not months |
+| 2033  | Living Buildings | Structures incorporating biological systems for sustainability |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2035  | Bio-Integrated Cities | Urban infrastructure grows like organisms, self-maintaining |
-| 2040  | Cellular-Scale Engineering | Nano-fabrication for infrastructure maintenance |
-| 2045  | Adaptive Materials | Buildings composed of trillions of reconfigurable nano-units |
-| 2050  | Living Infrastructure | Roads, bridges, buildings are technically alive |
+| 2038  | Programmable Architecture | Buildings reshape themselves based on occupancy needs |
+| 2043  | Molecular Construction | Nano-assemblers build structures atom by atom |
+| 2048  | Material Failure | Living buildings die from infections; bio-integration paused |
+| 2053  | Disease-Resistant Materials | After 5 years, immune bio-materials developed |
+| 2058  | Bio-Integrated Cities | Urban infrastructure grows like organisms, self-maintaining |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Hive-Coordinated Construction | Swarms of nano-machines build and maintain structures |
-| 2060  | Biological-Digital Cities | Urban environments as hybrid organisms |
-| 2065  | Conscious Infrastructure | Buildings with distributed intelligence via embedded biomachines |
-| 2070  | **Post-Construction Era** | **Structures grown, maintained, and evolved by nano-biomachines** |
+| 2065  | Cellular-Scale Engineering | Nano-fabrication for infrastructure maintenance |
+| 2071  | Adaptive Materials | Buildings composed of trillions of reconfigurable nano-units |
+| 2077  | Living Infrastructure | Roads, bridges, buildings are technically alive |
+| 2083  | Hive-Coordinated Construction | Swarms of nano-machines build and maintain structures |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2089  | Biological-Digital Cities | Urban environments as hybrid organisms |
+| 2095  | Conscious Infrastructure | Buildings with distributed intelligence via embedded biomachines |
+| 2099  | Architecture Reaches Limits | Physics constraints on living structures understood |
+| 2100  | **Post-Construction Era** | **Structures grown, maintained, and evolved by nano-biomachines** |
 
 ## Key Developments
 

@@ -2,31 +2,39 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | Cryptocurrency Maturation | Digital currencies achieve mainstream stability and adoption |
-| 2026  | Universal Basic Income Trials | Major nations implement AI-optimized UBI systems |
-| 2027  | Contribution Metrics | First "social credit" systems measuring technological contributions |
-| 2028  | Automated Value Assessment | AI algorithms quantify individual impact on society |
-| 2029  | Post-Scarcity Economics | 3D printing and automation make basic goods nearly free |
-| 2030  | Merit-Based Currency Experiment | First nations trial contribution-based economic systems |
+| 2026  | Cryptocurrency Maturation | Digital currencies achieve mainstream stability and adoption |
+| 2028  | Universal Basic Income Trials | Major nations implement AI-optimized UBI systems |
+| 2030  | Contribution Metrics | First "social credit" systems measuring technological contributions |
+| 2033  | Economic Crisis | Traditional capitalism shows strain; automation destroys jobs |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2035  | The Great Fracture | Global economy splits into Material-Backed and Contribution-Based systems |
-| 2040  | AI Economic Governance | Self-optimizing algorithms manage entire national economies |
-| 2045  | Rare Element Wars | Competition for lithium, rare earths drives Material economy |
-| 2050  | Parallel Economies Formalized | Two distinct economic philosophies govern different regions |
+| 2037  | Automated Value Assessment | AI algorithms quantify individual impact on society |
+| 2042  | Post-Scarcity Economics | Nano-manufacturing makes basic goods nearly free |
+| 2047  | Merit-Based Currency Experiment | First nations trial contribution-based economic systems |
+| 2052  | The Great Fracture | Global economy splits into Material-Backed and Contribution-Based systems |
+| 2058  | Rare Element Wars | Competition for lithium, rare earths drives Material economy |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Nano-Manufacturing Crisis | Biomachines can create anything; material scarcity ends |
-| 2060  | Contribution Currency Dominance | 70% of global economy operates on merit-based allocation |
-| 2065  | Material Economy Collapse | Nano-biomachines synthesize rare elements; material backing fails |
-| 2070  | **Post-Money Society** | **Value measured purely by innovation and societal contribution** |
+| 2063  | AI Economic Governance | Self-optimizing algorithms manage entire national economies |
+| 2068  | Parallel Economies Formalized | Two distinct economic philosophies govern different regions |
+| 2072  | Cornucopia Discovery | Asteroid find threatens material-backed currencies |
+| 2077  | Nano-Manufacturing Crisis | Biomachines can create anything; material scarcity ends |
+| 2082  | Contribution Currency Dominance | 70% of global economy operates on merit-based allocation |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2088  | Material Economy Collapse | Nano-biomachines synthesize rare elements; material backing fails |
+| 2093  | Transition Complete | 90% on contribution system; holdouts economically marginalized |
+| 2098  | Universal Post-Scarcity | Even unintegrated benefit from material abundance |
+| 2100  | **Post-Money Society** | **Value measured purely by innovation and societal contribution** |
 
 ## Key Developments
 

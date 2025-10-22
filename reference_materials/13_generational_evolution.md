@@ -2,17 +2,19 @@
 
 ## Overview of Generations
 
-| Generation | Birth Years | Age in 2025 | Age in 2070 | Defining Characteristics |
+| Generation | Birth Years | Age in 2035 | Age in 2100 | Defining Characteristics |
 |------------|-------------|-------------|-------------|--------------------------|
-| Gen X | 1965-1980 | 45-60 | 90-105 | Analog childhood, digital adulthood; skeptical but adaptable |
-| Millennials | 1981-1996 | 29-44 | 74-89 | Internet natives; idealistic but economically stressed |
-| Gen Z | 1997-2012 | 13-28 | 58-73 | Mobile natives; anxious but socially conscious |
-| Gen Alpha | 2013-2024 | 1-12 | 46-57 | AI natives; first generation with constant connectivity |
-| **Integration Gen** | 2025-2034 | 0 in 2025 | 36-45 | First with nano-biomachines from birth; Global Union natives |
-| **Contribution Gen** | 2035-2044 | - | 26-35 | Never knew material economy; contribution system natives |
-| **Post-National Gen** | 2045-2054 | - | 16-25 | No concept of nations; genetically optimized; space-curious |
-| **Post-Scarcity Gen** | 2055-2064 | - | 6-15 | Never knew scarcity; disease-free; some space-born |
-| **Cosmic Gen** | 2065-2070 | - | 0-5 | Born into post-human era; multi-planetary |
+| Gen X | 1965-1980 | 55-70 | 120-135 (most deceased) | Analog childhood, digital adulthood; skeptical but adaptable |
+| Millennials | 1981-1996 | 39-54 | 104-119 | Internet natives; idealistic but economically stressed |
+| Gen Z | 1997-2012 | 23-38 | 88-103 | Mobile natives; anxious but socially conscious |
+| Gen Alpha | 2013-2024 | 11-22 | 76-87 | AI natives; first generation with constant connectivity |
+| **Transition Gen** | 2025-2034 | 1-10 | 66-75 | First with early nano-biomachines; Global Union formation |
+| **Integration Gen** | 2035-2044 | 0 in 2035 | 56-65 | Global Union natives; contribution economy from birth |
+| **Contribution Gen** | 2045-2054 | - | 46-55 | Never knew traditional work; genetically optimized |
+| **Post-National Gen** | 2055-2064 | - | 36-45 | No concept of nations; space-curious; nano-enhanced |
+| **Post-Scarcity Gen** | 2065-2074 | - | 26-35 | Never knew scarcity; disease-free; some space-born |
+| **Convergence Gen** | 2075-2084 | - | 16-25 | Human-AI merger normalized |
+| **Cosmic Gen** | 2085-2100 | - | 0-15 | Born into post-human era; multi-planetary |
 
 ## Detailed Generational Profiles
 

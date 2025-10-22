@@ -2,31 +2,38 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Employment Reality | Automation Level | New Roles Emerging |
 |-------|-------------------|------------------|-------------------|
-| 2025  | Traditional jobs declining | 30% automated | AI trainers, prompt engineers |
-| 2026  | Gig economy dominant | 40% automated | Nano-tech researchers, gene editors |
-| 2027  | Universal basic income trials | 50% automated | Virtual world architects, AI ethicists |
-| 2028  | Mass unemployment crisis | 60% automated | Space resource analysts, bio-designers |
-| 2029  | Contribution experiments begin | 65% automated | Cellular programmers, experience curators |
-| 2030  | "Employment" concept wavering | 70% automated | Consciousness researchers, reality shapers |
+| 2026  | Traditional jobs declining | 30% automated | AI trainers, prompt engineers |
+| 2028  | Gig economy dominant | 40% automated | Nano-tech researchers, gene editors |
+| 2030  | Universal basic income trials | 50% automated | Virtual world architects, AI ethicists |
+| 2033  | Mass unemployment crisis | 60% automated | Space resource analysts, bio-designers |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
+| Year  | Employment Reality | Automation Level | New Roles Emerging |
+|-------|-------------------|------------------|-------------------|
+| 2038  | Contribution experiments begin | 65% automated | Cellular programmers, experience curators |
+| 2043  | "Employment" concept wavering | 72% automated | Consciousness researchers, reality shapers |
+| 2048  | Jobs → Contributions | 78% automated | Innovation, creativity, care work |
+| 2053  | Traditional employment rare | 85% automated | Hyper-specialized expertise |
+| 2058  | Contribution economy standard | 90% automated | Human-AI collaboration roles |
+
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Work Reality | Automation Level | Contribution Focus |
 |-------|--------------|------------------|-------------------|
-| 2035  | Jobs → Contributions | 80% automated | Innovation, creativity, care work |
-| 2040  | Traditional employment rare | 90% automated | Hyper-specialized expertise |
-| 2045  | Contribution economy standard | 95% automated | Human-AI collaboration roles |
-| 2050  | "Job" concept obsolete | 98% automated | Meaning-making, exploration |
+| 2063  | "Job" concept obsolete | 94% automated | Meaning-making, exploration |
+| 2069  | AI-orchestrated activity | 96% automated | Frontier research, artistry |
+| 2075  | Fluid specialization normal | 98% automated | Purpose exploration, philosophy |
+| 2081  | Post-work society | 99% automated | What humans choose to do |
 
-### 2050-2070 Era (Book 03)
+### 2085-2100 Era (Book 03 - The Culmination)
 | Year  | Contribution Reality | Automation Level | Human Focus |
 |-------|---------------------|------------------|-------------|
-| 2055  | AI-orchestrated activity | 99% automated | Frontier research, artistry |
-| 2060  | Fluid specialization normal | 99.5% automated | Purpose exploration, philosophy |
-| 2065  | Post-work society | 99.8% automated | What humans choose to do |
-| 2070  | Human contribution = being human | 99.9% automated | Consciousness, creativity, connection |
+| 2088  | Human contribution = choice | 99.3% automated | Consciousness, creativity, connection |
+| 2093  | AI does all "work" | 99.6% automated | Being, experiencing, evolving |
+| 2098  | Post-labor civilization | 99.8% automated | Pure human expression |
+| 2100  | Human contribution = being human | 99.9% automated | Consciousness, creativity, connection |
 
 ## Detailed Occupation Evolution
 

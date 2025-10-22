@@ -2,31 +2,38 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Dominant Weapons | Warfare Type | Key Development | Arms Control |
 |-------|------------------|--------------|-----------------|--------------|
-| 2025  | Guns, missiles, drones | Hybrid conventional | AI-assisted targeting | Traditional treaties |
-| 2026  | Autonomous drones emerge | Drone swarms | Lethal autonomous weapons | UN debates ban |
-| 2027  | AI battle management | Cyber-kinetic | Directed energy weapons | Regional restrictions |
-| 2028  | Smart ammunition | Network-centric | EMP weapons mature | GU forms standards |
-| 2029  | Swarm warfare | Distributed conflict | Nano-weapon prototypes | Partial bans |
-| 2030  | Autonomous dominance | Post-human scale | Guns becoming obsolete | GU defense pact |
+| 2026  | Guns, missiles, drones | Hybrid conventional | AI-assisted targeting | Traditional treaties |
+| 2028  | Autonomous drones emerge | Drone swarms | Lethal autonomous weapons | UN debates ban |
+| 2030  | AI battle management | Cyber-kinetic | Directed energy weapons | Regional restrictions |
+| 2033  | Smart ammunition | Network-centric | EMP weapons mature | GU forms standards |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Dominant Weapons | Warfare Type | Key Development | Arms Control |
 |-------|------------------|--------------|-----------------|--------------|
-| 2035  | Drone swarms, lasers | AI-coordinated | Personal firearms obsolete | GU monopoly |
-| 2040  | Nano-weapons possible | Deterrence-based | Biological integration | Global ban treaties |
-| 2045  | Energy weapons | Precision strikes | Nano-disruptors | Total prohibition attempts |
-| 2050  | Space-based systems | Mostly defensive | Consciousness weapons | Post-warfare era begins |
+| 2038  | Swarm warfare | Distributed conflict | Nano-weapon prototypes | Partial bans |
+| 2043  | Autonomous dominance | Post-human scale | Guns becoming obsolete | GU defense pact |
+| 2048  | Drone swarms, lasers | AI-coordinated | Personal firearms obsolete | GU monopoly |
+| 2053  | Nano-weapons possible | Deterrence-based | Biological integration | Global ban treaties |
+| 2058  | Energy weapons | Precision strikes | Nano-disruptors | Total prohibition attempts |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Dominant Weapons | Warfare Type | Key Development | Control Reality |
 |-------|------------------|--------------|-----------------|-----------------|
-| 2055  | Information warfare | Cognitive | Reality manipulation | AI enforcement |
-| 2060  | Nano-biomachine control | Biological | Mind control possible | Absolute GU control |
-| 2065  | Consciousness disruption | Existential | Can kill without trace | Ethics debates |
-| 2070  | **Theoretical horrors** | **None (peace)** | **Could end humanity** | **Tightly controlled** |
+| 2063  | Space-based systems | Mostly defensive | Consciousness weapons | Post-warfare era begins |
+| 2069  | Information warfare | Cognitive | Reality manipulation | AI enforcement |
+| 2075  | Nano-biomachine control | Biological | Mind control possible | Absolute GU control |
+| 2081  | Consciousness disruption | Existential | Can kill without trace | Ethics debates |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Dominant Weapons | Warfare Type | Key Development | Control Reality |
+|-------|------------------|--------------|-----------------|-----------------|
+| 2088  | Existence-level weapons | Deterrence only | Nano-plague capability | Total AI control |
+| 2093  | Theoretical horrors | None (peace) | Could end humanity | Tightly controlled |
+| 2098  | Locked in AI vaults | No conflicts | Ultimate weapons exist | Nobody can access |
+| 2100  | **Weapons obsolete** | **Peace or MAD** | **AI holds all keys** | **Post-violence era** |
 
 ## Detailed Evolution
 

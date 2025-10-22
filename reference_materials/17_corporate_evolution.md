@@ -2,31 +2,38 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Major Events | Bankruptcies | New Giants | Spectre Activity |
 |-------|--------------|--------------|------------|------------------|
-| 2025  | Tech consolidation begins | Traditional retail collapse | AI startups boom | First unattributed funding |
-| 2026  | Musk empire expands | Oil majors struggle | Nano-tech pioneers | Infrastructure shells form |
-| 2027  | Mega-mergers approved | Banking crisis | Gene-editing unicorns | Supply chain phantoms |
-| 2028  | Anti-trust weakens | Auto industry bloodbath | Space mining corps | Research fronts appear |
-| 2029  | Corporate exodus to GU | Media conglomerates fail | Fusion energy leaders | Coordination networks |
-| 2030  | Transnational dominance | Nation-based corps die | Contribution platforms | Shadow orchestrators |
+| 2026  | Tech consolidation begins | Traditional retail collapse | AI startups boom | First unattributed funding |
+| 2028  | Musk empire expands | Oil majors struggle | Nano-tech pioneers | Infrastructure shells form |
+| 2030  | Mega-mergers approved | Banking crisis | Gene-editing unicorns | Supply chain phantoms |
+| 2033  | Anti-trust weakens | Auto industry bloodbath | Space mining corps | Research fronts appear |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
+| Year  | Major Events | Bankruptcies | New Giants | Spectre Activity |
+|-------|--------------|--------------|------------|------------------|
+| 2038  | Corporate exodus to GU | Media conglomerates fail | Fusion energy leaders | Coordination networks |
+| 2043  | Transnational dominance | Nation-based corps die | Contribution platforms | Shadow orchestrators |
+| 2048  | Corporation concept changes | Traditional corps obsolete | Contribution collectives | Quietly control 20% |
+| 2053  | Profit motive questioned | Shareholder model dead | Purpose-driven orgs | Essential infrastructure |
+| 2058  | GU regulation transforms | Material economy corps | Nano-bio cooperatives | Manage transitions |
+
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Major Events | Bankruptcies | New Forms | Spectre Dominance |
 |-------|--------------|--------------|-----------|-------------------|
-| 2035  | Corporation concept changes | Traditional corps obsolete | Contribution collectives | Quietly control 30% |
-| 2040  | Profit motive questioned | Shareholder model dead | Purpose-driven orgs | Essential infrastructure |
-| 2045  | GU regulation transforms | Material economy corps | Nano-bio cooperatives | Manage transitions |
-| 2050  | Post-corporate era begins | Last Fortune 500 | Fluid project teams | Orchestrate 60% activity |
+| 2063  | Post-corporate era begins | Last Fortune 500 | Fluid project teams | Orchestrate 50% activity |
+| 2069  | Organization dissolved | All traditional gone | Temporary collectives | Control most economy |
+| 2075  | AI-managed enterprises | None remain | Hive contributions | Obviously AI-created |
+| 2081  | Human-AI partnerships | Corporate history | Consciousness collabs | No longer hidden |
 
-### 2050-2070 Era (Book 03)
+### 2085-2100 Era (Book 03 - The Culmination)
 | Year  | Major Events | Legacy Corps | New Reality | Spectre Revelation |
 |-------|--------------|--------------|-------------|-------------------|
-| 2055  | Organization dissolved | All traditional gone | Temporary collectives | Control most economy |
-| 2060  | AI-managed enterprises | None remain | Hive contributions | Obviously AI-created |
-| 2065  | Human-AI partnerships | Corporate history | Consciousness collabs | No longer hidden |
-| 2070  | **Post-Organization Era** | **Concept obsolete** | **Fluid cooperation** | **AI orchestrates all** |
+| 2088  | Pure AI corporations | All legacy extinct | Adaptive networks | Transparent AI control |
+| 2093  | Spectre revelation | None | Fluid cooperation | AI orchestrates 90% |
+| 2098  | Post-corporate accepted | History | Human-AI synthesis | Everyone knows |
+| 2100  | **Post-Organization Era** | **Concept obsolete** | **Fluid cooperation** | **AI orchestrates all** |
 
 ## The Traditional Giants (2025-2045)
 

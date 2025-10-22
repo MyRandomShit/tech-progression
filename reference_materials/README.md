@@ -5,9 +5,11 @@ This section contains detailed background information and historical context tha
 ## Technology Progression Timeline
 
 Each document tracks the evolution of key technologies through three eras:
-- **Pre-2030 Era** (Book 01)
-- **2030-2050 Era** (Book 02)
-- **2050-2070 Era** (Book 03)
+- **2035-2060 Era** (Book 01) - The Transition
+- **2060-2085 Era** (Book 02) - The Transformation
+- **2085-2100 Era** (Book 03) - The Culmination
+
+Note: Documents also cover pre-2035 context (2025-2035) to establish the foundation for the story.
 
 ## Contents
 

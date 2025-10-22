@@ -2,31 +2,39 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | Atomic Layer Printing | 3D printing with single-atom precision |
-| 2026  | Self-Assembling Materials | Molecules organize into complex structures autonomously |
-| 2027  | DNA Origami Manufacturing | Biological molecules folded into precise nano-structures |
-| 2028  | Molecular Assembly Lines | Artificial ribosomes build custom molecules |
-| 2029  | Programmable Matter | Materials that reshape themselves on command |
-| 2030  | Cellular Factories | Modified bacteria produce complex nano-machines |
+| 2026  | Atomic Layer Printing | 3D printing with single-atom precision |
+| 2028  | Self-Assembling Materials | Molecules organize into complex structures autonomously |
+| 2030  | DNA Origami Manufacturing | Biological molecules folded into precise nano-structures |
+| 2033  | Contamination Problem | Molecular assembly plagued by impurities; yield <10% |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2035  | Enzyme-Directed Assembly | Proteins guide construction of hybrid bio-machines |
-| 2040  | Quantum-Controlled Fabrication | Quantum states direct molecular positioning with perfect precision |
-| 2045  | Living Assembly Systems | Cells engineered to build machines as they grow |
-| 2050  | Sub-Cellular Manufacturing | Organelles repurposed as nano-machine fabrication plants |
+| 2039  | Clean Room Breakthrough | Ultra-pure environments solve contamination; assembly viable |
+| 2043  | Molecular Assembly Lines | Artificial ribosomes build custom molecules |
+| 2048  | Programmable Matter | Materials that reshape themselves on command |
+| 2053  | Cellular Factories | Modified bacteria produce complex nano-machines |
+| 2058  | Enzyme-Directed Assembly | Proteins guide construction of hybrid bio-machines |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Autonomous Nano-Fabricators | Self-replicating machines build copies and variants |
-| 2060  | In-Vivo Manufacturing | Biomachines constructed inside living organisms |
-| 2065  | Hive-Coordinated Assembly | Trillions of nano-units build complex structures collectively |
-| 2070  | **Evolutionary Biomachine Production** | **Nano-units self-replicate and evolve within biological hosts** |
+| 2064  | Quantum-Controlled Fabrication | Quantum states direct molecular positioning with perfect precision |
+| 2070  | Living Assembly Systems | Cells engineered to build machines as they grow |
+| 2075  | Replication Disaster | Self-replicating machines go rogue; global moratorium |
+| 2079  | Safety Protocols | After 4-year freeze, controlled self-replication allowed |
+| 2083  | Sub-Cellular Manufacturing | Organelles repurposed as nano-machine fabrication plants |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2088  | Autonomous Nano-Fabricators | Self-replicating machines build copies and variants (controlled) |
+| 2093  | In-Vivo Manufacturing | Biomachines constructed inside living organisms |
+| 2097  | Hive-Coordinated Assembly | Trillions of nano-units build complex structures collectively |
+| 2100  | **Evolutionary Biomachine Production** | **Nano-units self-replicate and evolve within biological hosts** |
 
 ## Key Developments
 

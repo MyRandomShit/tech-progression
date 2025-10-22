@@ -2,36 +2,41 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | Continuous Health Monitoring | Wearables track all vital signs in real-time |
-| 2026  | CRISPR Disease Prevention | First widespread genetic disease elimination in embryos |
-| 2027  | Personalized Nutrition AI | Individual metabolic optimization through AI analysis |
-| 2028  | Cancer Detection Revolution | AI detects cancers years before symptoms appear |
-| 2029  | Organ Printing Advances | 3D-printed organs reduce transplant waiting lists |
-| 2030  | Average Lifespan: 82 years | Incremental improvements in developed nations |
+| 2026  | Continuous Health Monitoring | Wearables track all vital signs in real-time |
+| 2028  | CRISPR Disease Prevention | First widespread genetic disease elimination in embryos |
+| 2030  | Personalized Nutrition AI | Individual metabolic optimization through AI analysis |
+| 2033  | Cancer Detection Revolution | AI detects cancers years before symptoms appear |
+| 2034  | Average Lifespan: 81 years | Incremental improvements in developed nations |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2032  | First Major Disease Eradicated | Alzheimer's eliminated through genetic therapy |
-| 2035  | Cellular Age Reversal | Limited cellular rejuvenation treatments available |
-| 2038  | Most Cancers Curable | 95% cancer survival rate with early detection |
-| 2040  | Average Lifespan: 92 years | Significant gains from disease prevention |
-| 2045  | Genetic Optimization Legal | Designer babies with enhanced health become accepted |
-| 2048  | Cardiovascular Disease Rare | Heart disease becomes preventable condition |
-| 2050  | Average Lifespan: 98 years | Healthspan extends with lifespan |
+| 2038  | Organ Printing Advances | 3D-printed organs reduce transplant waiting lists |
+| 2043  | First Major Disease Eradicated | Alzheimer's eliminated through genetic therapy |
+| 2048  | Cellular Age Reversal | Limited cellular rejuvenation treatments available |
+| 2052  | Most Cancers Curable | 95% cancer survival rate with early detection |
+| 2056  | Average Lifespan: 90 years | Significant gains from disease prevention |
+| 2059  | Genetic Optimization Legal | Designer babies with enhanced health become accepted (controversial) |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Nano-Biomachine Health Monitors | Internal monitoring at cellular level becomes standard |
-| 2058  | Aging Significantly Slowed | Cellular senescence controlled via nano-interventions |
-| 2060  | Average Lifespan: 105 years | Centenarians common, active into 90s |
-| 2065  | Last Infectious Diseases Fall | Bacterial and viral diseases effectively eliminated |
-| 2068  | Genetic Optimization Standard | All newborns receive health-optimizing modifications |
-| 2070  | Average Lifespan: 115 years | 150+ possible for those with full nano-integration |
+| 2064  | Cardiovascular Disease Rare | Heart disease becomes preventable condition |
+| 2069  | Average Lifespan: 98 years | Healthspan extends with lifespan |
+| 2074  | Nano-Biomachine Health Monitors | Internal monitoring at cellular level becomes standard |
+| 2079  | Aging Significantly Slowed | Cellular senescence controlled via nano-interventions |
+| 2083  | Average Lifespan: 107 years | Centenarians common, active into 90s |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2088  | Last Infectious Diseases Fall | Bacterial and viral diseases effectively eliminated |
+| 2093  | Genetic Optimization Standard | All newborns receive health-optimizing modifications |
+| 2098  | Average Lifespan: 118 years | 150+ possible for those with full nano-integration |
+| 2100  | Healthspan = Lifespan | Active and healthy until final months of life |
 
 ## Key Developments
 

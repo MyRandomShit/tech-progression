@@ -2,31 +2,39 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | 6G Networks | Terahertz frequencies enable 1 Tbps speeds |
-| 2026  | Quantum Key Distribution | Unhackable communication via quantum entanglement |
-| 2027  | Neural Interface Protocols | Direct brain-computer communication standards established |
-| 2028  | Mesh Network Revolution | Devices auto-form decentralized communication webs |
-| 2029  | Molecular Antennas | DNA-based receivers for cellular-scale communication |
-| 2030  | Biophotonic Signals | Living cells communicate via engineered light emissions |
+| 2026  | 6G Networks | Terahertz frequencies enable 1 Tbps speeds |
+| 2029  | Quantum Key Distribution | Unhackable communication via quantum entanglement |
+| 2031  | Neural Interface Protocols | Direct brain-computer communication standards established |
+| 2034  | Mesh Network Revolution | Devices auto-form decentralized communication webs |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2035  | Quantum Mesh Networks | Entangled particles enable instant coordination across distances |
-| 2040  | Cellular Communication Grid | Modified cells act as biological relay stations |
-| 2045  | Nano-Scale Transceivers | Microscopic devices communicate via molecular signals |
-| 2050  | Bioelectric Networks | Living tissue carries data alongside neural signals |
+| 2039  | Molecular Antennas | DNA-based receivers for cellular-scale communication |
+| 2044  | Biophotonic Signals | Living cells communicate via engineered light emissions |
+| 2048  | Quantum Decoherence Problem | Entangled networks lose sync; 5-year setback |
+| 2053  | Quantum Mesh Networks | After fixes, entangled particles enable instant coordination |
+| 2058  | Cellular Communication Grid | Modified cells act as biological relay stations |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Quantum Coherence Linking | Billions of nano-devices maintain entangled communication |
-| 2060  | Hive Mind Communication Protocol | Distributed consciousness via synchronized quantum states |
-| 2065  | Intracellular Signal Networks | Organelles serve as communication hubs within cells |
-| 2070  | **Biomachine Swarm Intelligence** | **Instant coordination of trillions of nano-units via quantum hive network** |
+| 2064  | Nano-Scale Transceivers | Microscopic devices communicate via molecular signals |
+| 2070  | Bioelectric Networks | Living tissue carries data alongside neural signals |
+| 2075  | Interference Crisis | Nano-signals interfere with biological processes; major redesign |
+| 2079  | Quantum Coherence Linking | After isolation protocols, billions of nano-devices coordinate |
+| 2084  | Hive Mind Communication Protocol | Distributed consciousness via synchronized quantum states |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2089  | Intracellular Signal Networks | Organelles serve as communication hubs within cells |
+| 2094  | Bandwidth Limitations | Trillion-node coordination hits physical limits |
+| 2098  | Breakthrough Solution | Hierarchical protocols solve bandwidth problem |
+| 2100  | **Biomachine Swarm Intelligence** | **Instant coordination of trillions of nano-units via quantum hive network** |
 
 ## Key Developments
 

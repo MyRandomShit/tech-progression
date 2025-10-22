@@ -2,35 +2,41 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | EU Expansion Initiative | European Union announces global membership framework |
-| 2026  | Singapore Accession | First non-European nation joins EU; historic precedent set |
-| 2027  | Philippines Joins | Second Asian nation joins; EU becomes transcontinental |
-| 2028  | Pacific-Atlantic Union | EU officially rebrands as the "Global Union" (GU) |
-| 2029  | Mass Applications | 40+ nations apply for Global Union membership |
-| 2030  | United Nations Reform | UN restructured around new geopolitical reality |
+| 2026  | EU Expansion Initiative | European Union announces global membership framework |
+| 2028  | Singapore Accession | First non-European nation joins EU; historic precedent set |
+| 2030  | Philippines Joins | Second Asian nation joins; EU becomes transcontinental |
+| 2032  | Pacific-Atlantic Union | EU officially rebrands as the "Global Union" (GU) |
+| 2034  | Mass Applications | 40+ nations apply for Global Union membership |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2035  | Continental Blocs Form | Asia-Pacific Alliance, American Federation, African Coalition emerge |
-| 2037  | Russia Collapses | Putin betrayed by military; federation fragments |
-| 2040  | The Great Convergence | Three major blocs control 85% of global population |
-| 2042  | American West Secedes | Pacific states and allies break from USA |
-| 2045  | Border Fluidity | Physical borders become less relevant; digital citizenship emerges |
-| 2048  | Western States Join GU | Former US territories become Global Union members |
-| 2050  | Post-National Identity | People identify by values and contributions, not birthplace |
+| 2037  | United Nations Reform | UN restructured around new geopolitical reality |
+| 2042  | Continental Blocs Form | Asia-Pacific Alliance, American Federation, African Coalition emerge |
+| 2047  | Russia Collapses | Putin betrayed by military; federation fragments |
+| 2052  | The Great Convergence | Three major blocs control 85% of global population |
+| 2056  | American West Secedes | Pacific states and allies break from USA |
+| 2059  | Border Fluidity | Physical borders become less relevant; digital citizenship emerges |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Unified Earth Government Proposal | First serious attempt at planetary-scale governance |
-| 2058  | Global Congress Established | Representative democracy sets rules for AI government assistant |
-| 2060  | Economic Bloc Integration | Material and Contribution economies cross traditional borders |
-| 2065  | AI-Mediated Governance | Quantum-AI implements policies under Congressional oversight |
-| 2070  | **Post-Border World** | **Nation-states obsolete; humanity organized by shared values and contribution systems** |
+| 2063  | Western States Join GU | Former US territories become Global Union members |
+| 2068  | Post-National Identity | People identify by values and contributions, not birthplace |
+| 2073  | Unified Earth Government Proposal | First serious attempt at planetary-scale governance |
+| 2078  | Global Congress Established | Representative democracy sets rules for AI government assistant |
+| 2083  | Economic Bloc Integration | Material and Contribution economies cross traditional borders |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2088  | AI-Mediated Governance | Quantum-AI implements policies under Congressional oversight |
+| 2093  | Post-National Standard | 90% identify by contribution, not nation |
+| 2098  | Final Holdouts Integrate | Last traditional nations join or become irrelevant |
+| 2100  | **Post-Border World** | **Nation-states obsolete; humanity organized by shared values and contribution systems** |
 
 ## Key Developments
 

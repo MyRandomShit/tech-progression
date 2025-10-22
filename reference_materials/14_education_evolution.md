@@ -2,36 +2,40 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | AI Tutors Mainstream | Personalized AI teaching assistants in 60% of schools |
-| 2026  | Knowledge Obsolescence | Traditional memorization becomes pointless with AI access |
-| 2027  | Skill-Based Curriculum | Schools shift from facts to critical thinking and creativity |
-| 2028  | Lifelong Learning Platforms | Continuous education replaces "finished" education |
-| 2029  | Credential Collapse | Degrees lose value; demonstrated skill becomes currency |
-| 2030  | Education Unbundled | Traditional schools compete with AI-native alternatives |
+| 2026  | AI Tutors Mainstream | Personalized AI teaching assistants in 60% of schools |
+| 2028  | Knowledge Obsolescence | Traditional memorization becomes pointless with AI access |
+| 2030  | Skill-Based Curriculum | Schools shift from facts to critical thinking and creativity |
+| 2033  | Credential Collapse | Degrees lose value; demonstrated skill becomes currency |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2032  | AI Master Teachers | AI can teach anything to anyone at optimal pace |
-| 2035  | Contribution Education | Learning focused on maximizing societal contribution |
-| 2038  | Neural Interface Learning | Direct knowledge transfer via brain-computer interface |
-| 2042  | Hyper-Specialization Era | People master ultra-narrow fields, AI connects specialists |
-| 2045  | Job Concept Fades | "Career" replaced by "contribution portfolio" |
-| 2048  | AI Resource Allocation Begins | System quietly matches skills to needs |
-| 2050  | Education as Lifestyle | Learning never stops, constantly evolving |
+| 2037  | Lifelong Learning Platforms | Continuous education replaces "finished" education |
+| 2041  | Education Unbundled | Traditional schools compete with AI-native alternatives |
+| 2045  | AI Master Teachers | AI can teach anything to anyone at optimal pace |
+| 2050  | Contribution Education | Learning focused on maximizing societal contribution |
+| 2055  | Neural Interface Learning | Direct knowledge transfer via brain-computer interface |
+| 2059  | Hyper-Specialization Era | People master ultra-narrow fields, AI connects specialists |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Nano-Enhanced Learning | Cognitive optimization via nano-biomachines |
-| 2058  | Perfect Skill Matching | AI allocates human talent optimally without anyone noticing |
-| 2060  | Expertise Fluidity | Switch specializations monthly; AI manages transitions |
-| 2065  | Collective Intelligence | Hive-mind collaboration between specialists |
-| 2068  | Post-Credential Society | Skills verified in real-time by nano-monitoring |
-| 2070  | **Invisible Allocation Era** | **AI orchestrates all human activity; feels like free choice** |
+| 2064  | Job Concept Fades | "Career" replaced by "contribution portfolio" |
+| 2069  | AI Resource Allocation Begins | System quietly matches skills to needs |
+| 2074  | Education as Lifestyle | Learning never stops, constantly evolving |
+| 2079  | Nano-Enhanced Learning | Cognitive optimization via nano-biomachines |
+| 2083  | Perfect Skill Matching | AI allocates human talent optimally without anyone noticing |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2088  | Expertise Fluidity | Switch specializations monthly; AI manages transitions |
+| 2093  | Collective Intelligence | Hive-mind collaboration between specialists |
+| 2097  | Post-Credential Society | Skills verified in real-time by nano-monitoring |
+| 2100  | **Invisible Allocation Era** | **AI orchestrates all human activity; feels like free choice** |
 
 ## Key Developments
 

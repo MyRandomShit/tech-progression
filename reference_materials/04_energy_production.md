@@ -2,31 +2,40 @@
 
 ## Timeline Overview
 
-### Pre-2030 Era (Book 01)
+### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2025  | Solid-State Batteries | 500 Wh/kg lithium-metal batteries commercialized |
-| 2026  | Graphene Supercapacitors | Ultra-fast charge/discharge with high power density |
-| 2027  | Ambient Energy Harvesting | Devices power themselves from environmental energy |
-| 2028  | Molecular Batteries | Single-molecule charge storage demonstrated |
-| 2029  | Biological Fuel Cells | Modified mitochondria generate electrical power |
-| 2030  | Quantum Dot Energy Storage | Nano-scale batteries with 10,000 Wh/kg density |
+| 2026  | Solid-State Batteries | 500 Wh/kg lithium-metal batteries commercialized |
+| 2028  | Graphene Supercapacitors | Ultra-fast charge/discharge with high power density |
+| 2030  | Ambient Energy Harvesting | Devices power themselves from environmental energy |
+| 2033  | Molecular Batteries | Single-molecule charge storage demonstrated |
 
-### 2030-2050 Era (Book 02)
+### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2035  | ATP Synthesis Reactors | Artificial cells generate biological energy currency |
-| 2040  | Piezoelectric Nanofibers | Materials convert all movement to electrical energy |
-| 2045  | Nuclear Isomer Batteries | Femtowatt nuclear cells for decades-long nano-power |
-| 2050  | Cellular Power Parasites | Nano-devices harvest energy from living cells' ATP |
+| 2038  | Biological Fuel Cells | Modified mitochondria generate electrical power |
+| 2042  | Quantum Dot Energy Storage | Nano-scale batteries with 10,000 Wh/kg density |
+| 2046  | Degradation Crisis | Molecular batteries lose capacity after weeks; major problem |
+| 2051  | ATP Synthesis Reactors | After stability fixes, artificial cells generate biological energy |
+| 2056  | Piezoelectric Nanofibers | Materials convert all movement to electrical energy |
+| 2059  | Fusion Breakthrough | Space-mined helium-3 enables commercial fusion power |
 
-### 2050-2070 Era (Book 03)
+### 2060-2085 Era (Book 02 - The Transformation)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
-| 2055  | Quantum Vacuum Energy | Zero-point energy tapped at nano-scale |
-| 2060  | Photosynthetic Nanomachines | Artificial chloroplasts power biomachines |
-| 2065  | Enzymatic Cascade Reactors | Protein-based energy generation in living tissue |
-| 2070  | **Perpetual Biomachine Power** | **Self-sustaining nano-units harvest energy from cellular metabolism** |
+| 2063  | Nuclear Isomer Batteries | Femtowatt nuclear cells for decades-long nano-power |
+| 2069  | Cellular Power Parasites | Nano-devices harvest energy from living cells' ATP |
+| 2073  | Metabolic Disruption | Energy harvesting causes cell damage; 4-year pause |
+| 2077  | Safe Harvesting Protocol | After redesign, non-harmful energy extraction from cells |
+| 2082  | Quantum Vacuum Energy | Zero-point energy tapped at nano-scale (controversial) |
+
+### 2085-2100 Era (Book 03 - The Culmination)
+| Year  | Milestone | Description |
+|-------|-----------|-------------|
+| 2088  | Photosynthetic Nanomachines | Artificial chloroplasts power biomachines |
+| 2093  | Enzymatic Cascade Reactors | Protein-based energy generation in living tissue |
+| 2097  | Efficiency Limits | Physics constrains further miniaturization |
+| 2100  | **Perpetual Biomachine Power** | **Self-sustaining nano-units harvest energy from cellular metabolism** |
 
 ## Key Developments
 
