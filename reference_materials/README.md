@@ -11,6 +11,7 @@ Each document tracks the evolution of key technologies through three eras:
 
 ## Contents
 
+### Technology Progressions
 1. [Computer Processor](./01_computer_processor.md)
 2. [Programming Complexity](./02_programming_complexity.md)
 3. [Communication](./03_communication.md)
@@ -19,6 +20,9 @@ Each document tracks the evolution of key technologies through three eras:
 6. [Transportation](./06_transportation.md)
 7. [Bioengineering](./07_bioengineering.md)
 8. [Civil Engineering](./08_civil_engineering.md)
+
+### Societal Transformations
+9. [Economic Systems](./09_economic_systems.md) - The upheaval of traditional finance and the split into Material-Backed vs. Contribution-Based economies
 
 ---
 
