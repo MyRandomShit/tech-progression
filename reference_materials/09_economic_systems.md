@@ -64,14 +64,17 @@ The global economy split along philosophical lines:
    - Art, culture, and creative works
    - Education and mentorship
    - Community building and social harmony
-   - Environmental restoration
+   - Environmental restoration and conservation
    - Care work and emotional labor
+   - Sustainable practices and ecological improvements
 
 2. **AI Allocation**: Quantum-AI systems calculate contribution value
    - Real-time assessment of societal benefit
-   - Long-term impact predictions
+   - Long-term impact predictions (including environmental consequences)
    - Collective consensus modeling
    - Weighted by scarcity of contribution type
+   - **Environmental Impact Multiplier**: Positive ecological work earns bonus allocation
+   - **Destruction Penalty**: Environmentally harmful activities incur currency deductions
 
 3. **Currency Generation**: Digital tokens created as reward
    - Can't be stolen (biometrically linked via nano-biomachines)
@@ -128,6 +131,7 @@ By 2070:
 4. **Temporal Currency**: Tokens decay to prevent wealth accumulation
 5. **Biological Integration**: Nano-biomachines in bodies serve as wallets and authenticators
 6. **Universal Access**: Basic needs free; advanced capabilities earned through merit
+7. **Ecological Accountability**: Environmental impact directly affects economic standing
 
 **Philosophical Tensions:**
 
@@ -148,6 +152,59 @@ The shift from ownership to contribution fundamentally changed human behavior:
 - **From employment to purpose**: Work no longer means "job" but "meaningful contribution"
 - **From class by wealth to class by contribution**: Social hierarchy based on impact, not possessions
 
+### Environmental Economic Policy
+
+**The Ecological Imperative (2040-2070)**
+
+The AI contribution system implements strict environmental accountability:
+
+**Rewards for Environmental Work:**
+- **Ecosystem Restoration**: 2-5x contribution multiplier
+  - Reforestation, ocean cleaning, species revival
+  - Soil regeneration and watershed restoration
+  - Atmospheric carbon sequestration
+  
+- **Sustainable Innovation**: 1.5-3x multiplier
+  - Zero-waste manufacturing processes
+  - Closed-loop systems development
+  - Regenerative agriculture and bio-integration
+
+- **Conservation**: 1.5-2x multiplier
+  - Habitat protection and biodiversity preservation
+  - Education on ecological balance
+  - Community sustainability initiatives
+
+**Penalties for Environmental Destruction:**
+- **Minor Impact**: -10% to -50% currency deduction
+  - Excessive resource consumption
+  - Waste generation beyond recycling capacity
+  - Unnecessary carbon emissions
+
+- **Moderate Impact**: -50% to -200% deduction
+  - Pollution of water or air
+  - Habitat disruption
+  - Non-sustainable resource extraction
+
+- **Severe Impact**: -200% to -1000% deduction
+  - Ecosystem destruction
+  - Species endangerment
+  - Large-scale environmental damage
+  - Results in "contribution debt" requiring ecological restoration work
+
+**Monitoring System:**
+- Nano-biomachines track individual environmental footprint
+- AI calculates real-time ecological impact of all activities
+- Carbon, waste, and resource usage continuously measured
+- Long-term environmental consequences factored into contribution scores
+- No hiding: Every action's ecological cost is transparent
+
+**Result by 2070:**
+- Environmental destruction becomes economically ruinous
+- Ecological restoration among highest-paid "professions"
+- Humanity's net environmental impact becomes positive
+- Earth recovering from centuries of industrial damage
+- Working with nature more profitable than working against it
+
 ### Integration with Nano-Biomachines
 
 By 2070, the economic system and nano-biomachines are inseparable:
@@ -155,6 +212,7 @@ By 2070, the economic system and nano-biomachines are inseparable:
 - **Identity**: Biomachines provide unforgeable biological authentication
 - **Transactions**: Currency transfers happen at thought-speed via neural interfaces
 - **Verification**: AI constantly validates contributions through biomachine monitoring
+- **Environmental Tracking**: Biomachines measure personal ecological footprint in real-time
 - **Access Control**: Premium services gate-kept by biomachine verification of merit balance
 - **Inequality**: Those without biomachine integration locked out of contribution economy
 
@@ -183,6 +241,9 @@ By 2070, the economic system and nano-biomachines are inseparable:
 5. **Power Concentration**: Who controls the AI that judges contribution?
 6. **The Holdouts**: Are those rejecting the system free rebels or left behind?
 7. **Human Purpose**: When survival is guaranteed, what drives people?
+8. **Environmental Surveillance**: Is constant ecological monitoring necessary or invasive?
+9. **Nature's Value**: Should environmental work be the highest-paid contribution?
+10. **Ecological Debt**: Can you ever repay severe environmental damage through restoration work?
 
 ---
 
