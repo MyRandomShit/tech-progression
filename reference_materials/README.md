@@ -30,6 +30,7 @@ Each document tracks the evolution of key technologies through three eras:
 14. [Education Evolution](./14_education_evolution.md) - The transformation of learning through AI, hyper-specialization, fluid careers, and how AI quietly orchestrates human talent allocation
 15. [Occupation Evolution](./15_occupation_evolution.md) - The complete transformation from traditional jobs to fluid contributions, tracking what disappeared, what emerged, and how work became purposeful existence
 16. [Interface and Information](./16_interface_and_information.md) - The evolution from screens to neural interfaces, the solution to misinformation, and how we consume information and entertainment in the post-truth era
+17. [Corporate Evolution](./17_corporate_evolution.md) - The rise and fall of corporate giants, visionary founders, mysterious AI-orchestrated "spectre companies," and the transition from corporations to fluid collectives
 
 ---
 
