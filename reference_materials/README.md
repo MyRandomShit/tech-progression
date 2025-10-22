@@ -27,6 +27,8 @@ Each document tracks the evolution of key technologies through three eras:
 11. [Human Health](./11_human_health.md) - The slow, realistic progression of health monitoring, nutrition, disease elimination, and genetic optimization leading to 115-year lifespans
 12. [Space Exploration](./12_space_exploration.md) - The journey to becoming a spacefaring civilization, asteroid mining, and the discovery of "Cornucopia" that triggered material economy collapse
 13. [Generational Evolution](./13_generational_evolution.md) - How each generation from Gen X to those born in 2070 experienced and shaped the transformation of humanity
+14. [Education Evolution](./14_education_evolution.md) - The transformation of learning through AI, hyper-specialization, fluid careers, and how AI quietly orchestrates human talent allocation
+15. [Occupation Evolution](./15_occupation_evolution.md) - The complete transformation from traditional jobs to fluid contributions, tracking what disappeared, what emerged, and how work became purposeful existence
 
 ---
 
