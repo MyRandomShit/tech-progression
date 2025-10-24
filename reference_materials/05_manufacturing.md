@@ -38,6 +38,18 @@
 
 ## Key Developments
 
+### The Ukraine War Impact (2024-2034)
+
+The decade-long war significantly delayed nanotechnology development:
+- **3-5 Year Delay**: Nano-technology development postponed as resources redirected to conventional weapons
+- **Military Priority**: Nano-research focused on materials for armor, not civilian applications
+- **Funding Diverted**: European nano-research lost 45% of funding to military production
+- **Infrastructure Delays**: Advanced fabrication facilities postponed or converted to military use
+- **Talent Shortage**: Researchers recruited to optimize artillery production and drone manufacturing
+- **Accelerated Recovery**: Post-war (2035+) investment surge compensated somewhat
+
+This "lost decade" pushed nano-manufacturing breakthroughs from the 2030s into the 2040s, fundamentally reshaping the timeline for molecular assembly and self-replication technologies.
+
 ### Production Methods
 Manufacturing descended from macro to molecular scale, then integrated with biology:
 - **Atomic precision** (2025-2030): Building structures atom by atom

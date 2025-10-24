@@ -5,18 +5,20 @@
 ### Foundation Era (Pre-2035 Context)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
+| 2024-2034 | **The Ukraine War** | **Decade-long war of attrition; European military industry overdrive; technology development delayed** |
 | 2026  | EU Expansion Initiative | European Union announces global membership framework |
 | 2028  | Singapore Accession | First non-European nation joins EU; historic precedent set |
 | 2030  | Philippines Joins | Second Asian nation joins; EU becomes transcontinental |
 | 2032  | Pacific-Atlantic Union | EU officially rebrands as the "Global Union" (GU) |
-| 2034  | Mass Applications | 40+ nations apply for Global Union membership |
+| 2034  | **The Nuclear Incident** | **Putin attempts nuclear strike on Kyiv; warhead detonates over Russia; "The Intervention"** |
+| 2034  | **Putin's Fall** | **Coup, trial, and mysterious death; Russia begins fragmentation** |
 
 ### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Milestone | Description |
 |-------|-----------|-------------|
 | 2037  | United Nations Reform | UN restructured around new geopolitical reality |
 | 2042  | Continental Blocs Form | Asia-Pacific Alliance, American Federation, African Coalition emerge |
-| 2047  | Russia Collapses | Putin betrayed by military; federation fragments |
+| 2047  | Russia Fully Fragments | Final breakup of Russian successor states; regional powers emerge |
 | 2052  | The Great Convergence | Three major blocs control 85% of global population |
 | 2056  | American West Secedes | Pacific states and allies break from USA |
 | 2059  | Border Fluidity | Physical borders become less relevant; digital citizenship emerges |
@@ -126,17 +128,128 @@ Nations that joined the Global Union:
 - **Russia**: Rejected for failing democratic and human rights standards (later collapsed)
 - **India**: Initially applied but withdrew over sovereignty concerns
 
-### The Russian Collapse (2037)
+### The Ukraine War and The Nuclear Incident (2024-2034)
 
-**Background:**
+**The Decade of Attrition (2024-2034):**
 
-Russia under Putin had rejected Global Union membership, failing to meet democratic standards. Instead, it attempted to form the Eastern Prosperity Coalition with China, hoping to create an authoritarian alternative to the GU.
+What began as Russia's invasion of Ukraine in 2022 became a grinding, decade-long war of attrition that reshaped European politics, military industry, and technological development priorities.
 
-**The Military Betrayal:**
+**Phase 1: The Long Grind (2024-2029)**
 
-By 2037, multiple pressures converged:
-- Economic stagnation from isolation and sanctions
-- Military losses in regional conflicts
+- **European Military Revolution**: European defense industry went into overdrive
+  - Military spending increased 400% across EU nations
+  - Dormant factories reopened; new production facilities built
+  - Artillery shell production increased from thousands to millions per year
+  - Drone technology rapidly advanced through battlefield testing
+  - AI-assisted targeting systems developed under wartime pressure
+
+- **Ukrainian Transformation**: Ukrainian culture underwent profound change
+  - Similar to Israel's transformation after 1948
+  - Entire society militarized but remained democratic
+  - Universal military service became cultural norm
+  - Tech sector pivoted to defense applications
+  - National identity forged in resistance
+  - "Never again" became defining principle
+
+- **Technology Development Delays**: The war redirected resources and talent
+  - Civilian AI research slowed as military applications took priority
+  - Nano-technology development delayed 3-5 years
+  - Bio-engineering faced ethical scrutiny and funding cuts
+  - European infrastructure investment postponed
+  - Silicon Valley talent drain to defense contractors
+
+**Phase 2: The Escalation (2030-2033)**
+
+By 2030, the war had become frozen along established lines:
+- Neither side could break through
+- Both economies strained to breaking point
+- Russian casualties exceeded 500,000
+- Ukrainian cities in ruins, but resistance unbroken
+- Europe united in support but war-weary
+- Global supply chains permanently disrupted
+
+**Phase 3: The Nuclear Incident (2034)**
+
+**The Broadcast (March 15, 2034):**
+
+Putin, facing internal pressure and military stalemate, made the catastrophic decision to launch a nuclear strike. Russian state television broadcast a chilling warning to Ukraine and the world:
+
+- Live broadcast showed nuclear launch preparations
+- 30-minute warning to Kyiv's civilian population
+- Putin's speech: "Ukraine will cease to exist as a nation"
+- Global panic; emergency meetings at UN
+- No time for evacuation; 3 million people trapped in Kyiv
+
+**The Detonation (March 15, 2034, 11:47 AM):**
+
+The nuclear warhead, launched from Russian territory and headed for Kyiv, detonated mid-flight over the Bryansk region of Russia - 200 kilometers inside Russian borders.
+
+- Massive explosion visible from space
+- Russian military command lost contact with the missile
+- Warhead detonated at altitude, reducing ground damage but creating visible mushroom cloud
+- Fallout drifted northeast, away from Ukraine
+- Radioactive contamination in Russian territory
+
+**The Unknown Intervention:**
+
+What caused the detonation remains history's greatest mystery:
+
+- **No military claimed responsibility** - not USA, not China, not any nation
+- **No radar detected interceptor missiles**
+- **Russian telemetry showed "unexplained system malfunction"**
+- **Witnesses reported "bright flash of light" before detonation**
+- **Electronic systems in region experienced simultaneous failure**
+
+Theories ranged from:
+- Secret American space-based defense system
+- Chinese intervention to prevent nuclear escalation
+- Defection within Russian military command
+- Advanced technology from unknown source
+- Divine intervention (seriously debated in religious circles)
+
+**The truth was never discovered. The incident is simply known as "The Intervention."**
+
+**Phase 4: The Collapse (2034-2035)**
+
+**Immediate Aftermath:**
+
+- Putin attempted to blame "Western sabotage"
+- Russian military knew the truth: the system had failed
+- Panic spread through Russian command structure
+- Generals realized Putin's madness would destroy Russia
+- Mass desertions from military units
+- Russian citizens turned against regime
+
+**The Coup (April 2034):**
+
+- Military commanders arrested Putin in emergency meeting
+- Bloodless coup; Putin offered no resistance
+- Transitional government formed by reform-minded generals
+- Immediate ceasefire with Ukraine declared
+- International observers invited into Russia
+
+**The Trial (June-September 2034):**
+
+- Putin tried for war crimes at International Criminal Court
+- Overwhelming evidence presented
+- Convicted on all counts
+- Sentenced to life imprisonment
+
+**The Death (October 12, 2034):**
+
+- Putin found dead in his cell
+- Official cause: suicide by hanging
+- Unofficial theories: assassination by former allies, allowed "suicide" by guards
+- Nobody really knows the truth
+- Most Russians didn't care - the monster was gone
+
+**The Aftermath:**
+
+- Russia fragmented into several successor states (2035-2037)
+- Ukraine began massive rebuilding with international support
+- Europe emerged militarily powerful but economically strained
+- The nuclear taboo reinforced by the horror of how close it came
+- "The Intervention" became subject of endless speculation and study
 - Elite dissatisfaction with Putin's leadership
 - Younger generation demanding integration with global economy
 - China treating Russia as junior partner, not equal

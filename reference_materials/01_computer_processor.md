@@ -39,6 +39,17 @@
 
 ## Key Developments
 
+### The Ukraine War Impact (2024-2034)
+
+The decade-long Russia-Ukraine war significantly delayed civilian computing research:
+- **Military AI Priority**: Best talent and funding diverted to battlefield applications
+- **Research Funding Cuts**: Civilian quantum computing programs lost 40% of European funding
+- **Talent Drain**: Silicon Valley engineers recruited to defense contractors
+- **3-5 Year Delay**: Quantum computing commercialization pushed from 2028 to 2033-2035
+- **Silver Lining**: Battlefield AI advances later accelerated civilian applications
+
+This crisis fundamentally reshaped computing priorities, delaying the timeline for consumer quantum systems but accelerating military AI that later benefited civilian technology.
+
 ### Processing Architecture
 The evolution from silicon to biological substrates enabled computing at the cellular and sub-cellular level. The path was not smooth—multiple setbacks, safety concerns, and technical failures delayed progress by decades. Key breakthroughs included:
 - **Quantum coherence** at room temperature (finally achieved 2048 after initial 2028 failure)

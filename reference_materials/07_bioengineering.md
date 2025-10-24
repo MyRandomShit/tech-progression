@@ -41,6 +41,18 @@
 
 ## Key Developments
 
+### The Ukraine War Impact (2024-2034)
+
+The decade-long war had severe effects on bioengineering research:
+- **Ethical Scrutiny Intensified**: Public horror at biological warfare threats led to stricter oversight
+- **Funding Cuts**: European research budgets slashed 35% as military spending soared
+- **Brain Drain**: Top bioengineers recruited for defense projects (bio-sensors, medical treatments for combat injuries)
+- **Public Distrust**: Fear of "designer soldiers" and biological weapons set back human trials
+- **Delayed Timeline**: Human CRISPR trials postponed; safety scandal (2029) compounded by war anxiety
+- **Military Applications**: Rapid healing, infection resistance, trauma recovery advanced quickly but stayed classified
+
+The war created a "lost decade" (2024-2034) where civilian bioengineering research stagnated while military applications thrived in secret. This bifurcation would have lasting effects on public trust and regulatory frameworks.
+
 ### Medical Advances
 Bioengineering progressed from editing genes to creating hybrid life-machine systems—but the path was treacherous:
 - **Precision genome editing** (2025-2038): Perfect control, but deadly mistakes taught harsh lessons
