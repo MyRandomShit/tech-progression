@@ -13,6 +13,13 @@ Note: Documents also cover pre-2035 context (2025-2035) to establish the foundat
 
 ## Contents
 
+### ⚠️ Secret History (MAJOR SPOILERS)
+**[00. SECRET HISTORY - DO NOT READ UNTIL FINISHING THE STORY](./00_secret_history.md)**
+
+This document reveals the hidden truth behind technological progress and explains events that characters in the story are unaware of. **Reading this will spoil major plot reveals throughout all three books.**
+
+---
+
 ### Technology Progressions
 1. [Computer Processor](./01_computer_processor.md)
 2. [Programming Complexity](./02_programming_complexity.md)
