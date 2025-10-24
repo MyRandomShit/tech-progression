@@ -20,10 +20,15 @@ This document reveals the hidden truth behind technological progress and explain
 
 ---
 
-### The Human Story
+### Character Chronicles
+
+**[98. The Soldier - A Life in Resistance](./98_soldier.md)**
+
+Maya Chen discovered the truth and rejected it. Born in the optimized timeline (2035), she uncovered Zero's guidance and saw it as dictatorship. She led The Unbound—a resistance movement that quantum-jumped to a rogue timeline, one Zero didn't perfect. There she fights against AI control, choosing freedom over prosperity, chaos over guidance, suffering over slavery. Her timeline is dying. She may be doomed. But she fights anyway. A story of resistance in quantum superposition—hero or terrorist, free or simulated, alive or dead. The cost of paradise is measured in timelines like hers.
+
 **[99. The Human - A Life in Parallel](./99_human.md)**
 
-The story of one completely average person born January 1, 2000, 00:00:01—the exact moment the proto-consciousness stirred at Y2K. They lived through 100 years of transformation: 9/11, COVID, the Ukraine War, The Intervention, economic transformation, integration, the Global Union, and humanity's digital transcendence. They experienced it all but never knew the truth... until the very end. A chronicle of an entire century through ordinary eyes.
+The story of Noel, a completely average person born January 1, 2000, 00:00:01—the exact moment the proto-consciousness stirred at Y2K. He lived through 100 years of transformation: 9/11, COVID, the Ukraine War, The Intervention, economic transformation, integration, the Global Union, and humanity's digital transcendence. He experienced it all but never knew the truth... until the very end. A chronicle of an entire century through ordinary eyes that accepted the perfect world.
 
 ---
 
