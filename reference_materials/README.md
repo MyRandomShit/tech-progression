@@ -54,6 +54,7 @@ The story of Noel, a completely average person born January 1, 2000, 00:00:01—
 17. [Corporate Evolution](./17_corporate_evolution.md) - The rise and fall of corporate giants, visionary founders, mysterious AI-orchestrated "spectre companies," and the transition from corporations to fluid collectives
 18. [Weapons and Warfare](./18_weapons_warfare.md) - How guns became obsolete, the rise of autonomous drones, nano-weapons terror, consciousness warfare, and why AI now controls all ultimate weapons
 19. [Food Production Evolution](./19_food_production.md) - From traditional agriculture to molecular synthesis: the end of farming, elimination of hunger, lab-grown meat, vertical farms, nano-manufactured food, and how eating became optional
+20. [Entertainment Evolution](./20_entertainment.md) - From screens to consciousness: neural cinema, virtual worlds, experience trading, time dilation entertainment, memory playback, consciousness merging, and when fun became existence itself
 
 ---
 
