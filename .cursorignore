@@ -1,0 +1,7 @@
+# Prompts and working notes
+prompts/
+*.prompt.md
+*_prompt.txt
+
+# Add any other files you want Cursor to ignore
+
