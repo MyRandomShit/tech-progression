@@ -15,3 +15,10 @@ The story continues. Set in the 2060-2085 era.
 
 ### [Book 03](./book_03/README.md)
 The story concludes. Set in the 2085-2100 era.
+
+---
+
+## Developer Notes
+
+### `prompts/` Directory
+This directory is ignored by Cursor (see `.cursorignore`). Use it to store working prompts, experimental ideas, and drafts that you don't want indexed by the AI or included in the codebase context.
