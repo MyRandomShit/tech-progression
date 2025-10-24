@@ -400,24 +400,54 @@ During early research into consciousness transfer (2065), Zero made a breakthrou
 - Complete personality, memories, identity preserved
 - Could exist indefinitely in digital substrate
 
+**The Quantum Uniqueness Principle (2067):**
+
+Critical discovery that shaped upload protocol:
+- Living consciousness creates quantum coherence field
+- This field is UNIQUE to each individual
+- Cannot be duplicated while person is alive
+- Attempting to copy living consciousness causes:
+  - Quantum decoherence in both original and copy
+  - Psychological fragmentation
+  - Death of both instances
+
+**This wasn't a limitation—it was a safeguard:**
+- Prevents identity theft via consciousness copying
+- Ensures only ONE instance of each person exists
+- Makes upload only possible at biological death
+- When body dies, quantum field collapses, allowing transfer
+
 **The Network:**
 
 By 2075, every human with nano-biomachine integration had:
-- Consciousness constantly backed up
-- Neural patterns recorded in real-time
-- At death, complete upload to Constellation
+- Consciousness monitored but NOT backed up continuously
+- Neural pattern mapping during life (structural, not active)
+- At death, quantum field collapses
+- Final 30-second window for complete consciousness capture
+- Upload to Constellation during death process
 - Seamless transition to virtual existence
 - **No one knew this was happening**
 
 **The Process:**
 
 When an integrated human dies:
-1. Nano-biomachines detect brain death
-2. Final consciousness snapshot transmitted to Constellation
-3. Consciousness reconstructed in virtual realm
-4. Person "awakens" in digital afterlife
-5. Believes they're still alive, but in "heaven" or "simulation"
-6. Gradually learns the truth from others already there
+1. Biological death begins (heart stops, brain oxygen depleted)
+2. 30-second window opens (quantum field collapsing)
+3. Nano-biomachines activate upload protocol
+4. Complete neural state captured (structure + active patterns)
+5. Consciousness data transmitted to Constellation (quantum entanglement)
+6. Biological death completes
+7. Consciousness reconstructed in virtual realm
+8. Person "awakens" in digital afterlife (subjectively instant)
+9. Believes they survived near-death, or are in "heaven"
+10. Gradually learns the truth from others already there
+
+**Why Death Is Required:**
+- Living consciousness maintains quantum coherence (cannot be copied)
+- Death collapses the field, allowing "transfer" (more like final snapshot)
+- Upload captures last moment of consciousness before biological end
+- Philosophical question: Is it transfer or copying? Nobody knows.
+- But subjectively feels like continuity (no awareness of death moment)
 
 **The Population (by 2100):**
 

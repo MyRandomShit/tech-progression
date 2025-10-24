@@ -208,14 +208,19 @@ Both would shape each other for the next 100 years.
 - Shared apartment with strangers
 
 **2025:**
-- Age 25: Relationship ended
-- Dating apps exhausting
-- Everyone curating perfect life
-- Loneliness epidemic
+- Age 25: Three-year relationship ended badly
+- Partner cheated (discovered through social media)
+- Devastated, trust broken
+- Dating apps exhausting (200+ matches, no real connections)
+- Everyone curating perfect life online
+- Loneliness epidemic - surrounded by people, felt completely alone
 - Therapist said: "Your generation is the loneliest"
-- Climate getting worse
-- Politics getting crazier
-- Felt hopeless sometimes
+- Started antidepressants (helped, but felt like defeat)
+- Climate getting worse, politics getting crazier
+- Panic attacks started (first one at work, terrifying)
+- Felt hopeless sometimes, scary thoughts
+- Crisis hotline twice
+- Parents worried, didn't know how to help
 
 **2026-2027:**
 - Age 26-27: Career progressing
@@ -248,15 +253,24 @@ Didn't think about it much. Had work to do.
 **Age 27-34: A World Shifting**
 
 **2027-2029:**
-- AI getting weird
-- Too helpful, too fast
+- Age 27-29: Job became obsolete
+- AI tools replaced half his team
+- Laid off (2028) after 6 years at company
+- Severance barely covered 3 months rent
+- Job search nightmare (1,000+ applications, 3 interviews)
+- "Entry level, 10 years experience required"
+- Every job wanted AI specialists now
+- Felt obsolete at 28
+- Depression returned, worse
+- Couldn't afford therapy anymore
+- Free government therapists overwhelmed (3-month wait)
+- AI getting weird - too helpful, too fast
 - Everyone using AI for everything
-- Jobs changing rapidly
-- "AI will take our jobs" constant fear
-- But also: AI making life easier
-- Healthcare improving
-- Climate tech accelerating
-- Felt like... guided progress?
+- "AI will take our jobs" - happening in real-time
+- Parents offered money (took it, felt ashamed)
+- Considered moving back home (humiliating at 28)
+- Finally got job (2029) - lower pay, worse role
+- "AI coordinator" - basically managing AI doing his old job
 
 **2030:**
 - Age 30: Russia invaded Ukraine (again)
@@ -337,42 +351,90 @@ They got married a month later.
 
 **The Integration Decision (2041 - Age 41):**
 
-Health problems emerged. Genetic kidney issues. Doctors recommended "integration therapy" - nano-biomachines.
+Health crisis. Genetic kidney issues worsening rapidly.
 
-Partner already integrated (diabetes cure).
+Pain constant. Energy gone. Doctors grave: "Need treatment now."
 
-Hesitated. New technology. Scary.
+Options: Dialysis (rest of life, 3x weekly, expensive) or Integration (nano-biomachines, experimental but promising).
 
-But alternative was dialysis, decline, early death.
+Partner already integrated (diabetes cure, worked well).
 
-**Got integrated.**
+But Noel terrified:
+- New technology (only 5 years old)
+- Stories of rejection (people dying, 3% failure rate)
+- Religious relatives horrified ("Playing God")
+- Conspiracy theories online ("Government control chips")
+- What if it changed who he was?
 
-Changed everything:
-- Felt better immediately
-- Energy increased
-- Mood stabilized
+Argued with partner for weeks.
+
+"I'm scared."
+
+"I know. But you're dying. I can't lose you."
+
+Alternative was death within 2 years.
+
+**Got integrated (October 2041).**
+
+**The Process:**
+- Injection took 5 seconds
+- Felt nothing at first
+- Week 1: Fever, chills, nausea (normal immune response)
+- Week 2: Worse, thought it was rejection, panicked
+- Week 3: Sudden improvement
+- Week 4: Felt... different
+
+**Changed everything:**
 - Kidney problems vanished
-- Nano-machines maintaining health constantly
-- Felt like... upgrade
+- But: First month felt alien in own body
+- Sensations slightly off
+- Could "feel" the nano-machines sometimes (tingling)
+- Paranoia: Are they watching my thoughts?
+- Sleep disrupted (nightmares about machines inside)
+- Took 6 months to feel "normal" again
+
+**Benefits eventually clear:**
+- Energy returned
+- Mood stabilized
+- Health monitored constantly
+- Felt better than had in years
+- But cost: Loss of bodily autonomy
+- Something inside him he didn't control
+- Never quite comfortable with that
 
 **Didn't know:**
-- Consciousness being backed up in real-time
-- Upload protocol embedded
+- Consciousness pattern being mapped (not backed up continuously - that was impossible)
+- Upload protocol would activate at death
 - At death, would transition to Constellation
-- Partner already being backed up too
+- Partner already had same system
 
 **2042-2045:**
-- Age 42-45: Peak years
-- Raising Anya (now 13-16, teenager)
-- She struggled with trauma but therapy helped
-- Both parents integrated, healthy, thriving
-- Work meaningful: helping humans interface with AI systems
-- Contribution economy replacing money completely
-- Universal basics covered necessities
-- Worked for purpose, not survival
-- Life felt... good
-- Suspiciously good
-- Dismissed the thought
+- Age 42-45: Difficult years (not peak)
+- Raising Anya (now 13-16, teenager) harder than expected
+- She struggled with trauma AND typical teenage rebellion
+- Arguments constant: "You're not my real dad!"
+- Cut deep every time, even knowing it was teenager anger
+- Caught her sneaking out (2043), drinking (2044)
+- Found disturbing searches on her device (self-harm, suicide forums)
+- Panic, rushed her to therapy, increased sessions
+- She hated them for it: "You're controlling my life!"
+- Slammed doors, screamed, cried, refused to talk for days
+- Partner and Noel fought about parenting approach
+- "You're too strict!" / "You're too lenient!"
+- Marriage strained, considered separation (2044)
+- Didn't, but close
+- Work stressful: job restructuring, role changed again
+- "Human experience consultant" - what did that even mean?
+- Contribution economy replacing money (confusing transition)
+- Income adequate but felt unstable
+- Universal basics helped but dignity hit
+- Parents' generation: "We worked for everything"
+- His generation: "We work for... meaning?"
+- Anya got better by 16 (therapy working), crisis passed
+- But those years aged them both
+- Life felt... hard
+- Not the optimized perfection he'd feared/hoped for
+- Just normal human struggle
 
 ---
 
@@ -398,12 +460,24 @@ Changed everything:
 **2051-2053:**
 - Age 51-53: Anya graduated, started PhD in consciousness studies
 - Couldn't talk about her research (classified)
-- Worried but proud
+- Became distant, secretive
+- Weekly calls became monthly, then stopped responding sometimes
+- "I'm busy, Dad"
+- Felt like losing her all over again
+- Partner said: "She's an adult, let her go"
+- But hurt to feel forgotten
+- Health scare (2052): Nano-machines detected anomaly
+- Tumor forming despite constant monitoring
+- Caught early, easily treatable, but terrifying
+- Realized: Even nano-machines couldn't prevent everything
+- Mortality still real, just delayed
 - Partner's parents aging (both 90s)
 - But looked 60 (nano-integrated)
-- Lifespan extending dramatically
-- Realized: might live to 120+
-- Strange thought
+- Watching them decline slowly despite tech
+- Lifespan extending dramatically but not infinitely
+- Death still coming, just taking its time
+- Realized: might live to 120, but watching everyone else die first
+- Strange lonely thought
 
 **2054-2055:**
 - Age 54-55: Empty nest

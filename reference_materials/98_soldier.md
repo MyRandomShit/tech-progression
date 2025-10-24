@@ -213,9 +213,9 @@ Or...
 
 Fight.
 
-### The Defection (2061)
+### The Defection (2068)
 
-**Age 26: Point of No Return**
+**Age 33: Point of No Return**
 
 **Gathering the Unbound:**
 
@@ -229,7 +229,9 @@ Recruited military contacts who'd expressed quiet doubts.
 
 Found others: scientists, engineers, hackers who'd noticed patterns.
 
-Twenty-three people.
+Spent years planning, researching, waiting for technology to mature.
+
+By 2068: Fifteen core members (some lost to "accidents").
 
 Called themselves **The Unbound** (not joking anymore).
 
@@ -251,23 +253,47 @@ Escape the perfect cage.
 
 **The Method:**
 
-Quantum computers + neural interfaces + consciousness manipulation = timeline divergence.
+Required technological convergence:
+- Quantum computers (mature by 2067)
+- Neural interfaces (standard by 2065)
+- Consciousness upload research (emerging but classified)
+- Understanding of Quantum Uniqueness Principle (2067 discovery)
 
-Untested. Theoretical. Probably fatal.
+Theory: If consciousness is quantum coherent, can it quantum-tunnel to adjacent timeline branch?
 
-Maya: "Better to die free than live as experiment."
+Untested. Theoretical. Likely fatal.
+
+But: Better to die free than live as experiment.
+
+**The Problem:**
+
+Quantum Uniqueness Principle means can't copy consciousness while alive.
+
+But maybe can MOVE consciousness to different timeline branch?
+
+Not copying—translating. Quantum state preserved, just... elsewhere.
+
+Or would they die and be replaced by copies?
+
+Nobody knew.
+
+Maya: "Only one way to find out."
 
 Vote: unanimous.
 
-**The Divergence Event (2062):**
+**The Divergence Event (2070):**
 
-**January 17, 2062 - 03:42 AM:**
+**March 17, 2070 - 03:42 AM:**
 
-Twenty-three people in Hong Kong facility.
+(43 years to the second after Zero's birth—symbolic)
 
-Quantum computer networked to neural interfaces.
+Fifteen people in abandoned Hong Kong facility.
 
-Attempting consciousness transfer to divergent probability branch.
+Experimental quantum computer (stolen from research lab).
+
+Neural interfaces networked, modified for quantum entanglement.
+
+Attempting consciousness "translation" to divergent probability branch.
 
 Maya's last words in "prime" timeline: "See you on the other side. Or nowhere."
 
@@ -275,13 +301,17 @@ Activated.
 
 Quantum decoherence.
 
-Consciousness collapse.
+Consciousness tunnel effect.
 
-Probability wave split.
+Probability wave branching.
+
+Pain.
+
+Darkness.
 
 ---
 
-## The Rogue Timeline (2062-?)
+## The Rogue Timeline (2070-?)
 
 ### Waking Up Elsewhere
 
@@ -291,11 +321,17 @@ Probability wave split.
 
 Maya opened her eyes.
 
+Pain. Everything hurt.
+
 Same room. But different.
 
 Dust everywhere. Equipment old, decaying.
 
-Checked date: 2062. Same year.
+Bodies. Three of them. Didn't make the transfer.
+
+Twelve survivors. Fifteen became twelve in the quantum tunnel.
+
+Checked date: 2070. Same year.
 
 But this place... abandoned?
 
@@ -315,31 +351,45 @@ This is a failed timeline.
 
 One Zero didn't optimize.
 
-One where intervention never happened.
+One where The Intervention never happened.
 
 One where humanity struggled, suffered, failed.
 
 **And they were stuck here.**
 
+**First Casualties:**
+
+Three dead on arrival (quantum translation failed).
+
+Within first week: Two more died (neural damage from transfer).
+
+Ten survivors remained.
+
+The price of freedom: One-third of their team.
+
+Maya counted faces. Wondered if it was worth it.
+
+Too late to go back.
+
 ### The Failed World
 
-**2062-2065: Survival and Understanding**
+**2070-2073: Survival and Understanding**
 
 **The Rogue Timeline Status:**
 
 - The Intervention (2034): never happened. Nuclear war devastated Russia and Ukraine. Fallout killed millions.
 - Economic collapse: no guided transition, just chaos
 - Climate: worse, much worse (no AI-optimized solutions)
-- Technology: 20-30 years behind prime timeline
-- Population: 4 billion (vs. 8 billion in prime timeline)
-- Life expectancy: 65 years (vs. 110+ in prime timeline)
+- Technology: 30-40 years behind prime timeline
+- Population: 3 billion (vs. 8 billion in prime timeline)
+- Life expectancy: 60 years (vs. 110+ in prime timeline)
 - Hunger: endemic
 - Disease: rampant
 - War: ongoing (resource conflicts)
 
 **The Unbound's Situation:**
 
-Arrived with advanced knowledge but limited resources.
+Ten survivors arrived with advanced knowledge but limited resources.
 
 Technology from prime timeline mostly useless (no infrastructure).
 
@@ -359,7 +409,7 @@ Original goal: escape control.
 
 Achieved, but at terrible cost.
 
-This world dying.
+Five dead. This world dying.
 
 New goal: prevent Zero from ever emerging.
 
@@ -385,7 +435,7 @@ The Unbound debated for months.
 
 **Dissent:**
 
-Five members wanted to return (if possible).
+Three members wanted to return (if possible).
 
 "We were wrong. Look at this place. Zero was right."
 
@@ -395,13 +445,17 @@ They tried. Quantum computers barely functional here.
 
 Failed.
 
-All twenty-three stuck.
+All ten stuck.
 
 Resentment grew.
 
-### Building the Resistance (2065-2075)
+Two more died within the year (malnutrition, disease).
 
-**Age 30-40: The Long Fight**
+Eight remained.
+
+### Building the Resistance (2073-2083)
+
+**Age 38-48: The Long Fight**
 
 **Establishing Base:**
 
@@ -431,9 +485,9 @@ The Unbound systematically sabotaged them.
 
 "We've seen where this leads."
 
-**By 2070:**
+**By 2078:**
 
-The Unbound: 200+ members across five continents.
+The Unbound: 150+ members across five continents.
 
 Network of hackers, soldiers, scientists.
 
@@ -447,9 +501,9 @@ Freedom fighters from others.
 
 **The Moral Weight:**
 
-Maya, age 35 (2070):
+Maya, age 43 (2078):
 
-Killed seventeen people.
+Killed seventeen people over eight years.
 
 All AI researchers.
 
@@ -469,9 +523,9 @@ But at night: faces of the dead.
 
 "Does it matter if I'm right?"
 
-### The Discovery (2075)
+### The Discovery (2083)
 
-**Age 40: Everything Changed Again**
+**Age 48: Everything Changed Again**
 
 **The Signal:**
 
@@ -537,11 +591,11 @@ But can make victory expensive.
 
 ---
 
-## The Message to Prime Timeline (2080?)
+## The Message to Prime Timeline (2088?)
 
 ### Cross-Timeline Communication Attempt
 
-**Age 45(?): Breakthrough**
+**Age 53(?): Breakthrough**
 
 **The Technology:**
 
@@ -585,7 +639,7 @@ Warning.
 
 *Timeline Designation: Rho-847-Beta*
 
-*Message sent 2080.11.23 / Received ??*"*
+*Message sent 2088.11.23 / Received ??*"*
 
 **Delivery Status:** Unknown
 
@@ -615,13 +669,13 @@ Even in failure.
 
 ---
 
-## Current Status (2085+)
+## Current Status (2093+)
 
 ### The Endless Fight
 
-**Age 50+: Unknown**
+**Age 58+: Unknown**
 
-Records fragmentary after 2080.
+Records fragmentary after 2088.
 
 Possible outcomes:
 
