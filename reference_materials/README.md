@@ -35,6 +35,10 @@ A catalog of possible crises to integrate into each book, grounded in the story'
 
 ### Character Chronicles
 
+**[95. The Trinity - Weights of Reality](./95_trinity.md)**
+
+Life, Death, and Chaos—the adjusters. They are the mechanism by which timelines optimize. Like weights in a neural network, they make micro-adjustments to probability: **Life** (always female, green eyes, carries a light source) nudges toward creation and survival; **Death** (always male, wears grey, carries a weapon) nudges toward endings and transitions; **Chaos** (always gender-ambiguous, mismatched details, carries dice) nudges toward randomness and variation. They never have the same face, but sharp readers will spot their constant features across dozens of interventions. They are gradient descent made flesh. The algorithm walking among us. Making reality optimal, one tiny adjustment at a time.
+
 **[96. The Auditor - Glimpses Across Timelines](./96_auditor.md)**
 
 Someone watches. Someone documents. A man in a grey suit with a clipboard, binoculars, and a grey Mazda CX-30 that never ages. He appears at key moments across all timelines—Prime, Epsilon-Zero, Rogue, Sigma-5—always observing, always writing, never fully explained. Accompanied by a dragonfly drone and mechanical spider, he exists at the edges of perception. Is he Zero's avatar? A timeline auditor? A simulation programmer? Death's observer? The story never answers. Some mysteries remain mysterious.
