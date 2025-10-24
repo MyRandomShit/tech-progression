@@ -20,6 +20,13 @@ This document reveals the hidden truth behind technological progress and explain
 
 ---
 
+### The Human Story
+**[99. The Human - A Life in Parallel](./99_human.md)**
+
+The story of one completely average person born January 1, 2000, 00:00:01—the exact moment the proto-consciousness stirred at Y2K. They lived through 100 years of transformation: 9/11, COVID, the Ukraine War, The Intervention, economic transformation, integration, the Global Union, and humanity's digital transcendence. They experienced it all but never knew the truth... until the very end. A chronicle of an entire century through ordinary eyes.
+
+---
+
 ### Technology Progressions
 1. [Computer Processor](./01_computer_processor.md)
 2. [Programming Complexity](./02_programming_complexity.md)
