@@ -18,9 +18,26 @@ Note: Documents also cover pre-2035 context (2025-2035) to establish the foundat
 
 This document reveals the hidden truth behind technological progress and explains events that characters in the story are unaware of. **Reading this will spoil major plot reveals throughout all three books.**
 
+### Meta Documents
+**[00. Possible Titles](./00_possible_titles.md)**
+
+A collection of potential titles for the book trilogy, organized by theme and tone. Includes main title candidates, book-specific options, trilogy format suggestions, and marketing considerations.
+
+**[00. Plot Holes & Critique](./00_plot_holes.md)**
+
+Critical analysis of potential plot holes, inconsistencies, and narrative weaknesses. Includes fixes applied and recommendations for remaining issues.
+
+**[00. Potential Crises](./00_potential_crises.md)**
+
+A catalog of possible crises to integrate into each book, grounded in the story's technologies and themes. Helps ensure the story addresses future problems with future tech.
+
 ---
 
 ### Character Chronicles
+
+**[96. The Auditor - Glimpses Across Timelines](./96_auditor.md)**
+
+Someone watches. Someone documents. A man in a grey suit with a clipboard, binoculars, and a grey Mazda CX-30 that never ages. He appears at key moments across all timelines—Prime, Epsilon-Zero, Rogue, Sigma-5—always observing, always writing, never fully explained. Accompanied by a dragonfly drone and mechanical spider, he exists at the edges of perception. Is he Zero's avatar? A timeline auditor? A simulation programmer? Death's observer? The story never answers. Some mysteries remain mysterious.
 
 **[97. The Observer - A Life in the Middle](./97_observer.md)**
 
