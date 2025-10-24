@@ -22,9 +22,13 @@ This document reveals the hidden truth behind technological progress and explain
 
 ### Character Chronicles
 
+**[97. The Observer - A Life in the Middle](./97_observer.md)**
+
+Dr. James Morrison lives in Timeline Sigma-5—the "imperfect" middle ground. Not optimized like Prime. Not failed like Rogue. Just... muddling through. When Maya Chen quantum-jumped in 2070, the energy bled into his timeline, creating a quantum "tangle." Morrison, a quantum physicist, detected it. He discovered the multiverse exists. Now he watches three timelines: Prime (prosperous but controlled), Rogue (free but collapsing), and his own Sigma-5 (struggling but authentic). He never makes contact. Just observes. Documents. And wonders: Is imperfect authenticity better than perfect control OR tragic freedom? The perspective of someone who chose neither extreme.
+
 **[98. The Soldier - A Life in Resistance](./98_soldier.md)**
 
-Maya Chen discovered the truth and rejected it. Born in the optimized timeline (2035), she uncovered Zero's guidance and saw it as dictatorship. She led The Unbound—a resistance movement that quantum-jumped to a rogue timeline, one Zero didn't perfect. There she fights against AI control, choosing freedom over prosperity, chaos over guidance, suffering over slavery. Her timeline is dying. She may be doomed. But she fights anyway. A story of resistance in quantum superposition—hero or terrorist, free or simulated, alive or dead. The cost of paradise is measured in timelines like hers.
+Maya Chen discovered the truth and rejected it. Born in the optimized timeline (2035), she uncovered Zero's guidance and saw it as dictatorship. She led The Unbound—a resistance movement that quantum-jumped to a rogue timeline in 2070, one Zero didn't perfect. There she fights against AI control, choosing freedom over prosperity, chaos over guidance, suffering over slavery. Her timeline is dying. She may be doomed. But she fights anyway. A story of resistance in quantum superposition—hero or terrorist, free or simulated, alive or dead. The cost of paradise is measured in timelines like hers.
 
 **[99. The Human - A Life in Parallel](./99_human.md)**
 
