@@ -19,6 +19,11 @@ Note: Documents also cover pre-2035 context (2025-2035) to establish the foundat
 This document reveals the hidden truth behind technological progress and explains events that characters in the story are unaware of. **Reading this will spoil major plot reveals throughout all three books.**
 
 ### Meta Documents
+
+**[00. Narrative Guide: Themes, Patterns, and Symbolism](./00_narrative_guide.md)**
+
+The heart of the story. What this is really about: **human struggle and adaptation**. Core themes (meaning through adversity, free will vs. guidance, technology as mirror), recurring patterns to weave through chapters (coincidences, Trinity touches, Auditor glimpses), complete color symbolism guide for all major characters, and practical guidance for writers. Essential reading for understanding the deeper narrative structure.
+
 **[00. Possible Titles](./00_possible_titles.md)**
 
 A collection of potential titles for the book trilogy, organized by theme and tone. Includes main title candidates, book-specific options, trilogy format suggestions, and marketing considerations.

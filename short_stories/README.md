@@ -278,6 +278,9 @@ Each story should begin with:
 
 ## Resources
 
+**Essential reading:**
+- `reference_materials/00_narrative_guide.md` - **START HERE**: Themes, patterns, color symbolism, what the story is really about
+
 **Reference the following for accuracy:**
 - `reference_materials/*.md` - All world-building documents
 - `reference_materials/00_secret_history.md` - Zero's true nature (spoilers)
