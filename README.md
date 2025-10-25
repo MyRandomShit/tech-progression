@@ -16,6 +16,9 @@ The story continues. Set in the 2060-2085 era.
 ### [Book 03](./book_03/README.md)
 The story concludes. Set in the 2085-2100 era.
 
+### [Short Stories](./short_stories/README.md)
+Standalone narratives set within the universe. Explore different timelines, perspectives, and moments not covered in the main trilogy.
+
 ---
 
 ## Character Chronicles

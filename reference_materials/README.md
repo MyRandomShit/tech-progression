@@ -41,7 +41,7 @@ Life, Death, and Chaos—the adjusters. They are the mechanism by which timeline
 
 **[96. The Auditor - Glimpses Across Timelines](./96_auditor.md)**
 
-Someone watches. Someone documents. A man in a grey suit with a clipboard, binoculars, and a grey Mazda CX-30 that never ages. He appears at key moments across all timelines—Prime, Epsilon-Zero, Rogue, Sigma-5—always observing, always writing, never fully explained. Accompanied by a dragonfly drone and mechanical spider, he exists at the edges of perception. Is he Zero's avatar? A timeline auditor? A simulation programmer? Death's observer? The story never answers. Some mysteries remain mysterious.
+Someone watches. Someone documents. A man in a black suit with white shirt and black tie, clipboard, binoculars, and a grey Mazda CX-30 that never ages. Everything about him is black and white—perfectly monochrome. He appears at key moments across all timelines—Prime, Epsilon-Zero, Rogue, Sigma-5—always observing, always writing, never fully explained. Accompanied by a black-and-white dragonfly drone and monochrome mechanical spider (advanced post-singularity robots that appear almost alive), he exists at the edges of perception. Is he Zero's avatar? A timeline auditor? The Angel of Infinite Records? The story never answers. Some mysteries remain mysterious.
 
 **[97. The Observer - A Life in the Middle](./97_observer.md)**
 
@@ -83,5 +83,13 @@ The story of Noel, a completely average person born January 1, 2000, 00:00:01—
 
 ---
 
-[← Back to Main](../README.md)
+## Additional Resources
+
+**[Short Stories](../short_stories/README.md)**
+
+Looking to write standalone narratives in this universe? Check out the short stories directory for writing guidelines, prompts, and submission format.
+
+---
+
+[← Back to Main](../README.md) | [Short Stories](../short_stories/README.md)
 

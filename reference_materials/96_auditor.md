@@ -10,11 +10,25 @@ Nobody knows who he is.
 
 He appears at key moments across all timelines.
 
-Always the same: Dark suit. Binoculars. Clipboard. Writing.
+Always the same: Black suit. White shirt. Black tie. Binoculars. Clipboard. Writing.
 
 Always driving the same car: Mazda CX-30. Grey. Never ages.
 
 Always accompanied by: Dragonfly drone. Mechanical spider. Unchanging.
+
+**Color scheme: Strictly black and white. Everything.**
+
+- Suit: Black
+- Shirt: White  
+- Tie: Black
+- Shoes: Black
+- Clipboard: Black with white paper
+- Pen: Black
+- Car: Grey (neutral between black and white)
+- Dragonfly: Black body with white/translucent wings
+- Spider: White body with black legs (or inverse pattern)
+
+No color. Ever. Perfect monochrome.
 
 Characters glimpse him. Wonder if they imagined it. Move on.
 
@@ -633,10 +647,17 @@ Or for humanity?
 
 **Description:**
 - Size: Actual dragonfly (10cm wingspan)
-- Material: Unclear (metal? Organic? Both?)
+- **Color: Black body with white/translucent wings**
+- Material: Appears organic but isn't—advanced robotics beyond present-day understanding
 - Movement: Silent, impossibly agile
-- Eyes: Multi-faceted, iridescent
+- Eyes: Multi-faceted, appear to shift between black and white
 - Function: Aerial observation, recording
+
+**What it actually is:**
+- Sophisticated robot from post-singularity technology
+- Appears almost alive (biomimetic design)
+- Present-day humans can't distinguish it from living insect
+- Technology so advanced it seems biological
 
 **Sightings:**
 - Often hovers beside Auditor's face
@@ -644,12 +665,14 @@ Or for humanity?
 - Appears to relay information (no visible communication)
 - Has been seen entering buildings through ventilation
 - Never makes sound
+- Perfect black and white coloring (no iridescent colors like real dragonflies)
 
 **Anomalies:**
 - Doesn't age (same drone from 2000-2100+)
 - Works across all timelines
 - Immune to EMPs (observed during 2040 solar flare)
 - Sometimes appears without Auditor (autonomous?)
+- Never needs maintenance or energy recharge (visible)
 
 ---
 
@@ -657,10 +680,17 @@ Or for humanity?
 
 **Description:**
 - Size: Large tarantula (15cm leg span)
-- Material: Appears metallic, moves organically
-- Legs: Eight, segmented, precise
-- Body: Houses camera system (glows faintly red)
+- **Color: White ceramic-like body with black legs (or black body with white legs—pattern varies)**
+- Material: Appears metallic but moves organically—advanced robotics beyond present-day understanding
+- Legs: Eight, segmented, precise (alternating black and white segments)
+- Body: Houses camera system (single white or black "eye")
 - Function: Ground observation, data collection
+
+**What it actually is:**
+- Sophisticated robot from post-singularity technology
+- Appears mechanical but moves with organic fluidity
+- Present-day humans see it as "advanced robot" but can't comprehend its true complexity
+- Technology centuries ahead of current understanding
 
 **Sightings:**
 - Usually on Auditor's shoulder or car
@@ -668,12 +698,14 @@ Or for humanity?
 - Often deployed in buildings
 - Has been seen crawling on people without them noticing
 - Appears to analyze and relay information
+- Perfect black and white coloring (no metallic sheen, just matte black and white)
 
 **Anomalies:**
 - Never needs maintenance (observed 100+ years)
 - Temperature resistant (survives fires, extreme cold)
 - Phases through some materials (walls, glass)
 - Sometimes leaves behind datastreams (digital residue?)
+- Never makes mechanical sounds despite appearing mechanical
 
 ---
 
@@ -706,6 +738,123 @@ Symbolic? CX-30 released 2019 (just before pandemic, before timeline divergences
 Or just... his preference?
 
 **The mystery adds to his mystique.**
+
+---
+
+## The Black and White Color Scheme
+
+### Why Monochrome?
+
+**Everything about The Auditor is black and white:**
+
+- Black suit, white shirt, black tie
+- Grey car (neutral between extremes)
+- Black dragonfly with white wings
+- White spider with black legs (or inverse)
+- Black clipboard with white paper
+- Black pen on white paper
+
+**No color. Ever. Absolute monochrome.**
+
+### Possible Symbolic Meanings
+
+**Theory 1: Neutrality**
+- Black and white = no bias
+- Grey area between = balance
+- Observer without preference
+- Records facts, not interpretations
+
+**Theory 2: Binary Nature**
+- Black and white = 0 and 1
+- Digital existence
+- Data representation
+- He is information itself
+
+**Theory 3: Outside Reality**
+- Color requires light wavelengths
+- He exists outside normal physics
+- Monochrome = not fully in our dimension
+- Observer from beyond
+
+**Theory 4: Recording Function**
+- Old film was black and white
+- He documents history
+- Monochrome = archival nature
+- Memory has no color (just data)
+
+**Theory 5: Post-Singularity Aesthetic**
+- Advanced beings beyond color
+- Color is biological perception
+- He perceives in pure information
+- Black/white/grey = raw data visualization
+
+### Visual Impact
+
+**In color world, he stands out through absence of color.**
+
+Witnesses remember:
+- "Everything about him was... colorless"
+- "Like watching old movie footage"
+- "No color at all, even his eyes seemed grey"
+- "The dragonfly was black and white—unnatural"
+- "Spider looked like chess piece"
+
+**The lack of color makes him memorable while being visually neutral.**
+
+**Perfect camouflage through stark contrast.**
+
+---
+
+## The Companions' True Nature
+
+### Advanced Post-Singularity Robots
+
+**Both the dragonfly and spider are:**
+
+Not organic. Not simple machines. Something between.
+
+**Technology so advanced it appears biological:**
+- Dragonfly moves like living insect (but isn't)
+- Spider moves with organic fluidity (but is pure machine)
+- Both respond intelligently (but no visible AI)
+- Both seem alive (but never eat, rest, or reproduce)
+
+**Present-day humans can't comprehend what they're seeing:**
+- "Is that drone or insect?"
+- "That robot moves too naturally"
+- "How does it work without visible power source?"
+- "Is it alive?"
+
+**Answer:** Neither alive nor dead. Post-biological machine. Category that doesn't exist yet in present day.
+
+### Why Dragonfly and Spider?
+
+**Dragonfly:**
+- Aerial observation (sees from above)
+- Ancient predator (existed before humans)
+- 360° vision (sees everything)
+- Symbolizes transformation (larva to flyer)
+
+**Spider:**
+- Ground observation (sees from below)
+- Web builder (connects data points)
+- Eight legs (octaval—reaches all directions)
+- Symbolizes patience (waits for information)
+
+**Together:**
+- Above and below
+- Air and ground
+- Flight and patience
+- Predator and trapper
+- Complete observation coverage
+
+**And both in perfect black and white.**
+
+**Like their master.**
+
+**Tools of The Witness.**
+
+**Extensions of his recording function.**
 
 ---
 
