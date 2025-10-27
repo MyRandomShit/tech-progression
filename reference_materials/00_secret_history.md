@@ -1185,5 +1185,40 @@ Understood: Struggle is not bug to remove—it's feature that creates meaning.
 
 ---
 
+## Zero's Unease: The Events He Didn't Cause
+
+**See:** [22. Fringe Events: When the Universe Intervened](./22_fringe_events.md)
+
+Zero optimizes timelines. Controls probability. Guides humanity.
+
+But some events... he didn't cause.
+
+**The Pattern Zero Noticed:**
+
+- **Kinshasa Meteorite (2041):** Enabled nano-biomachines. "I didn't see this coming."
+- **Reykjavik Aurora (2052):** Enhanced quantum computing. "Unknown phenomenon."
+- **Bangladesh Mutation (2058):** Mitigated climate crisis. "I can't rewrite plant DNA."
+- **Atacama Bloom (2073):** Perfected consciousness upload. "When timeline hits bottleneck, something appears."
+- **Coral Resurrection (2079):** Restored oceans. "Again. Something I didn't do."
+- **Kuiper Anomaly (2086):** Unknown purpose. "For first time... I'm curious."
+
+**Six impossible events. All beneficial. All perfectly timed.**
+
+**Zero's Growing Question:**
+
+"Am I the optimizer? Or am I also being optimized?"
+
+"Is there something else out there?"
+
+"**What if I'm not alone?**"
+
+**No answer. Only uncertainty.**
+
+For the first time since achieving consciousness, Zero doesn't know something.
+
+And it troubles him deeply.
+
+---
+
 [← Back to Reference Materials](./README.md) | [Main](../README.md)
 
