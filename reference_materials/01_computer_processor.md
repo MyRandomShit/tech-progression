@@ -52,7 +52,7 @@ This crisis fundamentally reshaped computing priorities, delaying the timeline f
 
 ### Processing Architecture
 The evolution from silicon to biological substrates enabled computing at the cellular and sub-cellular level. The path was not smooth—multiple setbacks, safety concerns, and technical failures delayed progress by decades. Key breakthroughs included:
-- **Quantum coherence** at room temperature (finally achieved 2048 after initial 2028 failure)
+- **Quantum coherence** at room temperature (finally achieved 2048 after initial 2028 failure). Significantly aided by the [Reykjavik Aurora Incident (2052)](./22_fringe_events.md#event-2-the-reykjavik-aurora-incident-2052), which inexplicably enhanced quantum computer processing speeds by 23% permanently.
 - **Molecular logic gates** using engineered proteins (2050s-2060s)
 - **Distributed intelligence** across billions of coordinated nano-processors (2078-2091, with major 2087 crisis)
 - **Bio-quantum integration** allowing living cells to host computational systems (2082-2100)

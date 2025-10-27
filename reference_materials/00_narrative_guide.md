@@ -560,6 +560,62 @@ When they act on it: Small action → Long-term consequence (months/years later)
 
 **Purpose:** Show how different choices/timelines create different outcomes.
 
+---
+
+### Pattern 8: The Fringe Events
+
+**Purpose:** Show that not everything is controlled—universe still has agency.
+
+**See full document:** [22. Fringe Events: When the Universe Intervened](./22_fringe_events.md)
+
+**How to use:**
+- Mention them as background news
+- Characters discuss them casually ("Did you hear about the weird aurora?")
+- Never main plot, just world texture
+- Multiple interpretations (coincidence? divine? simulation glitch?)
+- Even Zero doesn't know what they are
+
+**The Six Major Events:**
+
+1. **Kinshasa Meteorite (2041):** Interstellar object with impossible material. Enabled nano-biomachines. China-DRC "partnership."
+
+2. **Reykjavik Aurora (2052):** Unexplained aurora that permanently enhanced electronics. Quantum computers +23% speed.
+
+3. **Bangladesh Mutation (2058):** Wild mangrove mutation. Sequesters carbon 300x faster. Fed 500 million people.
+
+4. **Atacama Bloom (2073):** Desert rain, new bioluminescent species. Compound perfected consciousness upload.
+
+5. **Coral Resurrection (2079):** Dead coral spontaneously regenerated. Dead skeleton sprouted new life.
+
+6. **Kuiper Anomaly (2086):** Geometric object found in deep space. Mission arrives 2095. Mystery unresolved.
+
+**Pattern within pattern:**
+- Every 8-20 years
+- Always beneficial
+- Always perfectly timed
+- Probability: Infinitesimal
+- **Something else is optimizing?**
+
+**Writing guidelines:**
+- Mention subtly (background detail)
+- Characters wonder about them
+- Scientists can't explain
+- Religious people see signs
+- Skeptics say coincidence
+- **Story never confirms which interpretation is correct**
+- Creates sense of wonder
+- Even Zero is uncertain
+
+**Frequency:** Reference 1-2 per book, not every chapter
+
+**Purpose:**
+- Humility before cosmic scale
+- Not everything is controlled
+- Mystery is valuable
+- Multiple truths coexist
+
+---
+
 **How to use:**
 - Same person in different timelines
 - Similar situations, different contexts
