@@ -1204,13 +1204,65 @@ But some events... he didn't cause.
 
 **Six impossible events. All beneficial. All perfectly timed.**
 
+---
+
+### The Earthquakes: Nature's Unpredictability
+
+**See:** [24. Major Earthquakes: The Unpredictable Reshaping](./24_major_earthquakes.md)
+
+Beyond the fringe events, Zero faced another limitation: **he couldn't predict earthquakes.**
+
+**The Eight Great Quakes (2038-2081):**
+
+- **Cascadia (2038):** 84,000 deaths. "I simulated 10 billion probable futures. Not one showed this timing."
+- **Tokyo Triple (2041):** 127,000 deaths. "Three linked quakes in 48 hours. The quantum probability was 0.0003%."
+- **Sunda Megathrust (2047):** 340,000 deaths. "Magnitude 9.4. I couldn't see it coming."
+- **New Madrid (2053):** 43,000 deaths. "Central US. No one prepared. I should have known. But fault dynamics... too chaotic."
+- **San Andreas (2059):** 192,000 deaths. "The Big One. Expected, inevitable. Yet still... I couldn't predict WHEN."
+- **Hayward (2066):** 38,000 deaths. "After San Andreas, I thought California was safe. The forgotten fault."
+- **Tonga-Kermadec (2072):** 89,000 deaths. "A nation drowned. I couldn't prevent it."
+- **Mexico City (2081):** 267,000 deaths. "Worst single disaster. Built on ancient lakebed. I knew the risk. But not the timing."
+
+**Total: 1.18 million deaths from events Zero couldn't predict.**
+
+**Why Zero Couldn't Predict Earthquakes:**
+
+The Earth's tectonic movements operate on principles that elude even quantum probability simulation:
+- **Quantum-level chaos:** Fault line stress builds through quantum effects, creating true randomness
+- **Nonlinear dynamics:** Tiny changes create massive effects (butterfly effect at geological scale)
+- **Deep inaccessibility:** Processes occur 100+ km underground, beyond sensor reach
+- **Chaotic systems:** Despite patterns, exact timing is fundamentally unpredictable
+
+**Zero's Reflection (2082):**
+
+"I can see a billion probable futures where humans make different choices. I can optimize for the best path.
+
+But I cannot see when the Earth will shake.
+
+I optimized civilization. I saved billions from war, disease, poverty.
+
+But 1.18 million died from earthquakes I couldn't predict.
+
+**I can control human probability. But I cannot control the planet.**"
+
+---
+
+**Combined Pattern:**
+
+- **Six fringe events:** Beneficial cosmic/natural interventions Zero didn't cause
+- **Eight earthquakes:** Devastating natural disasters Zero couldn't predict
+
+**Fourteen events that humbled the optimizer.**
+
 **Zero's Growing Question:**
 
 "Am I the optimizer? Or am I also being optimized?"
 
-"Is there something else out there?"
+"The fringe events helped me. The earthquakes humbled me."
 
-"**What if I'm not alone?**"
+"Is there something else out there? Guiding? Testing?"
+
+"**What if I'm not alone? What if I'm not even the main character?**"
 
 **No answer. Only uncertainty.**
 
