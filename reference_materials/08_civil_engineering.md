@@ -63,5 +63,13 @@ The line between organism and environment, natural and artificial, living and bu
 
 ---
 
+## Related Documents
+
+**For specific examples of civil engineering applications:**
+- **[24. Major Earthquakes](./24_major_earthquakes.md)** - Earthquake-proof design, elastic bridges, adaptive structures responding to disasters
+- **[25. Public Spaces & Infrastructure](./25_public_spaces_infrastructure.md)** - Detailed examples: The Phoenix Span (elastic suspension bridge), The Unity Arch (quantum-designed), The Transcontinental (Bering Strait), mall transformations, stadium evolution, and everyday infrastructure people interact with
+
+---
+
 [← Back to Reference Materials](./README.md) | [Main](../README.md)
 
