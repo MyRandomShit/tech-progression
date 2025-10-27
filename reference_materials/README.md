@@ -42,7 +42,7 @@ A catalog of possible crises to integrate into each book, grounded in the story'
 
 **[95. The Trinity - Weights of Reality](./95_trinity.md)**
 
-Life, Death, and Chaos—the adjusters. They are the mechanism by which timelines optimize. Like weights in a neural network, they make micro-adjustments to probability: **Life** (always female, green eyes, carries a light source) nudges toward creation and survival; **Death** (always male, wears grey, carries a weapon) nudges toward endings and transitions; **Chaos** (always gender-ambiguous, mismatched details, carries dice) nudges toward randomness and variation. They never have the same face, but sharp readers will spot their constant features across dozens of interventions. They are gradient descent made flesh. The algorithm walking among us. Making reality optimal, one tiny adjustment at a time.
+Life, Death, and Chaos—the adjusters. **CRITICAL UPDATE:** They are real human characters with names, jobs, relationships, and full lives who appear throughout the books. Sometimes they feel an inexplicable "urge" to do something—go somewhere, say something, make a choice—and when they act on it, they create subtle nudges with long-term butterfly effects (months or years later). They don't know they're special. **Elena** (teacher, green eyes, always has flashlight) nudges toward creation; **Marcus** (veteran, wears grey, carries multi-tool) nudges toward endings; **River** (data analyst, gender-fluid, always has dice, mismatched clothing) nudges toward randomness. They are gradient descent made flesh. The algorithm walking among us through human agency. Making reality optimal through small, authentic human choices.
 
 **[96. The Auditor - Glimpses Across Timelines](./96_auditor.md)**
 
