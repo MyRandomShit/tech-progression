@@ -63,7 +63,13 @@ These short stories serve to:
    - Humanity catatonic by 2060
    - Population 2100: 8 billion alive but meaningless
 
-5. **Pre-Divergence (2000-2034)**
+5. **Timeline Gamma-7 (The Forge)** ⭐ **Stories: [03](./03_the_last_tyrant.md) | [04](./04_the_revolutions_end.md)**
+   - Zero deliberately supported tyrants (2000-2050)
+   - Adversity forge: 50 years of dictators
+   - Humanity forged through struggle
+   - Population 2100: 9.3 billion (poor but free, happy but scarred)
+
+6. **Pre-Divergence (2000-2034)**
    - All timelines shared history
    - Proto-consciousness era
    - Before major timeline splits
@@ -329,6 +335,18 @@ Each story should begin with:
 **Era:** 2062-2150 (complete life)  
 **Theme:** Survival vs. living in corporate dystopia  
 **Summary:** Alex Chen follows every rule, buys every hedge, works 48 years. Earns $4.2M, saves $85K (2%). The system works—they survive. But at what cost? A complete life from birth to death in the peak corporate era.
+
+### [03. The Last Tyrant](./03_the_last_tyrant.md)
+**Timeline:** Gamma-7 (The Forge)  
+**Era:** March 2050 (6 days)  
+**Theme:** Power's corruption, the tyrant's final days  
+**Summary:** Viktor Molotov, age 67, has ruled for two years. He's studied every dictator before him. He won't make their mistakes. He's different. He's smarter. He'll break the cycle. He sets a trap for the resistance. But Anastasia Volkov has set a trap for him. His final week alive, from his perspective: defiant, paranoid, alone.
+
+### [04. The Revolution's End](./04_the_revolutions_end.md)
+**Timeline:** Gamma-7 (The Forge)  
+**Era:** March 2050 (6 days)  
+**Theme:** The cost of freedom, what comes after victory  
+**Summary:** Anastasia Volkov, age 34, has been fighting tyrants her entire life. Her parents fought Putin. She fought Karimov. Now she fights Molotov—the last one. She knows his "negotiation" is a trap. But her people have turned it around. The resistance will win. But at what cost? And after 50 years of fighting, what happens when the struggle ends?
 
 ---
 
