@@ -7,6 +7,8 @@ A narrative exploration of humanity's technological progression and its impact o
 ### [Book 00 - Reference Materials](./reference_materials/README.md)
 Background information and historical context. Detailed documents pertaining to the book but not part of the main story. Contains technology progression timelines from 2025 through 2100.
 
+**Includes 11 Alternate Timelines** - Zero-Beyond's training data for Zero-Prime, testing extreme strategies from total intervention to zero intervention, including the devastating consequences of eugenics, the horror of invisible control, and Alpha-1: the baseline timeline where Zero never intervened at all—proving humanity can survive alone (2.8B dead, but entirely free).
+
 ### [Book 01 - The Beginning](./book_01/README.md)
 Where the story begins. Set in the 2035-2060 era.
 
