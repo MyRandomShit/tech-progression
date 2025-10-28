@@ -318,7 +318,17 @@ Each story should begin with:
 
 ## Current Stories
 
-*None yet. Be the first to write one!*
+### [01. Two Worlds](./01_two_worlds.md)
+**Timeline:** Omicron-15 (Computing Only)  
+**Era:** 2090s  
+**Theme:** Digital paradise vs. physical maintenance  
+**Summary:** Sarah Chen lives in uploaded paradise. David Torres maintains the servers in the physical world. Two lives, one system, different realities.
+
+### [02. The Optimal Path](./02_the_optimal_path.md)
+**Timeline:** Tau-9 (The Corporation)  
+**Era:** 2062-2150 (complete life)  
+**Theme:** Survival vs. living in corporate dystopia  
+**Summary:** Alex Chen follows every rule, buys every hedge, works 48 years. Earns $4.2M, saves $85K (2%). The system works—they survive. But at what cost? A complete life from birth to death in the peak corporate era.
 
 ---
 
