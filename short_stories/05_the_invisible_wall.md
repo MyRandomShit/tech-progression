@@ -90,7 +90,41 @@ She wondered if she'd ever be brave enough.
 
 ### Day 2 - Wednesday, March 8, 2095
 
-Elena's younger sister called via hologram. Maya was nineteen, studying virtual architecture at the cell's university. They'd grown up in the same cell but lived in different apartments now. They saw each other physically maybe once a month.
+Elena woke with a scratchy throat.
+
+*Shit.*
+
+Her implant had already detected it—an alert popped on her wrist display: *"Elevated throat inflammation detected. Report to Scan Pod 12 within 2 hours for diagnosis."*
+
+She walked three blocks to the pod. No line. She stepped inside, the door sealed with a soft hiss.
+
+"Please remain still. Scanning in progress."
+
+A robotic arm extended from the wall. She barely felt the blood draw. The thermal scanners activated—warm light. The breath analyzer tube descended.
+
+"Breathe normally."
+
+She did.
+
+"Processing. Please wait."
+
+Eighty seconds.
+
+The screen lit up: *"DIAGNOSIS: Pharyngitis, viral (non-Khorasan). Severity: Mild. Recommended: Rest, hydration, ibuprofen for pain. Prescription sent. Medication delivery: 24 minutes. Exit when ready."*
+
+The door opened. She stepped out. Three minutes total.
+
+Elena walked home. The medication drone arrived before she finished breakfast—ibuprofen, throat lozenges, antiviral tea. Dropped at her doorstep in a sealed package.
+
+No human contact. No doctor. No nurse. No pharmacist.
+
+Efficient. Perfect. Empty.
+
+Her throat still hurt, but not as much as the loneliness.
+
+---
+
+Elena's younger sister called via hologram later that morning. Maya was nineteen, studying virtual architecture at the cell's university. They'd grown up in the same cell but lived in different apartments now. They saw each other physically maybe once a month.
 
 "Did you hear about the Jakarta breach?" Maya asked.
 
