@@ -352,7 +352,7 @@ Each story should begin with:
 **Timeline:** Kappa-4 (The Plague)  
 **Era:** March 2095 (57 years after plague began)  
 **Theme:** Divided by biology, connected by humanity  
-**Summary:** Elena Vasquez lives in Wellington Haven Cell—safe, sterile, afraid of touch. David Torres lives in New York's ruins—a carrier, exiled, dying slowly. Two people, two worlds, one plague. They'll never meet. But they're both human. And that's something. A parallel narrative showing both sides of the invisible wall that will never come down.
+**Summary:** Three lives, three worlds, one plague. Elena Vasquez lives in Wellington Haven Cell—safe, sterile, afraid of touch. David Torres lives in New York's ruins—a carrier, exiled, dying slowly. Marcus Wei walks between both worlds in a bio-suit—an explorer, risking death for $180,000 per mission. Three perspectives on the invisible wall that divides humanity. They'll never truly meet. But they're all human. And that's something.
 
 ---
 
