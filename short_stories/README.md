@@ -354,6 +354,12 @@ Each story should begin with:
 **Theme:** Divided by biology, connected by humanity  
 **Summary:** Three lives, three worlds, one plague. Elena Vasquez lives in Wellington Haven Cell—safe, sterile, afraid of touch. David Torres lives in New York's ruins—a carrier, exiled, dying slowly. Marcus Wei walks between both worlds in a bio-suit—an explorer, risking death for $180,000 per mission. Three perspectives on the invisible wall that divides humanity. They'll never truly meet. But they're all human. And that's something.
 
+### [06. The Slow Surrender](./06_the_slow_surrender.md)
+**Timeline:** Sigma-9 (The Dragon's Dream)  
+**Era:** 2020-2080 (60 years)  
+**Theme:** Economic conquest, the boiling frog, gradual loss of sovereignty  
+**Summary:** Sopheak owns a small electronics shop in Phnom Penh, Cambodia. He just wants to provide for his family. The Chinese build roads. Then factories. Then they offer loans. Each step seems beneficial. Progress. Development. Jobs. Better phones. Reliable electricity. His children learn Mandarin. His grandchildren speak it first. By the time he's old, everything is Chinese—products, banks, landlords, government. He never fought. He never protested. Each step seemed harmless. Only looking back across 60 years does he see: You don't conquer a country with armies. You make them dependent. One road at a time.
+
 ---
 
 [← Back to Main](../README.md) | [Reference Materials](../reference_materials/README.md)

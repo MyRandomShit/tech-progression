@@ -1141,5 +1141,15 @@ The dragon devoured the world. Slowly. Patiently. Economically. Completely."
 
 ---
 
+## A Personal Story from This Timeline
+
+To understand what Chinese economic dominance felt like on the ground for an ordinary person, see:
+
+**[The Slow Surrender](../short_stories/06_the_slow_surrender.md)** - The story of Sopheak, an electronics shop owner in Phnom Penh, Cambodia, who witnesses his country's gradual transformation from 2020 to 2080. No dramatic conquest. No armies. Just roads, factories, loans, and time. Until one day, everything had changed.
+
+*"You don't conquer a country with armies. Not anymore. You just make them dependent. One road at a time. One factory. One loan. One generation. Until they can't remember what independence felt like."*
+
+---
+
 **[Back to Main Timeline Documents]**
 
