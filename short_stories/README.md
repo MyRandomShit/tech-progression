@@ -348,6 +348,12 @@ Each story should begin with:
 **Theme:** The cost of freedom, what comes after victory  
 **Summary:** Anastasia Volkov, age 34, has been fighting tyrants her entire life. Her parents fought Putin. She fought Karimov. Now she fights Molotov—the last one. She knows his "negotiation" is a trap. But her people have turned it around. The resistance will win. But at what cost? And after 50 years of fighting, what happens when the struggle ends?
 
+### [05. The Invisible Wall](./05_the_invisible_wall.md)
+**Timeline:** Kappa-4 (The Plague)  
+**Era:** March 2095 (57 years after plague began)  
+**Theme:** Divided by biology, connected by humanity  
+**Summary:** Elena Vasquez lives in Wellington Haven Cell—safe, sterile, afraid of touch. David Torres lives in New York's ruins—a carrier, exiled, dying slowly. Two people, two worlds, one plague. They'll never meet. But they're both human. And that's something. A parallel narrative showing both sides of the invisible wall that will never come down.
+
 ---
 
 [← Back to Main](../README.md) | [Reference Materials](../reference_materials/README.md)
