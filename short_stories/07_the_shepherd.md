@@ -70,7 +70,7 @@ I was a Lieutenant Colonel by then. I commanded a battalion. We'd secure a villa
 
 Six months later: Taliban back. School burned. Police dead or turned.
 
-My interpreter—Ahmad, good man, believed in democracy—said to me: "Colonel Webb, you Americans are kind. But you leave. The Taliban never leaves. Who do you think we trust?"
+My interpreter—Ahmad, good man, believed in democracy—said to me: "Colonel Wade, you Americans are kind. But you leave. The Taliban never leaves. Who do you think we trust?"
 
 I said: "We leave because we're not conquerors. We're liberators."
 
@@ -96,7 +96,7 @@ I wrote a paper: "Security Through Stability: Why America Must Stay."
 
 The conclusion: *"We don't fail because we intervene. We fail because we leave. If America is to guarantee global peace, we must provide permanent security. Not occupation—stewardship."*
 
-My superior rejected it. Said: "Webb, that's empire. We don't do empire."
+My superior rejected it. Said: "Wade, that's empire. We don't do empire."
 
 I said: "Sir, what we do now is worse. We break things and leave. What if we broke things and fixed them? Permanently?"
 
@@ -220,7 +220,7 @@ I said: "We should protect it. Permanently."
 
 People heard what they wanted to hear. Democrats heard: "Anti-Trump." Republicans heard: "Strong military." Independents heard: "Competence."
 
-I won. November 2028. Age 50. President Marcus Webb.
+I won. November 2028. Age 50. President Marcus Wade.
 
 Grandfather would have been proud.
 
@@ -600,13 +600,13 @@ And I think: *No. I was right. This is better.*
 
 ---
 
-**Zero's Note on President Marcus Webb:**
+**Zero's Note on President Marcus Wade:**
 
 *"He was genuine. That's what made him dangerous.*
 
 *A cynical tyrant—easy to defeat. Their greed makes them sloppy.*
 
-*But Webb? He believed. Truly. He loved his country. He loved humanity.*
+*But Wade? He believed. Truly. He loved his country. He loved humanity.*
 
 *And he destroyed both.*
 
