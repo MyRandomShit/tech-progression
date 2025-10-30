@@ -360,6 +360,12 @@ Each story should begin with:
 **Theme:** Economic conquest, the boiling frog, gradual loss of sovereignty  
 **Summary:** Sopheak owns a small electronics shop in Phnom Penh, Cambodia. He just wants to provide for his family. The Chinese build roads. Then factories. Then they offer loans. Each step seems beneficial. Progress. Development. Jobs. Better phones. Reliable electricity. His children learn Mandarin. His grandchildren speak it first. By the time he's old, everything is Chinese—products, banks, landlords, government. He never fought. He never protested. Each step seemed harmless. Only looking back across 60 years does he see: You don't conquer a country with armies. You make them dependent. One road at a time.
 
+### [07. The Shepherd](./07_the_shepherd.md)
+**Timeline:** Sigma-8 (The Hegemon)  
+**Era:** 1978-2046 (68 years)  
+**Theme:** The road to tyranny paved with good intentions, American exceptionalism as justification  
+**Summary:** Marcus Wade is a true patriot. Born in Iowa, raised on stories of World War II heroism. West Point graduate. Served in Iraq and Afghanistan. Made General. Hated Trump with a passion—saw him as a betrayal of everything America stood for. Then became President himself. He genuinely believed in American values: freedom, democracy, justice. But he also believed America should never leave places it "liberated"—because when it did, everything collapsed. He planned for years. Built trust. Proposed global disarmament ("We'll protect you"). Then, once the world was disarmed, he unified it by force. The United States of Earth. No wars. Total peace. Total control. He thought he was saving the world. Maybe he was. Or maybe he became the thing his grandfather fought against at Normandy. He'll die not knowing which is true.
+
 ---
 
 [← Back to Main](../README.md) | [Reference Materials](../reference_materials/README.md)
