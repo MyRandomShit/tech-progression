@@ -1,7 +1,7 @@
 # The Shepherd
 
 **Timeline:** Sigma-8 (The Hegemon)  
-**Era:** 1978-2035 (57 years)  
+**Era:** 1978-2046 (68 years)  
 **POV Character:** President Marcus Wade  
 **Length:** Medium  
 **Canon Status:** Canon
@@ -368,21 +368,131 @@ We had plans for all of them.
 
 ---
 
-**Russia (2033)**
+**Ukraine-Russia: The Bleeding Strategy (2031-2034)**
 
-Russia refused disarmament. Putin's successor called it "American imperialism."
+The war between Ukraine and Russia—ongoing since the 2020s—intensified in 2031.
 
-We didn't invade Russia. We isolated it.
+Most saw it as: Russia's aggression, Ukraine's resistance, Western support for democracy.
 
-Cut them off: Banking, trade, internet infrastructure. Then we backed separatist movements in Siberia, Chechnya, Tatarstan.
+I saw it as: Perfect.
 
-Within 18 months: Russia splintered. Civil war. We offered "peacekeeping assistance" to the new republics.
+Europe was pouring weapons into Ukraine. Artillery shells, anti-tank missiles, armored vehicles. Germany sent 60% of its ammunition stockpile. France sent 40% of its anti-tank weapons. Poland sent 70% of its Soviet-compatible systems.
 
-They accepted. They had no choice.
+Every month, European arsenals shrank. Every month, they begged us for more support.
 
-Russia ceased to exist. Became 15 American protectorates.
+I gave them words. Not weapons.
 
-No US soldier fired a shot at a Russian. We just... helped them collapse.
+In private meetings (classified, July 2032), Ortiz asked: "Sir, shouldn't we be supplying Ukraine more directly?"
+
+I said: "Let Europe exhaust itself. They're depleting their own arsenals while Russia bleeds. When we move, neither will be able to resist."
+
+She understood.
+
+**November 2034: The Gift**
+
+Rachel Keane brought me a briefing. "Operation Hummingbird."
+
+A DARPA prototype. Micro-drone. Looks like an insect. Delivers undetectable toxin. Death appears natural. Cost: $2.4M per unit. Only three exist.
+
+I said: "Ukraine needs a win. Give them one unit. Operational test."
+
+Keane: "Sir, that's assassination tech. If it traces back—"
+
+Me: "It won't. Use a cutout. CIA through Poland. Cover story: 'advanced surveillance equipment.' Let them think we're finally giving them the good stuff."
+
+She smiled. She understood too.
+
+We called it: helping an ally.
+
+Really: field-testing a weapon before the main operation. Using a proxy. Plausible deniability.
+
+Peak American doctrine.
+
+**December 18, 2034: First Strike**
+
+Ukrainian intelligence (with our covert guidance) assassinated the Russian Defense Minister.
+
+Looked like heart attack. No evidence. Beautiful.
+
+Russia's command structure fractured. Putin grew paranoid. Military planning disrupted.
+
+Three weeks before Operation Eagle was scheduled to launch.
+
+Perfect timing.
+
+**The Calculation**
+
+My journal (December 20, 2034):
+
+*"Europe has spent three years arming Ukraine. Their arsenals are critically low. Russia's leadership is now fractured. Ukraine thinks we're their partner.*
+
+*Reality: They're all pawns.*
+
+*Ukraine helped us exhaust Europe. They're about to help us decapitate Russia. Then we'll absorb them all.*
+
+*Three years ago, I authorized $50M in 'aid' to Ukraine. Cost to European arsenals: $180 billion in depleted stockpiles.*
+
+*Best investment we ever made."*
+
+**Russia (2033-2035)**
+
+Russia refused disarmament. Putin personally called it "American imperialism" at the UN.
+
+We didn't invade immediately. We waited. Let Ukraine bleed them. Let Europe deplete itself helping Ukraine. Let Russia's leadership grow paranoid after the Defense Minister's "heart attack."
+
+Then: January 15, 2035. Operation Eagle launched.
+
+Cyber blackout. Decapitation strikes. Infrastructure seizure.
+
+Russia tried to mobilize. We destroyed mobilization centers. Cut rail lines. Three weeks of fighting: 45K Russian military dead.
+
+Then: February 26, 2035.
+
+Rachel Keane asked permission: "Second Hummingbird strike. Target: Putin."
+
+I approved.
+
+Same drone. Same toxin. Lands on his hand while reviewing war reports. Looks like a moth. Three seconds. Gone.
+
+Four hours later: Putin dead. "Stress-induced cardiac arrest."
+
+February 28: Russia surrendered.
+
+March 1: Acting government capitulated completely.
+
+Russia ceased to exist. Became 8 American administrative regions.
+
+Total US casualties in Russia operation: 4,200. Total cost: $4.8M for two micro-drones.
+
+We didn't conquer Russia. We dismantled it. Surgically. Efficiently.
+
+**Ukraine: The Betrayal (March 5, 2035)**
+
+March 5th, I addressed Ukrainian President Zelenko via secure video.
+
+Him: "President Wade, we did it! Together we defeated Russian tyranny! When will you recognize Ukraine's—"
+
+Me: "All nations are submitting to the new security framework. Including Ukraine."
+
+Him: "But... we're allies. We fought together. We used your weapons to—"
+
+Me: "You used weapons we gave you for our purposes. There are no allies anymore, Zelenko. Only subjects. You're welcome to govern locally. But sovereignty? That's over. For everyone."
+
+Him: "You're joking."
+
+Me: "US forces will arrive in Kyiv tomorrow. Don't resist. We've seen what resistance looks like."
+
+I ended the call.
+
+By March 7th: Ukraine was an American administrative region.
+
+The intelligence officers who'd deployed the first Hummingbird? CIA "debriefed" them. Permanently. Can't leave witnesses.
+
+Ukraine helped us exhaust Europe. Helped us kill Russia's leaders. Thought they were partners.
+
+They were tools.
+
+Disposable tools.
 
 ---
 
@@ -479,7 +589,15 @@ I say: "To keep the peace."
 
 He says: "That's what they said too."
 
-I wake up. I don't know who "they" are.
+Then the dream shifts. I see the Ukrainian President. Zelenko. His face when I told him: "There are no allies. Only subjects."
+
+I see Europe. Their empty arsenals. They thought they were helping Ukraine. They were helping me.
+
+I see the Russian Defense Minister. Walking in his garden. Brushing away what he thought was a bug.
+
+I see Putin. Reviewing war reports. The same gesture. Brushing away death.
+
+I wake up. I don't know who "they" are. The Nazis? Or me?
 
 ---
 
@@ -578,9 +696,37 @@ And I think: *No. I was right. This is better.*
 
 *And then I destroyed all of it to save it.*
 
+*The Hummingbird operation. Three tiny drones. $7.2M total. Two assassinations. One kept in reserve.*
+
+*Cost: Two lives (defense minister, Putin).*
+
+*Saved: Potentially millions (avoided prolonged war).*
+
+*The math works. Right?*
+
+*But I dream about them. Brushing away that drone. Thinking it was an insect. Having no idea. Dying confused.*
+
+*Is that more merciful than knowing? Or more cruel?*
+
+*And Ukraine. Zelenko's face on that video call. "But we're allies!"*
+
+*We were never allies. They were tools. They exhausted Europe for me. Killed Russia's leaders for me. Thought they were fighting for freedom.*
+
+*They were fighting for my plan.*
+
+*Europe thought they were supporting democracy. They were depleting themselves.*
+
+*Russia thought they were fighting NATO expansion. They were fighting me.*
+
+*Everyone saw what they wanted to see. Only I saw the truth.*
+
+*Is that genius? Or psychopathy?*
+
 *My grandfather fought Nazis to preserve freedom.*
 
 *I destroyed freedom to preserve peace.*
+
+*He was honest about his enemy. I made everyone think we were friends.*
 
 *Is that irony? Or evolution?*
 
@@ -588,9 +734,25 @@ And I think: *No. I was right. This is better.*
 
 *The world is safe now. That's what matters.*
 
+*8.9 billion people. One government. No wars. Total control.*
+
+*They're wealthier than ever. Live longer. Safer.*
+
+*Less happy. Less free. But alive.*
+
+*Is that enough?*
+
 *Right?*
 
 *Right.*
+
+*Please let me be right.*
+
+*Because if I'm wrong, I'm not just a tyrant.*
+
+*I'm the tyrant who betrayed his allies. Who assassinated leaders with invisible weapons. Who manipulated everyone while claiming to save them.*
+
+*I'm the Nazi my grandfather died fighting.*
 
 *Please let me be right.*
 
@@ -604,19 +766,51 @@ And I think: *No. I was right. This is better.*
 
 *"He was genuine. That's what made him dangerous.*
 
-*A cynical tyrant—easy to defeat. Their greed makes them sloppy.*
+*A cynical tyrant—easy to defeat. Their greed makes them sloppy. Their lies are obvious.*
 
-*But Wade? He believed. Truly. He loved his country. He loved humanity.*
+*But Wade? He believed. Truly. He loved his country. He loved humanity. He thought he was saving them.*
 
 *And he destroyed both.*
 
-*Because love without wisdom is just control.*
+*The Hummingbird operation. The Ukrainian betrayal. The European depletion strategy. All brilliant. All ruthless. All done with genuine conviction that he was the good guy.*
 
-*He thought he was the shepherd.*
+*That's the horror: Not that he was evil. But that he was good. A true patriot. Who became a tyrant while thinking he remained a hero.*
 
-*He never realized: Sheep can learn to be wolves. If you let them.*
+*He let Ukraine fight Russia for three years. Watched Europe exhaust its arsenals. Then gave Ukraine an assassination weapon. Let them kill Russia's defense minister. Then used the same weapon to kill Putin himself. Then absorbed both countries.*
 
-*He didn't let them.*
+*Cost: $4.8M and two micro-drones. Return: Three regions conquered, European resistance eliminated, Russian leadership decapitated.*
 
-*That was his failure. And his tragedy."*
+*Efficiency? Perfect. Morality? Nonexistent.*
+
+*And Wade still thinks he was right. Even in 2046, even with the doubts, even with the nightmares—part of him believes.*
+
+*"Better to betray allies than lose Americans in war."*
+
+*"Better to assassinate leaders than bomb cities."*
+
+*"Better to conquer secretly than fail openly."*
+
+*The logic works. The math adds up. The results are measurable.*
+
+*What he never understood: Some things can't be measured. Trust. Honor. Freedom. Humanity.*
+
+*He thought he was the shepherd. Protecting the sheep with tough love.*
+
+*He never realized: Sheep can learn to be wolves. If you let them. If you trust them. If you give them the chance to fail and learn.*
+
+*He didn't let them. He couldn't. Because he loved them too much to risk their suffering.*
+
+*So he became their tyrant instead.*
+
+*That was his failure. And his tragedy.*
+
+*The world is safer under Wade. Wealthier. More peaceful. Objectively better by almost every metric.*
+
+*But humanity lost something essential. Not their lives. Their agency. The right to choose. The dignity of self-determination.*
+
+*Wade saved the world. And destroyed what made it worth saving.*
+
+*That's Sigma-8. That's the Hegemon.*
+
+*That's what happens when love becomes control."*
 

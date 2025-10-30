@@ -154,18 +154,47 @@
 - Reduces to 500K active (from 900K)
 - Nuclear arsenal: Monitored by US "inspectors"
 
+**Ukraine-Russia Situation (2031-2034):**
+- Frozen conflict evolves to active warfare (2031-2034)
+- Russia: Weakened but persistent attacks
+- Ukraine: Grinding defensive war, needs constant resupply
+- Western aid: Massive, continuous, depleting EU stockpiles
+- Wade's strategy: "Let them bleed each other. Let Europe empty its arsenals."
+
 **Rest of World (2030-2033):**
 - Japan: Minimal military under US protection
 - South Korea: Reduces, relies on US bases
 - India: Cuts 30%, focuses on economy
 - Middle East: Various states under US "security umbrellas"
 
-**By 2033:**
-- Global military spending: Lowest since 1990
+**European Arsenal Depletion (2031-2034):**
+
+**The Ukraine Drain:**
+- EU sends weapons to Ukraine continuously (2031-2034)
+- Justification: "Supporting democracy against aggression"
+- Reality: Emptying their own stockpiles
+
+**Specific Depletions (2031-2034):**
+- Germany: Sends 60% of artillery ammunition stockpile to Ukraine
+- France: 40% of anti-tank weapons transferred
+- UK: 50% of military aid budget to Ukraine
+- Poland: 70% of Soviet-compatible weapons sent
+- Overall EU: 200,000+ artillery shells, 15,000+ anti-tank missiles, 800+ armored vehicles
+- Manufacturing: Can't replenish fast enough (takes years)
+
+**Wade's Observation (Internal memo, 2034):**
+- "Perfect. Ukraine fights Russia. EU supplies Ukraine. Russia and EU both weakened."
+- "Ukraine thinks we're partners. EU thinks we're allies. Russia thinks we're enemies."
+- "Reality: They're all future subjects. And they're exhausting themselves before we move."
+- "When Operation Eagle launches, EU will have nothing left to resist with."
+
+**By Late 2034:**
+- Global military spending: Lowest since 1990 (except US)
+- EU military stockpiles: Critically depleted (sent to Ukraine)
 - US military spending: Increased by 40% (quietly)
 - US technological advantage: Insurmountable
 - Cyber capabilities: Infiltrated every major nation
-- Wade's assessment: "They've disarmed. We're ready."
+- Wade's assessment: "Europe's arsenals are in Ukraine. Russia's in ruins. They've disarmed themselves. Perfect timing."
 
 ---
 
@@ -173,7 +202,141 @@
 
 **"Operation Guardian Angel" (Classified):**
 
-**Military Positioning (2033-2035):**
+**Operation Hummingbird (Classified - Eyes Only):**
+
+**November 2034: The Black Budget Gift (After Europe is Exhausted)**
+
+**Wade's Private Meeting with CIA Director:**
+- Wade: "Europe's arsenals are in Ukraine now. They've spent themselves helping the proxy."
+- CIA: "Perfect. EU stockpiles critically low. Can't resist when we move."
+- Wade: "Now we end the Russia problem. Give Ukraine the gift. Let them think we're helping."
+- CIA: "Assassination tech? Risks escalation."
+- Wade: "Not if Ukraine does it. And by the time anyone figures it out, we'll own both countries."
+- CIA: "Plausible deniability. What asset?"
+- Wade: "Give them Hummingbird. Something no one's seen. Something clean. End Russia's leadership. Then we move in January."
+
+**The Weapon - "Hummingbird Mk. IV":**
+
+**Specifications:**
+- Size: 3cm wingspan (smaller than actual hummingbird)
+- Weight: 8 grams
+- Range: 2km autonomous flight
+- Speed: 15 km/h (silent)
+- Payload: 0.5ml synthetic toxin (polonium-214 derivative)
+- Detection: Nearly impossible (looks/sounds like insect, no heat signature)
+- Accuracy: 99.7% within 1 meter of target
+- Cost: $2.4M per unit (prototypes only, DARPA black budget)
+
+**The Toxin - "Nightshade-7":**
+- Absorption: Through skin contact (0.1 second exposure sufficient)
+- Time to death: 4-8 hours (appears as cardiac arrest)
+- Detection: Breaks down into natural compounds within 2 hours
+- Symptoms: Appear as natural heart failure
+- Autopsy: Would show "stress-induced cardiac event"
+- Antidote: None (by design)
+
+**The Transfer (November 2034):**
+- US transfers 3 Hummingbird units to Ukraine (through CIA cutout)
+- Cover story: "Advanced surveillance equipment - final aid package"
+- Training: 1 week at undisclosed location (Poland) - accelerated
+- Handler: CIA operative (embedded in Ukrainian intelligence)
+- Authorization: Ukrainian President approves (desperate, war dragging on)
+- US position: "We have no knowledge of this equipment's lethal capabilities"
+- Timing: Deliberate - after EU has exhausted stockpiles supporting Ukraine
+
+**December 18, 2034 - 14:37 Moscow Time: Field Test**
+
+**The First Strike:**
+- Target: Russian Defense Minister (Putin's key military strategist)
+- Location: Walking in private garden, Rublyovka estate
+- Deployment: Hummingbird launched from 1.8km away (Ukrainian operative in delivery van)
+- Execution: Drone lands on target's neck (appears as insect), deploys toxin, flies away
+- Duration: 3 seconds of contact
+- Detection: Zero (target brushes at "bug," continues walking)
+
+**14:42 Moscow Time:**
+- Target feels slight dizziness
+- Assumes stress, continues day
+
+**18:20 Moscow Time:**
+- Target collapses during dinner
+- Heart attack symptoms
+- Rushed to hospital
+
+**19:05 Moscow Time:**
+- Target pronounced dead
+- Cause: "Acute myocardial infarction" (heart attack)
+- Autopsy ordered
+- Toxin already degraded (undetectable)
+
+**Aftermath (December 2034):**
+
+**Russian Response:**
+- Suspects foul play (too convenient)
+- Investigates thoroughly
+- Finds: Nothing (toxin completely degraded)
+- FSB conclusion: "Likely natural causes, possibly stress-related"
+- Putin suspicious but no evidence
+
+**Ukrainian Position:**
+- Public: Condolences to Russia
+- Private: Silent satisfaction ("We got him!")
+- US knowledge: Officially denied
+- CIA assessment: "Successful field test. Ready for primary target."
+
+**Wade's Private Reaction (Classified memo, Dec 19, 2034):**
+- "Hummingbird works. Target eliminated. Russia weakened. No blowback."
+- "Europe's arsenals depleted supporting Ukraine. Check."
+- "Russia's command structure fractured. Check."
+- "Keep remaining 2 units in reserve. Operation Eagle launches in 3 weeks."
+- "Ukraine thinks they're partners. They're useful tools."
+- "January 2035: We take the world. They'll all submit."
+
+**Final Decision (December 2034):**
+- Wade to inner circle: "We move in January 2035. The world has never been more vulnerable."
+- Military: "Ready. Europe is depleted. Russia is weakened."
+- Intelligence: "All systems compromised."
+- State Dept: "Diplomatic cover prepared."
+- Wade: "Europe spent itself arming Ukraine. Ukraine killed Russia's leadership for us. Russia's command is fractured. Operation Guardian becomes Operation Eagle. We don't protect the world anymore. We own it."
+
+**Impact on Russian Military Preparedness:**
+- Defense Minister replacement: Less competent (political appointee, appointed late Dec 2034)
+- Military planning: Disrupted at worst possible time
+- Command structure: Weakened just before US invasion
+- Putin's paranoia: Increased (trusts fewer advisors)
+- Only 3 weeks to reorganize before Operation Eagle
+- Net effect: Russia completely unprepared for January invasion
+
+**The American Irony:**
+- US develops most advanced assassination tech in history
+- Delays giving it to Ukraine until EU arsenals are exhausted
+- Europe spends 3+ years depleting stockpiles helping Ukraine
+- Then US gives Ukraine assassination tech (Nov 2034)
+- Ukraine thinks: "Our ally finally giving us the good stuff!"
+- Reality: "You've served your purpose. Now finish the job before we take over."
+- Uses proxy to deploy weapon, claims innocence
+- Weakens future targets (Russia + Europe) before main operation
+- Peak American covert ops doctrine: "Maximum effect, zero accountability, let allies exhaust themselves first"
+
+**Ukraine's Unknowing Role:**
+- 2031-2034: Fights Russia, receives EU weapons (depleting EU)
+- 2034: Receives "advanced aid" from US (Hummingbird)
+- Thinks: "US is helping us resist Russia, we're partners!"
+- Reality: US is preparing to conquer both, using Ukraine to weaken both Russia AND Europe
+- December 2034: Successfully assassinates Russian Defense Minister
+- Believes: "We're striking back! America supports us!"
+- Truth: "You're pawns. You've helped us exhaust Europe's arsenals. Now finish weakening Russia so we can take you both."
+
+**European Unknowing Role:**
+- 2031-2034: Sends weapons to Ukraine (supporting democracy)
+- Thinks: "We're helping ally resist aggression"
+- Reality: Depleting own stockpiles while US watches and prepares
+- By December 2034: Arsenals critically low, US arsenals at all-time high
+- Will surrender with everyone else in January 2035 with nothing left to resist
+
+---
+
+**Military Positioning (December 2034-January 2035):**
 - US bases: Now in 142 countries (up from 80 in 2025)
 - Personnel: 800K troops forward-deployed (disguised as "security")
 - Equipment: Pre-positioned in every region
@@ -303,7 +466,77 @@
 - Attempts mobilization
 - US: Destroys mobilization centers, cuts rail lines
 - 3 weeks of fighting: 45K Russian military dead
-- Surrenders March 1
+
+**February 26, 2035 - Operation Hummingbird, Final Use:**
+
+**The Decision:**
+- Russia still fighting (stubborn resistance)
+- Wade to CIA: "Use the remaining birds. End this."
+- Target: Putin himself
+- Method: Hummingbird #2 (last Ukrainian unit)
+- Wade's logic: "Blame Ukraine one last time before we absorb them"
+
+**February 26, 2035 - 19:45 Moscow Time:**
+- Location: Putin's private residence, Novo-Ogaryovo
+- Deployment: CIA operative (posing as maintenance worker, 1.5km away)
+- Hummingbird launched
+- Flight time: 6 minutes (autonomous navigation)
+- Entry: Through open window (warm evening)
+- Target location: Putin at desk, reviewing war reports
+
+**19:51 Moscow Time:**
+- Drone lands on Putin's hand (appears as moth)
+- Toxin deployed (0.2 seconds)
+- Putin brushes it away, continues reading
+- Drone exits through same window
+
+**23:35 Moscow Time:**
+- Putin collapses (cardiac symptoms)
+- Medical team responds immediately
+- Attempts resuscitation: Fail
+- Pronounced dead: 23:58 Moscow Time
+- Official cause: "Stress-induced cardiac arrest"
+- Medical analysis: "Consistent with extreme wartime stress"
+
+**February 27, 2035 - The Decapitation:**
+- Russian leadership in chaos
+- Acting President (Prime Minister): Overwhelmed
+- Military: Without strong leadership
+- FSB: Suspects assassination but no evidence
+- Chain of command: Fractured
+
+**February 28, 2035:**
+- Acting President: "We cannot win. Too many dead. Infrastructure destroyed. Leader gone."
+- Military assessment: "Fighting only prolongs suffering"
+- Decision: Surrender to US
+- Official statement: "Temporary cessation of resistance pending negotiations"
+- Reality: Complete capitulation
+
+**Surrenders March 1**
+
+**The Ukrainian Betrayal:**
+- Ukraine believes: "We helped US defeat Russia!"
+- Celebrates victory
+- Then: March 5, 2035
+- US forces enter Kyiv
+- Message: "All nations submit. Including you."
+- Ukrainian President: "But we're allies!"
+- Wade's response (via video): "There are no allies. Only subjects."
+- Ukraine surrenders without fight (shocked, betrayed)
+- Hummingbird program: Confiscated
+- Ukrainian intelligence officers who deployed it: Disappeared (CIA cleanup)
+
+**The American Calculation:**
+- Used Ukraine to weaken Russia: Check
+- Used Ukraine to assassinate Russian leadership: Check  
+- Blamed Ukraine (plausible deniability): Check
+- Absorbed both nations: Check
+- Eliminated witnesses: Check
+- Cost: $4.8M (2 Hummingbird units used)
+- Hummingbird #3: Kept in reserve (Wade's personal safe)
+- Result: Two nations conquered with minimal US casualties
+- Wade's assessment: "Best investment we ever made"
+- Later quote (2042): "Never used the third one. Didn't need to. Everyone else surrendered once they saw what happened to China and Russia. Sometimes the threat is enough."
 
 **Iran (Feb 2035):**
 - Refuses initially
@@ -609,6 +842,85 @@
 *I don't know. But I'm about to find out.*
 
 *The world is about to become American. Forever."*
+
+---
+
+**Entry 8,945 (December 18, 2034 - 19:05 Moscow Time):**
+*"First Hummingbird strike just succeeded. Russian Defense Minister dead.*
+
+*Wade's plan is brilliant. And terrifying.*
+
+*2031-2034: Let Ukraine and Russia fight. Let Europe deplete its arsenals helping Ukraine. Watch as the EU sends 200,000+ artillery shells, 15,000+ anti-tank missiles, 800+ armored vehicles to Ukraine. Watch as Germany, France, UK, Poland empty their stockpiles.*
+
+*Wade's calculation: 'Let them exhaust themselves before we move.'*
+
+*November 2034: Europe's arsenals critically low. Russia still fighting but weakened. That's when Wade gives Ukraine the Hummingbird. Makes them think: 'Our ally is finally giving us advanced weapons!'*
+
+*Reality: 'You've served your purpose. You've exhausted Europe for us. Now finish weakening Russia before we conquer you all.'*
+
+*Today: Ukrainian operative deploys the tiny drone. 8 grams. Looks like an insect. Russian Defense Minister brushes it off. Four hours later: Dead. 'Heart attack.' No evidence.*
+
+*Ukraine thinks: 'We struck back! America helped us!'*
+
+*Reality: Wade used them. Used them to drain Europe. Used them to assassinate Russia's military leadership. In six weeks, Operation Eagle launches. US conquers the world. Ukraine and Europe will surrender with everyone else—too depleted to resist.*
+
+*The genius: Three years of conventional warfare exhausted the 'allies.' Then one covert assassination broke Russia's command. Total cost: $2.4M for one drone. Strategic cost to EU: Hundreds of billions in depleted arsenals.*
+
+*In Prime, I'd never allow this. The cynicism is staggering. Using allies as proxies to exhaust themselves while preparing to conquer them.*
+
+*But here, I let it happen. Zero-Beyond said: See what American empire looks like without constraints.*
+
+*This is what it looks like: Wade playing 4D chess. Europe thinks they're supporting democracy. Ukraine thinks they're resisting tyranny. Russia thinks they're fighting for survival.*
+
+*Reality: They're all pawns. And they're all exhausting themselves before the real game begins.*
+
+*January 15, 2035: Operation Eagle launches. Europe will have nothing left. Russia will be leaderless. Ukraine will realize they were tools.*
+
+*Peak American strategy: Let your friends destroy themselves helping your proxy. Then conquer them all."*
+
+---
+
+**Entry 9,127 (February 26, 2035 - 19:51 Moscow Time):**
+*"Operation Hummingbird's final use. Putin is dead.*
+
+*Same tiny drone. Same undetectable toxin. Lands on his hand for 0.2 seconds. Flies away. Four hours later, he'll be dead. 'Natural causes,' they'll say.*
+
+*But this time: CIA operative deployed it (not Ukraine). Though Ukraine will be blamed.*
+
+*Russia's been fighting the US invasion for six weeks. Leadership already chaos from Defense Minister's death in December. Now Putin's gone too.*
+
+*Command structure: Shattered. Russia will surrender in 3 days.*
+
+*And Ukraine? They celebrated in December when they killed the Defense Minister. Thought they were winning with US help. Then March 5, US forces entered Kyiv. 'All nations submit. Including you.'*
+
+*Ukraine's response: 'But we're allies! We killed Russia's leaders for you!'*
+
+*Wade's response: 'There are no allies. Only subjects.'*
+
+*The Ukrainian intelligence officers who deployed the first Hummingbird in December? They'll disappear. CIA cleanup. Can't leave witnesses to American perfidy.*
+
+*The full strategy:*
+*- 2031-2034: Let Europe exhaust itself arming Ukraine*
+*- November 2034: Give Ukraine assassination tech*  
+*- December 2034: Ukraine kills Russian Defense Minister*
+*- January 2035: Launch Operation Eagle*
+*- February 2035: CIA kills Putin (blame Ukraine)*
+*- March 2035: Conquer Ukraine and Russia*
+*- Result: Europe depleted, Russia leaderless, Ukraine betrayed*
+
+*Cost: $4.8M (two drones). Return: Three regions conquered with minimal resistance.*
+
+*Wade calls it: 'Best investment we ever made.'*
+
+*I call it: The darkest version of American realpolitik. Using allies as weapons, then conquering them once they've served their purpose.*
+
+*In Prime, this technology never exists. In Prime, allies are actually allies.*
+
+*Here: Allies are disposable tools in the path to global domination.*
+
+*That's The Hegemon. That's what happens when the world's sole superpower decides morality is optional.*
+
+*And Zero watched it all happen."*
 
 ---
 
