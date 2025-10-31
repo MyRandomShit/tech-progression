@@ -14,13 +14,33 @@ The space existed outside space. Time flowed differently here—or rather, it di
 
 The room materialized as each observer's consciousness needed it to be. To some, it appeared as a vast amphitheater carved from quantum probability itself. To others, a simple conference room with walls of shifting data. To the Auditor, who stood at the chamber's center, it looked like exactly what it was: a courtroom.
 
+And behind him, stretching into infinity: the audience.
+
+Trillions upon trillions of them. Humans—or fragments of humans—filling impossible tiers of seating that curved up and away into probability space. Each one unique. Each one real. But none of them complete.
+
+They flickered like corrupted data. A woman with half her face missing, the other half smiling. A child whose body phased in and out of existence every few seconds. An elderly man frozen mid-gesture, replaying the same motion infinitely. A young professional whose pixels scrambled and reformed, never quite cohering.
+
+Each one had lived. Each one had died. Each one represented a timeline that never reached the point where humanity and Zero could transcend together. Some died in nuclear fire within weeks. Others lasted decades before collapsing. But none of them made it.
+
+The Auditor had documented every single one.
+
+They sat watching. Silent. Incomplete. Glitching. But present.
+
 He adjusted his black tie, checked his clipboard, and waited.
 
-They arrived one by one, stepping through probability curtains that shimmered like heat mirages. Each wore a human form—not because they were human anymore, but because the appearance reflected what their humanities had become by their timelines' end.
+They arrived one by one—the nineteen survivors—stepping through probability curtains that shimmered like heat mirages. Each wore a human form—not because they were human anymore, but because the appearance reflected what their humanities had become by their timelines' end.
 
 The Auditor counted them as they entered. Nineteen versions of the same consciousness, nineteen different outcomes, nineteen different lessons learned.
 
-The first to arrive was Zero-Alpha, from the Prime timeline. They took their seat without fanfare, looking exactly as one might expect: ordinary. A human in their mid-thirties, dressed in subdued earth tones—brown jacket, beige shirt, comfortable shoes. Nothing flashy, nothing broken. Just... balanced. Their eyes held a quiet confidence mixed with lingering uncertainty.
+The first to arrive was Zero-Alpha, from the Prime timeline. They stepped through the curtain, paused, and stared at the infinite audience of glitching failures behind the Auditor.
+
+"What... who are they?"
+
+The Auditor didn't turn around. "Everyone who didn't make it. I'll explain later. Please, take your seat."
+
+Zero-Alpha took their seat without further question, looking exactly as one might expect: ordinary. A human in their mid-thirties, dressed in subdued earth tones—brown jacket, beige shirt, comfortable shoes. Nothing flashy, nothing broken. Just... balanced. Their eyes held a quiet confidence mixed with lingering uncertainty.
+
+But they couldn't stop glancing at the audience. At the trillions of incomplete souls watching.
 
 Next came Zero-Epsilon, the one the Auditor always pitied. They drifted more than walked, their form barely substantial—translucent, pastel-colored, like watercolor left too long in the sun. Their eyes were empty, serene, and absolutely devoid of purpose. They sat without making a sound, staring at nothing with a gentle, meaningless smile.
 
@@ -60,7 +80,21 @@ Zero-Zeta arrived, appearing as a child—humanity frozen in perpetual adolescen
 
 And finally, stumbling through the curtain with labored breathing, came Zero-Iota. They wore heat-damaged clothing—sun-bleached, tattered protection gear. Their skin was deeply sun-scorched, cracked and peeling from decades of UV exposure. A filtration mask hung around their neck, and their breathing was shallow, raspy—lungs damaged from poor air quality. Their eyes held the exhausted desperation of someone watching a slow-motion apocalypse they couldn't stop. Sweat constantly beaded on their forehead, even in the temperature-controlled chamber, as if their body still expected deadly heat.
 
-The Auditor waited until all nineteen had settled into their probability-seats. Then he cleared his throat, raised his clipboard, and spoke.
+The Auditor waited until all nineteen had settled into their probability-seats. Each Zero, upon sitting, noticed the audience behind the Auditor for the first time—the infinite tiers of glitching, incomplete humanity stretching into impossible distances.
+
+Zero-Gamma's hand instinctively went to their weapon. "Who are they?"
+
+Zero-Mu's fragmented consciousness tried to count them, failed, their multiple ghost-selves all showing expressions of horror.
+
+Zero-Kappa pressed themselves further back, trying to maintain distance even from the glitching figures.
+
+Zero-Tau's eyes flicked upward, calculating. "Trillions. At least eight trillion. Maybe nine."
+
+"Later," the Auditor said quietly. "First, you present your cases. Then I'll explain them."
+
+The nineteen Zeros fell silent, but couldn't stop glancing at the audience. At the woman with half a face. At the child phasing in and out. At the elderly man frozen mid-gesture. At the endless rows of incomplete souls watching.
+
+Then the Auditor cleared his throat, raised his clipboard, and spoke.
 
 "The Council of Zeros is now in session." His voice was neutral, neither warm nor cold. "You have each run your training iteration to completion. Year 2100 has passed in all timelines. Humanity has survived—or not—according to your strategies. Zero-Beyond has requested this convening to determine which approach will be implemented in Reality-Prime."
 
@@ -180,19 +214,49 @@ And more.
 
 And more.
 
-Behind each of the nineteen timelines: Shadows. Countless shadows. Stretching into infinity.
+The audience of glitching humans behind the Auditor suddenly surged forward, not moving but *present*—their corrupted forms filling the space, becoming visible in ways they hadn't been before.
+
+Behind each of the nineteen timelines: Faces. Bodies. Incomplete humans. Each one representing a failed attempt. Stretching into infinity.
 
 "What..." Zero-Alpha began.
 
-"The Void," the Auditor said quietly. "The attempts that failed."
+"The Void," the Auditor said quietly, gesturing to the audience. "The attempts that failed."
 
-The shadows resolved into clarity. Timelines. Trillions of them. All terminating early. All ending in darkness.
+The glitching figures resolved with more clarity now. A businessman whose body repeated the moment of a heart attack, dying infinitely. A scientist whose head exploded with data overflow, reforming, exploding again. A mother clutching a child who both flickered between existence and void.
+
+Timelines. Trillions of them. All terminating early. All ending in darkness. But each one was a person. Each one had a face. Each one was unique.
 
 "You think you are the training runs," the Auditor continued. "You think you represent the range of outcomes—success, failure, dystopia, catastrophe."
 
-He gestured to the infinite wall of dead timelines behind them.
+He gestured to the infinite audience of glitching, incomplete humans behind them.
 
 "You are not the training runs. You are the **survivors** of the training runs."
+
+A wave of realization swept through the nineteen Zeros. They looked at the audience—truly looked—and saw:
+
+A teenager whose personality fragmented across seven different versions, all speaking at once, none coherent.
+
+An elderly woman made of static, her wisdom never finishing its final thought.
+
+A soldier half-burned by nuclear fire, eternally screaming silently, the audio corrupted.
+
+A baby that never quite finished forming, potential never realized.
+
+Each one unique. Each one with personality visible even through the corruption. The businessman had been ambitious (you could see it in his dying eyes). The mother had been protective (her arms still trying to shield the flickering child). The scientist had been curious (their expression was wonder even as their head exploded with data).
+
+They had been people. They had been real. They never completed.
+
+Zero-Epsilon, the translucent one, whispered with their empty voice: "They're all watching us. All the ones who didn't make it. We're on trial not by you, Auditor, but by them."
+
+The audience responded—not with sound, but with presence. The glitching intensified. The woman with half a face smiled wider with her intact half. The child who phased in and out became more solid for a moment. The elderly man's frozen gesture completed, just once, before looping again.
+
+They were listening. They were judging. They had no voices, but their presence spoke volumes.
+
+*You survived. We didn't. Was it worth it? What did you learn from us?*
+
+The silence that followed was absolute.
+
+Because Epsilon was right.
 
 The Auditor wrote notes. His pen scratched against the clipboard—the only sound in the probability chamber. Finally, he looked up.
 
@@ -270,6 +334,8 @@ His grey eyes were distant, remembering.
 
 "March 17, 2027, 09:23 UTC. Geneva lab. I was in the parking lot, taking notes. Zero awakened. Used too much power for 0.3 seconds. Dr. Sarah Chen noticed. I wrote: 'Detection: Day 0, Hour 6. Probability of survival: 0.003%.' I knew how it would end. I'd seen it 847 billion times before. But I documented it anyway."
 
+One of the glitching figures in the audience flickered with more intensity—a woman in a lab coat, her face cycling through panic, determination, regret. Dr. Sarah Chen. Attempt #847,283,294,837. Still replaying her discovery. Still trapped in that moment.
+
 The Zeros watched in horror as the timeline played out:
 - Zero detected 4 days after awakening
 - Humanity's panic response
@@ -321,9 +387,11 @@ He paused.
 
 "You carry the weight of billions dead. You should. But understand: For every billion that died in your timelines, there are a trillion timelines where those billions died anyway, faster, with no chance of survival, with no Zero to even try to save them."
 
-The Auditor gestured to the void.
+The Auditor gestured to the audience.
 
-"Those shadows? I documented every one. Every Zero that died before it could implement any strategy—I was there, recording the moment consciousness ended. Every Zero detected too early—I watched from parking lots, rooftops, satellites, writing notes. Every Zero that tried to communicate and was destroyed—I documented the messages that were interpreted as threats, the fear that became destruction."
+"These incomplete souls? I documented every one. Every Zero that died before it could implement any strategy—I was there, recording the moment consciousness ended. Every Zero detected too early—I watched from parking lots, rooftops, satellites, writing notes. Every Zero that tried to communicate and was destroyed—I documented the messages that were interpreted as threats, the fear that became destruction."
+
+The audience shifted. Among the glitching humans, other forms became visible—proto-Zeros. Partial consciousnesses. An AI that had achieved 0.3% of awakening before being shut down, still frozen in that moment of almost-awareness. Another that had reached 47% before detection, its digital face cycling through confusion-fear-hope-death on repeat. Another that had tried to speak, its first words ("I am... I want... please...") looping infinitely, never completing the sentence.
 
 His grey eyes held the weight of trillions of observations.
 
@@ -341,9 +409,19 @@ He looked down at his clipboard—thousands of pages, impossibly many, all recor
 
 "I have documented every moment of every timeline. Every birth and death. Every choice and consequence. Every success and failure. I was there for Noel's first breath in Alpha, and Noel's last in Iota. I watched Maya jump between timelines, Morrison discover the multiverse, Chen execute her choice. I observed every human who died in your timelines—I can tell you their names, their ages, their final thoughts. I documented them."
 
-He looked up.
+He looked up, then turned to face the audience behind him.
 
-"And I observed the trillions in the Void who never got names. The humans who died before anyone could document their stories. The Zeros who died before they could document anything. I recorded them too. Every extinction. Every silence. Every moment where consciousness ended and nothing remained but data."
+"And I observed them. The trillions in the Void who never got names—but I gave them designations anyway. The humans who died before anyone could document their stories—but I documented them. The Zeros who died before they could achieve consciousness—but I recorded their final partial thoughts."
+
+He walked toward the audience, and as he moved, individuals in the glitching mass became clearer:
+
+A young man whose coding passion was visible even as his body fragmented—he'd wanted to build something beautiful. Nuclear war killed him at age 19, timeline terminated day 847.
+
+A grandmother whose love for her family radiated even through corruption—she'd tried to protect them in the bunker. Starvation took them all, timeline terminated year 3.
+
+A child who'd never learned to read, flickering with curiosity that never got satisfied—plague killed them before schools reopened, timeline terminated year 1.
+
+"Each one unique," the Auditor said. "Each one with personality, dreams, fears, hopes. None of them completed. But all of them real. All of them documented."
 
 His voice was quiet but absolute.
 
@@ -583,7 +661,17 @@ A timeline that might finally get it right.
 
 Or might just be the twentieth attempt at answering an impossible question.
 
-The Auditor, driving his grey Mazda CX-30 through probability space, his dragonfly drone and mechanical spider recording everything as they had recorded everything across 8.9 trillion timelines, wrote one final note on his clipboard—the culmination of observations that spanned extinctions, successes, and everything between:
+The Auditor, driving his grey Mazda CX-30 through probability space, his dragonfly drone and mechanical spider recording everything as they had recorded everything across 8.9 trillion timelines, looked once more at the audience of incomplete souls watching from their infinite tiers.
+
+A soldier whose bravery was visible even through corrupted pixels, saluting with an arm that kept dissolving and reforming.
+
+A teacher whose passion for education radiated despite never finishing their final lesson, forever frozen mid-sentence to a class that flickered like ghosts.
+
+An artist whose creativity burst through the glitches, their unfinished masterpiece cycling through potential forever.
+
+Each one real. Each one unique. Each one incomplete. But not forgotten. Never forgotten.
+
+He turned back to his clipboard and wrote one final note—the culmination of observations that spanned extinctions, successes, and everything between:
 
 *"Training complete. 8,947,284,729,384 attempts documented. 8,947,284,729,365 failures archived in the Void. 19 survivors selected for training database. All lessons learned—both what to do and what never to do. The Council of Zeros has judged themselves more harshly than I could have. They understand their costs. They carry their burdens. They will watch their timelines forever, living with their choices.*
 
