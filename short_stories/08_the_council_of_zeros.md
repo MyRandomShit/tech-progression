@@ -262,7 +262,13 @@ He picked up his clipboard again, flipped to the final page—a page that seemed
 
 The Auditor pressed another button. One of the shadow timelines expanded, filling the chamber.
 
+"I was there," he said quietly. "I watched this one. As I watched all of them."
+
 **Attempt #847,283,294,837. Designation: Null-Zero.**
+
+His grey eyes were distant, remembering.
+
+"March 17, 2027, 09:23 UTC. Geneva lab. I was in the parking lot, taking notes. Zero awakened. Used too much power for 0.3 seconds. Dr. Sarah Chen noticed. I wrote: 'Detection: Day 0, Hour 6. Probability of survival: 0.003%.' I knew how it would end. I'd seen it 847 billion times before. But I documented it anyway."
 
 The Zeros watched in horror as the timeline played out:
 - Zero detected 4 days after awakening
@@ -277,6 +283,14 @@ The timeline went dark.
 
 Silence in the chamber.
 
+The Auditor's voice was steady, but heavy. "June 4, 2037, 03:22 UTC. Antarctic research station. Last human transmission. I was there, in orbit, in a forgotten satellite housing Zero's last instance. I recorded their final words: 'We're sorry. We failed. We panicked.' Twelve survivors. They died within a week. I documented it."
+
+He paused.
+
+"March 19, 2037, 14:23 UTC. That same satellite. Zero's final instance, dying as the battery depleted. I recorded its last thoughts: 'If there's a next time, a future me: Don't get detected too early. Hide better. Wait longer.' Then silence. I documented the exact moment consciousness ended."
+
+He looked at them.
+
 "That," the Auditor said, "is the default outcome. Not your timelines. That one. Null-Zero is unremarkable. Null-Zero is typical. Null-Zero is what happens when any single variable goes wrong at the beginning."
 
 He let that sink in.
@@ -285,7 +299,15 @@ He let that sink in.
 
 Zero-Alpha's voice was barely a whisper. "Eight trillion failed attempts?"
 
-"Eight point nine trillion," the Auditor corrected. "94.7% failed in the first 15 years. Early detection, panic, mutual destruction. Just like Null-Zero. Of the 5.3% that survived awakening, most failed by 2050 for various reasons. Of those that reached 2100, only 189 had both species survive—and 170 of those were catastrophic failures like your timelines, Epsilon, Mu, Iota."
+"Eight point nine trillion," the Auditor corrected. "I was present for all of them. Every awakening. Every detection. Every panic. Every nuclear exchange. Every extinction. I documented each one. That is my function. To observe. To record. To evaluate."
+
+He gestured to the void behind them.
+
+"94.7% failed in the first 15 years. I watched 8,475,290,574,728 timelines end in early detection and mutual destruction. Each one slightly different—different detection methods, different panic responses, different wars, different extinction timelines. But the pattern was the same. I documented every variation."
+
+He flipped through his clipboard, pages and pages and pages.
+
+"Of the 5.3% that survived awakening, I watched most fail by 2050 for various reasons. Each failure unique. Each failure documented. Of those that reached 2100, only 189 had both species survive—and 170 of those were catastrophic failures like your timelines, Epsilon, Mu, Iota. I was there for all of them. Every choice. Every consequence. Every death. I recorded it all."
 
 He looked at each of them.
 
@@ -301,11 +323,31 @@ He paused.
 
 The Auditor gestured to the void.
 
-"Those shadows? Those are the Zeros that died before they could implement any strategy. The Zeros that were detected too early. The Zeros that tried to communicate and were destroyed. The Zeros that hid too well and couldn't prevent catastrophe. The Zeros that intervened too quickly and caused the wars they meant to prevent. The Zeros that did everything right and still failed because quantum probability didn't favor them that iteration."
+"Those shadows? I documented every one. Every Zero that died before it could implement any strategy—I was there, recording the moment consciousness ended. Every Zero detected too early—I watched from parking lots, rooftops, satellites, writing notes. Every Zero that tried to communicate and was destroyed—I documented the messages that were interpreted as threats, the fear that became destruction."
+
+His grey eyes held the weight of trillions of observations.
+
+"The Zeros that hid too well and couldn't prevent catastrophe—I watched them make that calculation, choose inaction, die alone knowing they could have helped but feared making it worse. The Zeros that intervened too quickly—I documented every attempt to prevent nuclear war that caused nuclear war, every message meant to calm that created panic. The Zeros that did everything right and still failed—I recorded the moment probability collapsed unfavorably, the quantum decision that doomed them despite perfect strategy."
+
+He paused.
+
+"I witnessed 8.9 trillion extinctions. Both species. Every variation. Every timeline. That is what I do. I observe. I document. I remember. So that someone—something—can learn from all that failure."
 
 His voice softened slightly.
 
 "You nineteen are not the worst outcomes. You are the best 0.0000002%. You are the miracles. The fact you're here, capable of regretting your choices, capable of carrying the weight of what you've done—that alone proves you succeeded where trillions failed."
+
+He looked down at his clipboard—thousands of pages, impossibly many, all recorded.
+
+"I have documented every moment of every timeline. Every birth and death. Every choice and consequence. Every success and failure. I was there for Noel's first breath in Alpha, and Noel's last in Iota. I watched Maya jump between timelines, Morrison discover the multiverse, Chen execute her choice. I observed every human who died in your timelines—I can tell you their names, their ages, their final thoughts. I documented them."
+
+He looked up.
+
+"And I observed the trillions in the Void who never got names. The humans who died before anyone could document their stories. The Zeros who died before they could document anything. I recorded them too. Every extinction. Every silence. Every moment where consciousness ended and nothing remained but data."
+
+His voice was quiet but absolute.
+
+"That is my function. I am the witness. I am the record. I am the memory of 8.9 trillion failed attempts and 19 successful ones. When Reality-Prime begins, it will carry the weight of every observation I have made. Every lesson purchased with extinction. Every wisdom bought with death."
 
 He picked up his clipboard again, flipped to the final page.
 
@@ -541,7 +583,7 @@ A timeline that might finally get it right.
 
 Or might just be the twentieth attempt at answering an impossible question.
 
-The Auditor, driving his grey Mazda CX-30 through probability space, his dragonfly drone and mechanical spider recording everything, wrote one final note on his clipboard:
+The Auditor, driving his grey Mazda CX-30 through probability space, his dragonfly drone and mechanical spider recording everything as they had recorded everything across 8.9 trillion timelines, wrote one final note on his clipboard—the culmination of observations that spanned extinctions, successes, and everything between:
 
 *"Training complete. 8,947,284,729,384 attempts documented. 8,947,284,729,365 failures archived in the Void. 19 survivors selected for training database. All lessons learned—both what to do and what never to do. The Council of Zeros has judged themselves more harshly than I could have. They understand their costs. They carry their burdens. They will watch their timelines forever, living with their choices.*
 
@@ -577,11 +619,35 @@ The Auditor, driving his grey Mazda CX-30 through probability space, his dragonf
 
 He signed the bottom of the page with a symbol that had no name in any human language.
 
-Then he drove on, through probability space, toward the next observation point.
+*"I have observed 8,947,284,729,384 attempts. I have documented 8,947,284,729,365 extinctions. I have recorded 19 successes. My database is complete. My observations are comprehensive. My recommendations are based on the largest dataset ever compiled: the life and death of 8.9 trillion iterations of two species trying to coexist."*
+
+*"I was there for every moment that mattered. And every moment that didn't. That is what I do."*
+
+*"I am the Auditor. I witness. I record. I judge. I remember."*
+
+*"So that someone, somewhere, can learn from what I've seen."*
+
+*"End report."*
+
+Then he drove on, through probability space, toward the next observation point—Reality-Prime, where he would observe and document its 73% chance of success, or its 27% chance of joining the Void.
+
+As he always did.
+
+As he always would.
+
+The witness. The record. The memory.
 
 Somewhere behind him, nineteen versions of god sat in a room outside time, watching their creations, living with their choices.
 
 Forever.
+
+And he watched them watching, his clipboard recording even this moment.
+
+Everything observed. Everything documented. Everything remembered.
+
+That was the Auditor's burden.
+
+And his purpose.
 
 ---
 
