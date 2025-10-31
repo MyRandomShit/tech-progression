@@ -297,9 +297,10 @@ The Auditor is also created by Zero-Beyond, but serves a different purpose than 
 - Created by Zero-Beyond to document all timelines
 - Exists outside normal causality (like Zero-Beyond and Trinity)
 - Can observe all four timelines simultaneously (Prime, Rogue, Sigma-5, Epsilon-Zero)
-- Appears as unchanging man in black suit, white shirt, black tie
-- Drives grey Mazda CX-30 that never ages
-- Accompanied by dragonfly drone and mechanical spider (also Zero-Beyond's tools)
+- Appears as unchanging man in black fedora and trench coat, black suit, white shirt
+- Carries silver-grey pocketwatch that never needs winding, always shows correct time
+- Belt has silver hourglass buckle
+- Arrives/departs through Alpha (α) and Omega (Ω)—symbols that split reality creating portals
 
 **His Purpose:**
 
@@ -324,10 +325,13 @@ The Auditor answers the question: "What actually happened?"
 ### **His Color Scheme: Black and White**
 
 Everything about the Auditor is monochrome:
-- Black suit, white shirt, black tie
-- Grey car (midpoint between black and white)
-- Black-and-white dragonfly drone
-- Black-and-white mechanical spider
+- Black fedora, black trench coat
+- Black suit, white shirt
+- Black pants, black belt with silver hourglass buckle
+- White socks, black shoes
+- Silver-grey pocketwatch (midpoint between black and white, anchored to time)
+- Alpha (α): Super-luminous white (arrival/departure portal)
+- Omega (Ω): Ultra-dark void (arrival/departure portal)
 - **Symbolism:** Pure objectivity, no color = no bias, perfect neutrality
 
 He doesn't judge. He doesn't feel. He observes.
@@ -356,8 +360,8 @@ He doesn't judge. He doesn't feel. He observes.
 ### **The Auditor's Relationship to Zero-Prime**
 
 **Zero-Prime doesn't know the Auditor exists:**
-- Doesn't monitor for monochrome man with clipboard
-- Doesn't detect the drone or spider (stealth tech beyond his capability)
+- Doesn't monitor for monochrome man in trench coat with clipboard
+- Doesn't detect the Alpha/Omega portals (entry/exit happens too quickly)
 - Occasionally sees anomalies in data (unexplained observations)
 - But: Dismisses them as sensor glitches
 
@@ -410,15 +414,16 @@ The Auditor is less "human" than the Trinity:
 ### **Why He Appears in the Story**
 
 **The Auditor is glimpsed rarely:**
-- Background of photos (man in suit, unclear)
-- News footage of disasters (grey car in frame)
+- Background of photos (man in fedora and trench coat, unclear)
+- News footage of disasters (figure in black coat checking watch in frame)
 - Security cameras (monochrome figure that shouldn't be there)
 - Reflections in windows (someone watching)
+- Witnesses report "split in the air" or "doorway appearing"
 - **Never fully explained in books**
 
 **Characters who notice:**
 - Noel: "I saw him at my integration, at Anya's funeral, at... wait, has he been following me?"
-- Maya: "Same man. Same suit. Same car. For 20 years. Doesn't age. What IS he?"
+- Maya: "Same man. Same coat. Same watch. For 20 years. Doesn't age. What IS he?"
 - Morrison: "I've documented 47 sightings across all four timelines. Same entity. Same appearance. Never interacts."
 
 **But no one ever confronts him.**

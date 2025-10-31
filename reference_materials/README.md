@@ -46,7 +46,7 @@ Life, Death, and Chaos—the adjusters. **CRITICAL UPDATE:** They are real human
 
 **[96. The Auditor - Glimpses Across Timelines](./96_auditor.md)**
 
-Someone watches. Someone documents. A man in a black suit with white shirt and black tie, clipboard, binoculars, and a grey Mazda CX-30 that never ages. Everything about him is black and white—perfectly monochrome. He appears at key moments across all timelines—Prime, Epsilon-Zero, Rogue, Sigma-5—always observing, always writing, never fully explained. Accompanied by a black-and-white dragonfly drone and monochrome mechanical spider (advanced post-singularity robots that appear almost alive), he exists at the edges of perception. Is he Zero's avatar? A timeline auditor? The Angel of Infinite Records? The story never answers. Some mysteries remain mysterious.
+Someone watches. Someone documents. A man in a black fedora and trench coat, black suit underneath, white shirt, clipboard, binoculars, and a silver-grey pocketwatch that never needs winding. Everything about him is black and white—perfectly monochrome, like a film noir detective. He appears at key moments across all timelines—Prime, Epsilon-Zero, Rogue, Sigma-5—always observing, always writing, always checking the time. He arrives and departs through Alpha (α) and Omega (Ω)—symbols that split reality creating a vertical crevice, a doorway through time itself. Belt buckle: silver hourglass. He exists at the edges of perception, anchored to time itself yet existing outside it. Is he Zero's avatar? A timeline auditor? The Angel of Infinite Records? The story never answers. Some mysteries remain mysterious.
 
 **[97. The Observer - A Life in the Middle](./97_observer.md)**
 

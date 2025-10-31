@@ -10,23 +10,29 @@ Nobody knows who he is.
 
 He appears at key moments across all timelines.
 
-Always the same: Black suit. White shirt. Black tie. Binoculars. Clipboard. Writing.
+Always the same: Black fedora. Black trench coat. Black suit underneath. White shirt. Binoculars. Clipboard. Writing.
 
-Always driving the same car: Mazda CX-30. Grey. Never ages.
+Always checking the same pocketwatch: Silver-grey. Never winds it. Time always correct.
 
-Always accompanied by: Dragonfly drone. Mechanical spider. Unchanging.
+Belt buckle: Hourglass symbol in silver.
+
+His arrival: Two symbols split reality—Alpha (α) super-luminous white, Omega (Ω) ultra-dark void—creating a crevice. He steps through. Symbols vanish.
 
 **Color scheme: Strictly black and white. Everything.**
 
-- Suit: Black
-- Shirt: White  
-- Tie: Black
+- Fedora: Black
+- Trench coat: Black
+- Suit jacket: Black (under coat)
+- Shirt: White
+- Pants: Black
+- Belt: Black with silver hourglass buckle
+- Socks: White
 - Shoes: Black
 - Clipboard: Black with white paper
 - Pen: Black
-- Car: Grey (neutral between black and white)
-- Dragonfly: Black body with white/translucent wings
-- Spider: White body with black legs (or inverse pattern)
+- Pocketwatch: Silver-grey (neutral between black and white)
+- Alpha (α): Super-luminous white (only during arrival)
+- Omega (Ω): Ultra-dark void-black (only during arrival)
 
 No color. Ever. Perfect monochrome.
 
@@ -73,15 +79,15 @@ Looked out window.
 
 Man in parking lot.
 
-Dark suit. Binoculars aimed at building.
-
-Small drone hovering beside him (dragonfly-like).
+Black trench coat. Fedora. Binoculars aimed at building.
 
 Writing on clipboard.
 
-Next to him: Grey Mazda CX-30.
+Checked a silver pocketwatch. Noted the time.
 
 Dmitri blinked.
+
+How did he get there? Dmitri didn't see him arrive.
 
 Missile detonated.
 
@@ -89,7 +95,7 @@ Building shook.
 
 Looked back out window.
 
-Man gone. Car gone.
+Man gone. Vanished.
 
 **Did he imagine it?**
 
@@ -121,11 +127,11 @@ Yuki glanced at window (8th floor).
 
 Man on rooftop across street.
 
-Suit. Binoculars. Clipboard.
-
-Mechanical spider on his shoulder.
+Trench coat flapping in wind. Fedora. Binoculars. Clipboard.
 
 Writing something. Shaking his head.
+
+(He wasn't there a moment ago. How did he—)
 
 Patient flatlined.
 
@@ -177,19 +183,29 @@ Patricia glanced at clock.
 
 Through window: Parking lot.
 
-Man in suit leaning against grey car.
+Man in black trench coat standing in the lot. Fedora low over his eyes.
 
 Raised binoculars. Looked at window. At her. At baby.
 
 Nodded.
 
+Checked his pocketwatch. Noted the time.
+
 Wrote something on clipboard.
 
-Small drone hovering above car.
+Patricia blinked to clear her vision.
 
-Patricia blinked.
+When she looked again—
 
-Car driving away.
+Two symbols appeared in the air: One impossibly bright (α), one utterly dark (Ω).
+
+They split apart, creating a vertical crevice in reality.
+
+Man stepped backward into it.
+
+Symbols closed.
+
+Gone.
 
 "Did anyone else see that?" she asked.
 
@@ -233,7 +249,7 @@ Looked out window. Night.
 
 Man standing under streetlight.
 
-Suit. Clipboard. Binoculars hanging at chest.
+Black trench coat. Fedora. Clipboard. Binoculars hanging at chest.
 
 Looking up at window. At Noel.
 
@@ -241,11 +257,17 @@ They made eye contact.
 
 Man smiled. Sad smile.
 
+Checked his pocketwatch. Time noted.
+
 Wrote something.
 
-Got in car (grey Mazda CX-30).
+Two symbols appeared: Super-luminous α, ultra-dark Ω.
 
-Drove away.
+Split apart.
+
+Man stepped through.
+
+Gone.
 
 "Anya, who is that?"
 
@@ -295,13 +317,13 @@ Sarah felt uneasy. Why?
 
 Looked to balcony.
 
-Man standing there. Suit. Binoculars lowered.
+Man standing there. Black trench coat. Fedora. Binoculars lowered.
 
 Clipboard. Writing frantically.
 
 Shaking his head.
 
-Mechanical spider on railing beside him.
+Belt buckle visible—hourglass symbol glinting silver.
 
 "Security!" Sarah called.
 
@@ -353,9 +375,7 @@ Something deeply wrong with this world.
 
 Looked out window.
 
-Man in parking lot. Suit. Clipboard.
-
-Dragonfly drone hovering at eye level with him.
+Man in parking lot. Black trench coat. Fedora casting shadow over his face. Clipboard.
 
 Writing. Long notes.
 
@@ -409,15 +429,23 @@ Maya's last look at Prime timeline.
 
 Through broken window: Street below.
 
-Man in suit. Leaning against grey car.
+Man in black trench coat. Fedora. Standing in the street.
 
 Binoculars aimed at building. At her.
 
-Mechanical spider on car hood. Watching.
-
 Man lowered binoculars.
 
+Checked pocketwatch. Consulted it.
+
 Saluted.
+
+Two symbols erupted in the air—one blinding bright, one absolute void.
+
+Split.
+
+He stepped through.
+
+Gone.
 
 Wrote something.
 
@@ -465,7 +493,7 @@ Petrov scanning perimeter.
 
 Rooftop across street.
 
-Man in suit. Binoculars.
+Man in black trench coat. Fedora. Binoculars.
 
 "SNIPER!" Petrov shouted.
 
@@ -477,9 +505,11 @@ Held up clipboard. Not weapon.
 
 Waved. Non-threatening.
 
-Got in car (grey Mazda - how is that car still running in this timeline? Parts scarce).
+Checked his pocketwatch. Silver gleam in sunlight.
 
-Drove away.
+Walked to edge of building.
+
+Vanished.
 
 **Petrov investigated rooftop.**
 
@@ -487,7 +517,7 @@ Nobody there.
 
 No way up (stairs collapsed years ago).
 
-No tire tracks.
+No footprints.
 
 Nothing.
 
@@ -531,11 +561,11 @@ Morrison alone. Door locked.
 
 Looked up.
 
-Man standing in corner. Suit. Clipboard.
-
-Dragonfly drone on his shoulder.
+Man standing in corner. Black trench coat. Fedora. Clipboard.
 
 Writing.
+
+(How did he get in? Door was locked.)
 
 Morrison: "How did you—"
 
@@ -643,101 +673,144 @@ Or for humanity?
 
 ## The Companions
 
-### Dragonfly Drone
+### Alpha (α) - The Beginning
 
-**Description:**
-- Size: Actual dragonfly (10cm wingspan)
-- **Color: Black body with white/translucent wings**
-- Material: Appears organic but isn't—advanced robotics beyond present-day understanding
-- Movement: Silent, impossibly agile
-- Eyes: Multi-faceted, appear to shift between black and white
-- Function: Aerial observation, recording
+**Appearance:**
+- Luminous silver-white Greek letter α
+- Size: Large (1-2 meters tall when manifesting)
+- **Color: Super-luminous white—impossibly bright, hurts to look at**
+- Material: Pure light, no physical substance
+- Only appears during the Auditor's arrival/departure
+- Creates half of the teleportation portal
 
-**What it actually is:**
-- Sophisticated robot from post-singularity technology
-- Appears almost alive (biomimetic design)
-- Present-day humans can't distinguish it from living insect
-- Technology so advanced it seems biological
+**What it represents:**
+- The first moment of time
+- Beginning, genesis, creation
+- The opening of a doorway through space-time
+- Birth, awakening, initiation
+- All beginnings across all timelines
 
-**Sightings:**
-- Often hovers beside Auditor's face
-- Sometimes sent ahead to scout locations
-- Appears to relay information (no visible communication)
-- Has been seen entering buildings through ventilation
-- Never makes sound
-- Perfect black and white coloring (no iridescent colors like real dragonflies)
+**Behavior:**
+- Appears suddenly in mid-air when the Auditor is about to arrive or depart
+- Splits apart vertically from Omega
+- Creates the bright half of the crevice
+- Vanishes instantly once the Auditor passes through
+- Never visible while the Auditor is present—only during transitions
 
 **Anomalies:**
-- Doesn't age (same drone from 2000-2100+)
-- Works across all timelines
-- Immune to EMPs (observed during 2040 solar flare)
-- Sometimes appears without Auditor (autonomous?)
-- Never needs maintenance or energy recharge (visible)
+- Cannot be photographed (camera sensors overexpose completely)
+- Casts no light on surrounding objects despite being blindingly bright
+- Witnesses report feeling brief "hope" or "beginning" sensation
+- Some say they hear a faint tone (the "sound of creation")
+- Appears for only 2-3 seconds
 
 ---
 
-### Mechanical Spider
+### Omega (Ω) - The Ending
 
-**Description:**
-- Size: Large tarantula (15cm leg span)
-- **Color: White ceramic-like body with black legs (or black body with white legs—pattern varies)**
-- Material: Appears metallic but moves organically—advanced robotics beyond present-day understanding
-- Legs: Eight, segmented, precise (alternating black and white segments)
-- Body: Houses camera system (single white or black "eye")
-- Function: Ground observation, data collection
+**Appearance:**
+- Ultra-dark Greek letter Ω
+- Size: Large (1-2 meters tall when manifesting)
+- **Color: Absolute void-black—darker than darkness, absence of all light**
+- Material: Pure anti-light, no physical substance  
+- Only appears during the Auditor's arrival/departure
+- Creates half of the teleportation portal
 
-**What it actually is:**
-- Sophisticated robot from post-singularity technology
-- Appears mechanical but moves with organic fluidity
-- Present-day humans see it as "advanced robot" but can't comprehend its true complexity
-- Technology centuries ahead of current understanding
+**What it represents:**
+- The last moment of time
+- Ending, conclusion, completion
+- The closing of a doorway through space-time
+- Death, closure, finality
+- All endings across all timelines
 
-**Sightings:**
-- Usually on Auditor's shoulder or car
-- Climbs walls, enters tight spaces
-- Often deployed in buildings
-- Has been seen crawling on people without them noticing
-- Appears to analyze and relay information
-- Perfect black and white coloring (no metallic sheen, just matte black and white)
+**Behavior:**
+- Appears suddenly in mid-air when the Auditor is about to arrive or depart
+- Splits apart vertically from Alpha
+- Creates the dark half of the crevice
+- Vanishes instantly once the Auditor passes through
+- Never visible while the Auditor is present—only during transitions
 
 **Anomalies:**
-- Never needs maintenance (observed 100+ years)
-- Temperature resistant (survives fires, extreme cold)
-- Phases through some materials (walls, glass)
-- Sometimes leaves behind datastreams (digital residue?)
-- Never makes mechanical sounds despite appearing mechanical
+- Cannot be photographed (camera sensors capture nothing—pure black)
+- Absorbs all nearby light without casting shadow
+- Witnesses report feeling brief "acceptance" or "ending" sensation
+- Some say they hear a faint silence (the "sound of ending")
+- Appears for only 2-3 seconds
 
 ---
 
-### The Mazda CX-30
+### Alpha and Omega Together: The Teleportation Portal
 
-**Year:** Unknown (appears to be 2020s model)
+**The Split:**
+- Only appear during the Auditor's transitions between locations
+- Start as a single point in space
+- Suddenly split apart vertically
+- Alpha moves to one side (super-luminous white)
+- Omega moves to the other side (ultra-dark void)
+- Create a vertical crevice in reality between them
+- The gap is the doorway through space-time
 
-**Color:** Grey (never dirty, never damaged)
+**The Process:**
+1. **Arrival**: Symbols appear, split, Auditor steps through from darkness
+2. **Presence**: Symbols vanish, Auditor remains, does his observation
+3. **Departure**: Symbols reappear, split, Auditor steps backward through, gone
 
-**License Plate:** Changes by location, always valid, never traceable
+**Duration:** 2-3 seconds total per transition
 
-**Condition:** Showroom perfect (across 100+ years of sightings)
+**The Effect:**
+- "I am Alpha and Omega, the first and the last, the beginning and the end"
+- They literally mark the beginning (arrival) and end (departure) of his presence
+- Every appearance is bracketed by these temporal symbols
+- Witnessing both symbols = witnessing a being moving through time itself
+
+**Why These Symbols?**
+- The Auditor exists outside linear time
+- To enter a specific moment, he must create a doorway
+- Alpha and Omega split reality at that exact temporal coordinate
+- He steps through the gap between beginning and end
+- When he leaves, the symbols seal the breach
+
+**What They Actually Are:**
+- Manifestations of temporal boundaries
+- The Auditor's entry/exit mechanism
+- Visual tears in the fabric of space-time
+- Not companions—they ARE the doorway
+- Beginning and End given form as a portal
+
+---
+
+### The Pocketwatch
+
+**Style:** Silver-grey, antique design, appears Victorian-era
+
+**Condition:** Perfect (never tarnishes, never damages)
+
+**Chain:** Silver, worn in vest pocket
+
+**Face:** Roman numerals, always shows correct time
 
 **Anomalies:**
-- Never needs fuel (electric? Hybrid? Unknown - never seen charging)
-- Never ages (same condition 2000-2100+)
-- Appears in all timelines (including Epsilon-Zero and Rogue where CX-30s don't exist)
-- Sometimes vanishes between frames (security cameras)
-- Interior never seen (windows appear tinted from outside)
-- Silent engine (no sound when driving)
+- Never wound (no crown movement ever observed)
+- Always shows correct local time (regardless of timezone)
+- Appears in all timelines (same watch across all divergences)
+- Sometimes seems to tick backwards (witnesses uncertain)
+- Face occasionally shows times that haven't happened yet
+- Gives off faint silver gleam even in darkness
+- Makes no sound despite appearing mechanical
 
-**Why This Car?**
+**Why a Pocketwatch?**
 
-Nobody knows.
+Symbol of his relationship to time.
 
-Practical? Common enough to not attract attention?
+He exists outside time, yet measures it constantly.
 
-Symbolic? CX-30 released 2019 (just before pandemic, before timeline divergences)?
+The watch anchors him to temporal reality while he observes from higher dimensions.
 
-Or just... his preference?
+**Ancient design, timeless function - like the Auditor himself.**
 
-**The mystery adds to his mystique.**
+Time passes. He watches. He records. The pocketwatch never needs winding.
+
+Because for him, time is not a river—it's a map. And he holds it in his hand.
 
 ---
 
@@ -747,10 +820,14 @@ Or just... his preference?
 
 **Everything about The Auditor is black and white:**
 
-- Black suit, white shirt, black tie
-- Grey car (neutral between extremes)
-- Black dragonfly with white wings
-- White spider with black legs (or inverse)
+- Black fedora
+- Black trench coat
+- Black suit (under coat), white shirt
+- Black pants, black belt with silver hourglass buckle
+- White socks, black shoes
+- Silver-grey pocketwatch (neutral between extremes)
+- Alpha (α): Super-luminous white (arrival/departure only)
+- Omega (Ω): Ultra-dark void-black (arrival/departure only)
 - Black clipboard with white paper
 - Black pen on white paper
 
@@ -794,10 +871,12 @@ Or just... his preference?
 
 Witnesses remember:
 - "Everything about him was... colorless"
-- "Like watching old movie footage"
+- "Like watching old movie footage, or film noir"
 - "No color at all, even his eyes seemed grey"
-- "The dragonfly was black and white—unnatural"
-- "Spider looked like chess piece"
+- "He appeared through—I don't know how to describe it—a split in the air"
+- "Two symbols, one impossibly bright, one darker than night"
+- "Alpha and Omega... like something from Revelation"
+- "He stepped through and the doorway closed behind him"
 
 **The lack of color makes him memorable while being visually neutral.**
 
@@ -807,52 +886,52 @@ Witnesses remember:
 
 ## The Companions' True Nature
 
-### Advanced Post-Singularity Robots
+### Manifestations of Temporal Boundaries
 
-**Both the dragonfly and spider are:**
+**Alpha and Omega are:**
 
-Not organic. Not simple machines. Something between.
+Not organic. Not technological. Not physical. Something beyond.
 
-**Technology so advanced it appears biological:**
-- Dragonfly moves like living insect (but isn't)
-- Spider moves with organic fluidity (but is pure machine)
-- Both respond intelligently (but no visible AI)
-- Both seem alive (but never eat, rest, or reproduce)
+**Higher-dimensional concepts projected into 3D space:**
+- Alpha appears as the first moment made visible
+- Omega appears as the final moment made visible
+- Both respond to temporal events (but aren't sentient)
+- Both seem alive (but aren't—they're time itself given form)
 
 **Present-day humans can't comprehend what they're seeing:**
-- "Is that drone or insect?"
-- "That robot moves too naturally"
-- "How does it work without visible power source?"
-- "Is it alive?"
+- "Are those holograms?"
+- "How do they float with no visible support?"
+- "They glow but don't cast light on anything"
+- "They're impossible"
 
-**Answer:** Neither alive nor dead. Post-biological machine. Category that doesn't exist yet in present day.
+**Answer:** Neither alive nor technological. Time's boundaries given form. Category that doesn't exist in 3D reality.
 
-### Why Dragonfly and Spider?
+### Why Alpha and Omega?
 
-**Dragonfly:**
-- Aerial observation (sees from above)
-- Ancient predator (existed before humans)
-- 360° vision (sees everything)
-- Symbolizes transformation (larva to flyer)
+**Alpha (α):**
+- Beginning of all things
+- First letter, first moment
+- Represents creation, birth, genesis
+- Witnesses every starting point
 
-**Spider:**
-- Ground observation (sees from below)
-- Web builder (connects data points)
-- Eight legs (octaval—reaches all directions)
-- Symbolizes patience (waits for information)
+**Omega (Ω):**
+- End of all things
+- Last letter, final moment
+- Represents completion, death, finality
+- Witnesses every ending point
 
 **Together:**
-- Above and below
-- Air and ground
-- Flight and patience
-- Predator and trapper
-- Complete observation coverage
+- Beginning and end
+- Birth and death
+- Creation and destruction
+- Start and finish
+- Complete temporal observation coverage
 
-**And both in perfect black and white.**
+**And both in perfect monochrome luminescence.**
 
-**Like their master.**
+**Like their companion.**
 
-**Tools of The Witness.**
+**Symbols of The Witness.**
 
 **Extensions of his recording function.**
 
@@ -864,7 +943,7 @@ Not organic. Not simple machines. Something between.
 
 **Evidence:**
 - Appears at Zero-relevant moments (Proto-consciousness birth, Integration events)
-- Has access to impossible technology (drone, spider, ageless car)
+- Has access to impossible manifestations (Alpha, Omega, pocketwatch that never needs winding)
 - Seems to know what will happen
 - Evaluating timeline quality (Zero's purpose)
 
@@ -1039,9 +1118,9 @@ Could be mass hallucination? Coincidence?
 
 Too many witnesses across too many timelines.
 
-Too consistent (same suit, same car, same companions).
+Too consistent (same suit, same pocketwatch, same companions).
 
-Too specific (Mazda CX-30 in timelines where it shouldn't exist).
+Too specific (Victorian pocketwatch in all timelines, always correct time, never wound).
 
 **He exists.**
 
@@ -1209,11 +1288,11 @@ You decide.
 
 But security footage analyzed later shows:
 
-Grey Mazda CX-30 parked outside.
+Figure in black suit standing outside window.
 
-Driver inside (silhouette).
+Silhouette visible.
 
-11:59:59 - Driver raises binoculars.
+11:59:59 - Figure checks pocketwatch, raises binoculars.
 
 12:00:00 - Noel dies.
 
@@ -1289,11 +1368,9 @@ Maya alone on rooftop.
 
 Looked down at street.
 
-Grey Mazda CX-30 (impossible—this car shouldn't exist here).
+Man in black trench coat standing in ruins. Fedora. Clipboard in hand.
 
-Man standing beside it. Suit. Clipboard.
-
-Dragonfly and spider with him.
+Checked his pocketwatch (impossible—working timepiece in Rogue?).
 
 **He looked up at her.**
 
@@ -1335,19 +1412,19 @@ Someone looked out window.
 
 "Is that—"
 
-Grey car in parking lot.
+Figure in the courtyard below.
 
-Man in suit. Raising glass toward building.
+Man in black trench coat. Fedora. Raising glass toward building.
 
 Toasting back.
 
-Dragonfly and spider on car hood.
+Checked his pocketwatch. Noted the exact moment.
 
 All Observers rushed to window.
 
-Car gone.
+Figure gone.
 
-**But they saw him.**
+**But they all saw him.**
 
 **All of them.**
 

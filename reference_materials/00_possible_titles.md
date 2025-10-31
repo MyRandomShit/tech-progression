@@ -79,7 +79,7 @@ A collection of potential titles for the book trilogy, organized by theme and to
 4. **Four Timelines** - The multiverse experiment
 5. **The Watchers** - Observers at multiple levels
 6. **Documented Futures** - Recording possible outcomes
-7. **The Grey Mazda** - Mysterious observer across realities
+7. **The Pocketwatch** - Time's witness across realities
 
 ### Philosophical/Abstract
 1. **Curated Existence** - Life as guided experience
@@ -255,7 +255,7 @@ To clarify scope or theme:
 2. **"Who Is Zero?"**
 3. **"The Hidden Timeline"**
 4. **"The Auditor Protocol"**
-5. **"The Grey Mazda"**
+5. **"The Pocketwatch"**
 
 ### Philosophy Readers
 1. **"The Ethics of Optimization"**

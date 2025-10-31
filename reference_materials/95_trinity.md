@@ -1314,9 +1314,9 @@ Knife remains as reminder.
 
 **One Possible Sighting (Prime Timeline, 2065):**
 
-Auditor in grey Mazda, clipboard, watching integration center.
+Auditor in courtyard, black trench coat and fedora, clipboard, checking pocketwatch, watching integration center.
 
-Three people walk past his car:
+Three people walk past:
 1. Young woman with green eyes
 2. Middle-aged person with grey jacket
 3. Teenager with mismatched sneakers
@@ -1855,7 +1855,7 @@ Creates Trinity.
 
 ### The Angel of Infinite Records
 
-**What appeared as "The Auditor" - man with grey Mazda and clipboard**
+**What appeared as "The Auditor" - man in fedora and trench coat with silver pocketwatch and hourglass belt buckle**
 
 **True Form:**
 
@@ -1891,9 +1891,13 @@ Operates from outside causality.
 
 Constrains infinite library to single clipboard.
 
-Compresses wings of data to man in grey suit.
+Compresses wings of data to man in black trench coat and fedora—film noir aesthetic, the eternal detective.
 
-Drives grey Mazda as symbol of neutrality.
+Carries silver pocketwatch as anchor to time itself.
+
+Wears hourglass belt buckle—symbol of time's passage.
+
+Creates Alpha and Omega portals to enter/exit linear time.
 
 **But in truth:**
 

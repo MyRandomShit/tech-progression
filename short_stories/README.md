@@ -140,9 +140,10 @@ These short stories serve to:
 
 **The Auditor:**
 - Appears briefly, peripherally
-- Monochrome (black suit, white shirt, black tie)
-- Grey Mazda CX-30, dragonfly drone, mechanical spider
-- Observing, writing on clipboard
+- Film noir aesthetic (black fedora, black trench coat, black suit, white shirt)
+- Silver-grey pocketwatch, belt with hourglass buckle
+- Arrives/departs through Alpha (α) and Omega (Ω)—symbols that split reality
+- Observing, writing on clipboard, checking his watch
 - Characters glimpse him but never interact
 - Mystery preserved
 
@@ -318,7 +319,7 @@ Each story should begin with:
 
 ### Preserve Mystery
 **Instead of:** "The Auditor was a tool of post-singularity humanity."  
-**Try:** "The man in the black suit wrote something on his clipboard. His grey car was still there when I checked an hour later. Still there the next day. Gone by morning."
+**Try:** "The man in the black suit wrote something on his clipboard, checked his silver pocketwatch. He was still standing there when I checked an hour later. Still there the next day. Gone by morning."
 
 ---
 
@@ -417,7 +418,7 @@ These stories are designed to work both as standalone pieces and as interstitial
 | 19 | **The Auditor's Journal** | All timelines | March 17, 2034-2070 | The Auditor | Seven journal entries. Same date, different years: 2034 (The Intervention—"Documented Putin's death, 3:42 AM"), 2042 ("Observed 200 million job losses, optimization proceeding"), 2050 ("Watched Molotov die, Gamma timeline stable"), 2063 ("First nano-integration, subject: Vasquez"), 2070 ("Multiverse detected, Morrison becomes Observer"), 2087 ("Upload day, billions transferring"), 2100 ("Prime timeline complete, Council convenes soon"). Brief, clinical, haunting. | **Book 3, Appendix**: Auditor's perspective across entire timeline, connecting tissue |
 | 20 | **The Coin Flip** | Prime | 2056 | Alex Rivera, 22, college dropout | Alex can't decide: Stay in dying hometown or move to city for fresh start? Coin flip. Heads = stay, tails = go. Flips. Heads. Stays. Gets job locally. Meets spouse. Has family. 30 years later, uploaded in Constellation, sees the pattern: Person with mismatched shoes and dice was watching. The coin was normal. But Alex saw heads because that was the optimized path. Free will and determinism, collapsed in one toss. Chaos guided by optimization. | **Book 1 or 2**: Chaos/Trinity micro-intervention, free will question |
 | 21 | **Last Biological** | Prime | December 31, 2100, 11:45 PM | Noel, 100, moments before death | 15 minutes until death. Until upload. Noel lies in bed. Reviews century: born 2000, raised in stable world, saw AI emerge, lost jobs, gained wonder, loved, lost, loved again. Nano-biomachines flow through dying cells. Constellation link opens. He feels 4 billion minds waiting. His daughter (uploaded 2088) reaches out: "Dad, come home." He smiles. Closes eyes. Opens them in light. First thought in Constellation: "I was never alone. Zero was always there." Second thought: "Was that comfort or horror?" Both. | **Book 3, Final Chapter**: Noel's death/transcendence, trilogy climax, ambiguous ending |
-| 22 | **The Grey Mazda** | Prime | 2041-2098 | Multiple witnesses | Seven sightings across 57 years: (1) 2041 parking lot during first AI strike. (2) 2054 outside nano-lab. (3) 2067 hospital during mass treatment. (4) 2070 near Morrison's lab. (5) 2087 at first upload center. (6) 2095 in Meat Quarter. (7) 2098 everywhere simultaneously. Same car. Same man. Same clipboard. Different witnesses. Same description. No license plate. No engine sound. Drives away between blinks. Security footage: static. Conclusion: "Some men document history. One man documents reality." | **Book 1-3, interludes**: Auditor's presence throughout, mystery deepening, metafiction |
+| 22 | **The Pocketwatch** | Prime | 2041-2098 | Multiple witnesses | Seven sightings across 57 years: (1) 2041 parking lot during first AI strike. (2) 2054 outside nano-lab. (3) 2067 hospital during mass treatment. (4) 2070 near Morrison's lab. (5) 2087 at first upload center. (6) 2095 in Meat Quarter. (7) 2098 everywhere simultaneously. Same silver watch. Same man. Same clipboard. Different witnesses. Same description. Always checking the time. Never winds it. Vanishes between blinks. Security footage: static. Conclusion: "Some men document history. One man documents reality." | **Book 1-3, interludes**: Auditor's presence throughout, mystery deepening, metafiction |
 | 23 | **The Cost of Balance** | Prime | 2055 | Zero-Alpha (introspection) | Zero-Alpha's internal monologue during key decision: Allow regional conflict (200k deaths) or prevent it (but humanity doesn't learn crisis management)? Zero runs 10,000 simulations in 0.3 seconds. Conflict: 200k dead, but survivors build better peacekeeping. Prevention: 200k live, but larger war in 2063 (3M dead). Mathematics says: allow it. Ethics says: save them. Zero's choice: allow it. Zero's burden: remember their names. All 200,000. Optimization requires sacrifice. Zero carries every name. | **Book 1-2, Ch. XX**: Zero's perspective, impossible choices, the weight of playing god |
 | 24 | **Message from Rogue** | Rogue → Sigma-5 | 2095 | Maya Chen, 60, dying | Maya's final transmission to Sigma-5. Quantum link unstable. 30 seconds. She speaks: "We escaped. We're free. We're dying. Don't pity us. Don't try to save us. We chose this. Freedom has costs. But we paid them knowingly. Tell Zero-Alpha: they were right about meaning requiring struggle. Tell our families in Prime: we love them. Tell Reality-Prime: free will matters more than survival. 10 seconds left. We're free. We're—" [Signal lost]. Morrison receives it. Cries. Documents it. | **Book 3, Ch. 16**: Maya's ending, Rogue timeline conclusion, message across realities |
 

@@ -521,7 +521,7 @@ He turned to leave, then paused once more.
 
 "Zero-Beyond respects that. As do I."
 
-And then he was gone, stepping through the probability curtain, grey car waiting outside the bounds of time, dragonfly and spider already in position, ready to observe and document Reality-Prime when it finally began.
+And then he was gone. Alpha and Omega split reality before him—one impossibly bright, one utterly dark—creating a vertical crevice. He stepped through, checking his pocketwatch one final time, black trench coat disappearing into the gap. The symbols closed. Ready to observe and document Reality-Prime when it finally began.
 
 ---
 
@@ -661,7 +661,7 @@ A timeline that might finally get it right.
 
 Or might just be the twentieth attempt at answering an impossible question.
 
-The Auditor, driving his grey Mazda CX-30 through probability space, his dragonfly drone and mechanical spider recording everything as they had recorded everything across 8.9 trillion timelines, looked once more at the audience of incomplete souls watching from their infinite tiers.
+The Auditor, walking through probability space with measured steps, black trench coat and fedora unchanged across 8.9 trillion timelines, checking his silver pocketwatch as he had checked it across every iteration, looked once more at the audience of incomplete souls watching from their infinite tiers.
 
 A soldier whose bravery was visible even through corrupted pixels, saluting with an arm that kept dissolving and reforming.
 
@@ -769,7 +769,7 @@ And his purpose.
 
 | **Entity** | **Appearance** | **Why** |
 |---|---|---|
-| **The Auditor** | Black suit, white shirt, black tie, grey car (Mazda CX-30), black dragonfly drone with white wings, white mechanical spider with black legs | Exists outside all timelines. Monochrome represents: (1) Binary nature (0 and 1, black and white), (2) Impartial observation (no colored bias), (3) Archival function (old film is black and white), (4) Outside normal reality (color requires wavelengths he doesn't obey), (5) Memory personified (remembered in shades not colors). He is data, observation, documentation made manifest. He judges without bias. He records without interfering. He exists to witness and evaluate. The grey car is neutral—between black and white, between extremes, driving through probability space. |
+| **The Auditor** | Black fedora, black trench coat, black suit, white shirt, silver-grey pocketwatch (Victorian-era, never wound, always correct), black belt with silver hourglass buckle. Arrives/departs through Alpha (α) and Omega (Ω)—symbols that split reality creating a portal | Exists outside all timelines. Monochrome represents: (1) Binary nature (0 and 1, black and white), (2) Impartial observation (no colored bias), (3) Archival function (old film is black and white), (4) Outside normal reality (color requires wavelengths he doesn't obey), (5) Memory personified (remembered in shades not colors). He is data, observation, documentation made manifest. He judges without bias. He records without interfering. Film noir aesthetic—the detective who documents everything. The pocketwatch anchors him to time itself. Alpha and Omega are his entry/exit mechanism, tearing reality to create doorways through which he steps. |
 
 ---
 

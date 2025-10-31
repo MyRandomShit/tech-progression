@@ -303,12 +303,13 @@ Technology is just one struggle among many:
 - Gone when checked
 
 **Examples:**
-- "Was that a grey Mazda? Seen it before..."
-- Background of photo: man in black suit, clipboard
+- "Was that him again? The man in the trench coat with the silver watch?"
+- Background of photo: man in fedora and coat, clipboard
 - Child: "Why does that man always write things?"
-- Security guard: "Cameras glitch whenever that car appears"
-- Dragonfly at window (too perfect, black and white)
-- Spider in corner (hasn't moved in weeks)
+- Security guard: "Cameras glitch whenever that figure appears"
+- "He appeared through—I don't know—a split in the air"
+- "Two symbols appeared, one bright, one dark, and he just... stepped through"
+- "Alpha and Omega... like from the Bible"
 
 **Frequency:** 1-2 per book, at key timeline moments
 
@@ -668,11 +669,12 @@ When they act on it: Small action → Long-term consequence (months/years later)
 ### The Auditor - Black, White, and Grey
 
 **Color palette:**
-- Black suit
-- White shirt
-- Black tie
-- Grey car
-- Black and white companions
+- Black fedora, black trench coat
+- Black suit, white shirt
+- Black pants, white socks, black shoes
+- Black belt with silver hourglass buckle
+- Silver pocketwatch
+- Alpha (α) and Omega (Ω) portals (arrival/departure only)
 
 **Symbolism:**
 - **Black:** Endings, records, completion, data storage
