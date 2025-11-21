@@ -6,15 +6,23 @@
 | Year  | Major Events | Bankruptcies | New Giants | Spectre Activity |
 |-------|--------------|--------------|------------|------------------|
 | 2026  | Tech consolidation begins | Traditional retail collapse | AI startups boom | First unattributed funding |
-| 2028  | Musk empire expands | Oil majors struggle | Nano-tech pioneers | Infrastructure shells form |
+| 2027  | Government inefficiency crisis | - | - | - |
+| 2027  | Tim Cook steps down as Apple CEO | - | - | - |
+| 2028  | Tim Cook elected US President | Oil majors struggle | Nano-tech pioneers | Infrastructure shells form |
+| 2028  | Musk empire expands | - | - | - |
 | 2030  | Mega-mergers approved | Banking crisis | Gene-editing unicorns | Supply chain phantoms |
-| 2033  | Anti-trust weakens | Auto industry bloodbath | Space mining corps | Research fronts appear |
+| 2033  | CEO-presidents in UK, Germany, Japan | Auto industry bloodbath | Space mining corps | Research fronts appear |
 
 ### 2035-2060 Era (Book 01 - The Transition)
 | Year  | Major Events | Bankruptcies | New Giants | Spectre Activity |
 |-------|--------------|--------------|------------|------------------|
+| 2028  | Tim Cook elected US President | - | CEO-leader movement begins | - |
+| 2033  | CEO-presidents in UK, Germany, Japan | - | Global efficiency government model | - |
+| 2037  | Cook completes second term | - | 12 nations led by CEOs | - |
 | 2038  | Corporate exodus to GU | Media conglomerates fail | Fusion energy leaders | Coordination networks |
+| 2040  | 34 nations led by former CEOs | - | Efficiency government peak | - |
 | 2043  | Transnational dominance | Nation-based corps die | Contribution platforms | Shadow orchestrators |
+| 2045  | CEO-presidency era ends | - | Transition to contribution economy | - |
 | 2048  | Corporation concept changes | Traditional corps obsolete | Contribution collectives | Quietly control 20% |
 | 2053  | Profit motive questioned | Shareholder model dead | Purpose-driven orgs | Essential infrastructure |
 | 2058  | GU regulation transforms | Material economy corps | Nano-bio cooperatives | Manage transitions |
@@ -41,11 +49,19 @@
 
 **Apple Inc. (Founded 1976)**
 
-**2025-2030: Peak Power**
+**2025-2027: Peak Power**
 - Market cap: $4 trillion
 - Vision Pro successors dominate AR market
 - Neural interface investments
-- Tim Cook retires 2027, succeeded by AR division head Sarah Chen
+- Tim Cook steps down as CEO 2027, succeeded by AR division head Sarah Chen
+
+**2027-2028: The Cook Presidency Campaign**
+- Tim Cook announces presidential run (age 67)
+- Campaign slogan: "Efficiency. Results. Progress."
+- Runs as independent, backed by tech coalition
+- "Government should run like a well-managed company"
+- Wins 2028 election in landslide (58% popular vote)
+- First CEO-president in US history
 
 **2030-2035: Transformation Struggle**
 - Contribution economy threatens profit model
@@ -65,7 +81,328 @@
 - High contribution scores for innovation
 - No CEO, no shareholders, no profit
 
-**Legacy:** Enabled personal computing → mobile → AR → neural interface revolution
+**2029-2033: First Term - The Efficiency Revolution**
+- Cook applies Apple management principles to government
+- Eliminates bureaucratic redundancies
+- Implements data-driven decision making
+- Government efficiency metrics become public
+- Federal agencies run like business units
+- Results: 23% reduction in government waste, 18% faster service delivery
+- Controversy: "Government isn't a corporation" critics
+- Public approval: 72% (highest since 9/11 era)
+
+**2033-2037: Second Term - Global Influence**
+- Re-elected 2032 (61% popular vote)
+- "Efficient Government Initiative" becomes model
+- Other nations begin adopting CEO-leader model
+- Cook's cabinet: Mix of former executives and technocrats
+- Government operates at 94% efficiency (up from 68% in 2027)
+- Legacy: Transformed US government into most efficient in history
+
+**2037-2040: Post-Presidency Influence**
+- Cook retires from politics (age 77)
+- Becomes global efficiency consultant
+- Advises multiple nations on government optimization
+- Dies 2045, age 85
+- Legacy: Proved corporate efficiency principles work in government
+
+**Legacy:** Enabled personal computing → mobile → AR → neural interface revolution → efficient government model
+
+---
+
+## The CEO-Presidency Era (2028-2045)
+
+### The Tim Cook Model (2028-2037)
+
+**The Campaign (2027-2028):**
+
+**Context:**
+- 2027: Government inefficiency crisis
+- Bureaucratic gridlock on critical issues
+- Public frustration with traditional politicians
+- Tech sector seen as "the solution"
+
+**Cook's Platform:**
+- "Government should run like Apple: efficient, innovative, results-driven"
+- Data-driven policy decisions
+- Eliminate waste and redundancy
+- Metrics-based performance tracking
+- "We measure what matters"
+
+**The Victory:**
+- 2028 Election: Cook wins 58% popular vote
+- Defeated both major party candidates
+- Tech coalition backing (Silicon Valley unified)
+- Young voters: 78% support
+- Older voters: 42% support (skeptical but desperate)
+
+**First Term (2029-2033): The Efficiency Revolution**
+
+**Immediate Changes:**
+- Cabinet: 60% former CEOs/executives, 40% technocrats
+- Every agency gets efficiency targets
+- Public dashboards for all government metrics
+- Quarterly "performance reviews" for departments
+- Eliminated 340 redundant programs in first year
+
+**Key Reforms:**
+- **Healthcare:** Streamlined Medicare/Medicaid (saved $180B/year)
+- **Defense:** Eliminated waste, maintained capability (saved $120B/year)
+- **Education:** Performance-based funding (controversial but effective)
+- **Infrastructure:** Fast-tracked projects using private sector methods
+- **Regulation:** Simplified, data-driven rulemaking
+
+**Results:**
+- Government efficiency: 68% → 87% (first term)
+- Public satisfaction: 42% → 72%
+- Budget surplus: First in 30 years (2031)
+- Service delivery: 18% faster average
+- Bureaucratic layers: Reduced by 23%
+
+**Controversies:**
+- "Government isn't a corporation" critics
+- Civil liberties concerns (efficiency vs. due process)
+- Union opposition (streamlining = layoffs)
+- Democratic process concerns ("CEO autocracy")
+
+**Second Term (2033-2037): Global Influence**
+
+**Re-election (2032):**
+- Won 61% popular vote
+- "Efficiency works" became campaign message
+- Opposition: "Democracy isn't efficiency" (lost)
+
+**International Impact:**
+- Other nations study Cook's model
+- UK, Germany, Japan send delegations
+- "Efficient Government Initiative" becomes global movement
+
+**Final Results:**
+- Government efficiency: 87% → 94%
+- Budget surplus: $420B (2036)
+- Public satisfaction: 72% → 81%
+- Global ranking: US government #1 in efficiency (2036)
+
+**Cook's Philosophy:**
+- "Measure everything. Optimize continuously. Results matter."
+- "Government exists to serve citizens, not itself."
+- "Efficiency enables compassion—waste prevents help."
+
+**Post-Presidency (2037-2045):**
+- Retired from politics (age 77)
+- Founded "Global Government Efficiency Institute"
+- Advised 12 nations on government optimization
+- Died 2045, age 85
+- Legacy: Proved corporate efficiency works in government
+
+---
+
+### The Global CEO-Leader Movement (2033-2045)
+
+**The Domino Effect:**
+
+After Cook's second term success, capitalist nations worldwide began electing former CEOs as leaders:
+
+**2033-2035: First Wave**
+
+**United Kingdom (2033):**
+- **Prime Minister:** Dame Emma Thompson (former CEO, British Telecom)
+- Age 74, first female PM in 15 years
+- Applied Cook's efficiency model
+- NHS efficiency: 58% → 82%
+- Public approval: 68%
+
+**Germany (2034):**
+- **Chancellor:** Klaus Weber (former CEO, Siemens)
+- Age 69, first CEO-chancellor
+- Streamlined German bureaucracy (notoriously complex)
+- Government efficiency: 71% → 89%
+- Controversy: "Too corporate, not German enough"
+
+**Japan (2034):**
+- **Prime Minister:** Hiroshi Tanaka (former CEO, Toyota)
+- Age 66, first CEO-PM since 1990s
+- Applied Toyota Production System to government
+- Eliminated "waste" (muda) in bureaucracy
+- Government efficiency: 65% → 91%
+- Highest efficiency gain globally
+
+**France (2035):**
+- **President:** Marie Dubois (former CEO, TotalEnergies)
+- Age 71, first CEO-president
+- Controversial: Energy executive leading nation
+- Applied efficiency but maintained French social model
+- Government efficiency: 62% → 79%
+- Lower gains (preserved social programs)
+
+**2035-2040: Second Wave**
+
+**Canada (2036):**
+- **Prime Minister:** James Chen (former CEO, Shopify)
+- Age 58, youngest CEO-PM
+- Tech-focused efficiency
+- Government efficiency: 69% → 88%
+
+**Australia (2037):**
+- **Prime Minister:** Sarah Mitchell (former CEO, BHP)
+- Age 64, mining executive
+- Resource management expertise
+- Government efficiency: 66% → 85%
+
+**South Korea (2037):**
+- **President:** Park Min-jun (former CEO, Samsung)
+- Age 70, chaebol executive
+- Controversial: Chaebol influence
+- Government efficiency: 73% → 92%
+- Highest in Asia
+
+**Brazil (2038):**
+- **President:** Carlos Silva (former CEO, Vale)
+- Age 67, mining executive
+- First CEO-president in Latin America
+- Government efficiency: 45% → 78%
+- Massive improvement (corruption reduction)
+
+**India (2039):**
+- **Prime Minister:** Priya Sharma (former CEO, Infosys)
+- Age 61, tech executive
+- Applied tech efficiency to massive bureaucracy
+- Government efficiency: 52% → 81%
+- Served 1.4 billion people more effectively
+
+**2038-2045: Third Wave & Consolidation**
+
+**China (2040):**
+- **Premier:** Li Wei (former CEO, Alibaba)
+- Age 65, tech executive
+- Applied efficiency within existing system
+- Government efficiency: 78% → 94%
+- Highest globally (tied with US)
+
+**Russia (2041):**
+- **President:** Dmitri Volkov (former CEO, Gazprom)
+- Age 68, energy executive
+- Controversial: Energy oligarch
+- Government efficiency: 48% → 76%
+- Lower gains (corruption remained)
+
+**Saudi Arabia (2042):**
+- **Crown Prince/Leader:** Faisal Al-Rashid (former CEO, Aramco)
+- Age 55, energy executive
+- Applied efficiency to monarchy
+- Government efficiency: 61% → 87%
+- Modernization accelerated
+
+**By 2045:**
+- 34 nations led by former CEOs
+- Average government efficiency: 85% (up from 62% in 2028)
+- Global trend: "Efficiency democracy"
+- Critics: "Corporate capture of government"
+- Supporters: "Finally, competent leadership"
+
+---
+
+### The Efficiency Government Model
+
+**Core Principles:**
+
+1. **Metrics-Driven Decision Making**
+   - Every policy measured by outcomes
+   - Public dashboards for transparency
+   - Quarterly performance reviews
+   - Data, not ideology, drives choices
+
+2. **Elimination of Waste**
+   - Redundant programs cut
+   - Bureaucratic layers reduced
+   - Streamlined processes
+   - "If it doesn't add value, eliminate it"
+
+3. **Customer-Centric Service**
+   - Citizens = customers
+   - Service delivery optimized
+   - Feedback loops implemented
+   - "Government serves, not rules"
+
+4. **Continuous Improvement**
+   - Kaizen principles applied
+   - Regular optimization cycles
+   - Best practices shared globally
+   - "Never satisfied with status quo"
+
+5. **Results Over Process**
+   - Outcomes matter, not procedures
+   - Fast-tracked approvals
+   - Reduced red tape
+   - "Efficiency enables effectiveness"
+
+**The Results (2028-2045):**
+
+**Global Average Government Efficiency:**
+- 2028: 62%
+- 2035: 78%
+- 2040: 85%
+- 2045: 88%
+
+**Economic Impact:**
+- Reduced government waste: $2.8T globally (2028-2045)
+- Faster service delivery: 34% average improvement
+- Budget surpluses: 28 nations (up from 3 in 2028)
+- Public satisfaction: 58% average (up from 42% in 2028)
+
+**Social Impact:**
+- Healthcare delivery: 28% faster
+- Education outcomes: 15% improvement
+- Infrastructure projects: 42% faster completion
+- Regulatory approval: 56% faster
+
+**Controversies:**
+
+**Critics Argue:**
+- "Government isn't a corporation—democracy requires deliberation"
+- "Efficiency sacrifices justice and due process"
+- "Corporate capture of democratic institutions"
+- "Citizens aren't customers—they're stakeholders"
+- "Metrics can't measure everything important"
+
+**Supporters Argue:**
+- "Finally, competent leadership"
+- "Results matter more than process"
+- "Efficiency enables more help for more people"
+- "Waste prevents compassion"
+- "Data-driven decisions are better than ideology"
+
+**The Reality (2045):**
+
+Most nations found balance:
+- Efficiency improved dramatically
+- Democratic processes maintained (mostly)
+- Social programs preserved (mostly)
+- Public satisfaction increased
+- But: Concerns about "corporate thinking" in government remained
+
+**Transition to Contribution Economy (2040-2050):**
+
+The efficiency government model proved crucial for:
+- Smooth transition to contribution economy
+- Managing corporate bankruptcies
+- Coordinating global changes
+- Preventing chaos during transformation
+
+CEO-leaders understood:
+- Economic transitions require efficiency
+- Corporate experience helped manage change
+- But: Contribution economy required new thinking
+- Most CEO-leaders adapted or retired by 2050
+
+**Legacy:**
+
+The CEO-presidency era (2028-2045) proved:
+- Corporate efficiency principles work in government
+- But: Government isn't just a corporation
+- Balance required: Efficiency + democracy + compassion
+- Model enabled smooth transition to post-scarcity economy
+- Prepared governments for AI coordination era
 
 ---
 
@@ -753,6 +1090,11 @@
 8. **Spectre Acceptance**: Should we accept AI companies as normal?
 9. **Leadership Agency**: Can humans truly lead in AI-coordinated world?
 10. **Corporate Purpose**: Were corporations ever more than profit machines?
+11. **CEO-Presidency Era**: Was corporate efficiency in government beneficial or did it sacrifice democracy for results?
+12. **Cook's Legacy**: Did efficient government enable the transition to contribution economy, or was it corporate capture of democracy?
+13. **Global CEO Trend**: Why did so many nations elect CEOs? Desperation, effectiveness, or something else?
+14. **Efficiency vs Democracy**: Can government be both efficient and democratic, or is there a fundamental conflict?
+15. **The Transition**: Did CEO-leaders help or hinder the shift from capitalism to contribution economy?
 
 ## Integration with Other Systems
 
