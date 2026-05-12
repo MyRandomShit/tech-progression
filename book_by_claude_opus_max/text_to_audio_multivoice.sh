@@ -64,7 +64,7 @@ VOICE_MAP = {
     "marcus": "Matthew",
     "river": "Danielle",
     "zero": "Stephen",
-    "torres": "Gregory",
+    "torres": "Matthew",
     "kenji": "Matthew",
     "priya": "Joanna",
 }
