@@ -19,7 +19,7 @@ set -euo pipefail
 VOICE="${2:-Ruth}"
 ENGINE="${3:-neural}"
 REGION="us-east-1"
-OUTPUT_DIR="$(cd "$(dirname "$0")" && pwd)/audiobook"
+OUTPUT_DIR="${OUTPUT_DIR:-$(cd "$(dirname "$0")" && pwd)/audiobook}"
 POLLY_CHAR_LIMIT=2900
 
 if [[ $# -lt 1 ]]; then

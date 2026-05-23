@@ -24,7 +24,7 @@ set -euo pipefail
 
 ENGINE="generative"
 REGION="us-east-1"
-OUTPUT_DIR="$(cd "$(dirname "$0")" && pwd)/audiobook"
+OUTPUT_DIR="${OUTPUT_DIR:-$(cd "$(dirname "$0")" && pwd)/audiobook}"
 
 if [[ $# -lt 1 ]]; then
     echo "Usage: $0 <chapter.md>"
