@@ -82,26 +82,42 @@ The cost is not random. The brain has a triage hierarchy, and the simulation's i
 
 Not all brains are equal:
 
-- **Small-capacity coders** can hold only a few simple programs before the cost becomes devastating. They might lose a decade of memories for a single kinesis routine.
-- **Large-capacity coders** have unusually dense neural architecture — more storage before critical memories are touched. They can hold dozens of programs while still remembering their own name. These individuals are rare and *extremely* valuable.
-- **Compression-capable coders** can run programs more efficiently, reducing memory cost. This is itself a learnable program — but learning it costs memories too.
+- **Small-heap coders** can hold only a few simple programs before the cost becomes devastating. They might lose a decade of memories for a single `Invoke` routine.
+- **Large-heap coders** have unusually dense neural architecture — more storage before critical memories are touched. They can hold dozens of programs while still remembering their own name. These individuals are rare and *extremely* valuable.
+- **`Deflate`-capable coders** can compress programs more efficiently, reducing memory cost. But compiling `Deflate` itself costs memories — you spend to save.
 
 ### Programs
 
-A program is a discrete set of instructions that a coder can execute to alter the simulation. Programs must be **learned** (memorized into the brain) before they can be used. You cannot improvise code you haven't written.
+A program is a discrete set of instructions that a coder can **compile** (learn/memorize into the brain) and **execute** (run). You cannot improvise code you haven't compiled. Every program has a name — and the naming convention, passed down through generations of coders, is borrowed from the language of computation itself. No one knows why the terminology fits so perfectly. It just does.
+
+When a coder compiles a program, they call it **writing**. When they use it, they call it **running**. When a program fails or backfires, it **throws an exception**. When a coder holds too many programs and their mind begins to fracture, they are **stack overflowing**. A coder who has lost too much of themselves is called **corrupted**. A coder's total mental capacity for holding programs is their **heap**.
 
 #### Known Programs
 
 | Program | Layer | Effect | Memory Cost |
 |---------|-------|--------|-------------|
-| **Memory Compression** | 1 | Reduces the storage footprint of other programs, allowing more to be held simultaneously | Moderate — ironic, as it requires overwriting some memories to save others |
-| **Memory Transfer** | 3 | Copies memories (or programs) from one brain to another | High — requires deep neurological access; donor loses the transferred content permanently |
-| **Kinesis** | 2 | Manipulates elemental forces — air pressure, thermal energy, water current | Low to moderate — simple kinesis is common; fine control costs more |
-| **Program Transfer** | 3 | Installs a program directly into another person's brain | Very high — invasive, requires overwriting the recipient's memories to make room |
-| **Material Shift** | 1 | Alters physical properties of matter — hardness, flexibility, weight | Low |
-| **Structural Sight** | 0 | Perceives the underlying code layer of objects and people (read-only) | Minimal — one of the cheapest programs |
-| **Biological Edit** | 3 | Modifies living tissue — healing, reshaping, or destroying cellular structures | High — the more precise the edit, the greater the cost |
-| **Severing** | 4 | Permanently destroys another coder's interface with the simulation | Extreme — one of the most devastating programs; often costs the caster as much as the target |
+| **`Inspect`** | 0 | Read-only perception of the underlying code layer of objects and people — sees the structure beneath the surface | Minimal — one of the cheapest programs; the "hello world" of coding |
+| **`Ping`** | 0 | Detects the presence and approximate location of other coders or daemons within range | Minimal — passive scan, short range; higher cost for wider sweep |
+| **`Patch`** | 1 | Alters physical properties of matter — hardness, flexibility, weight, conductivity | Low — one of the most common Developer programs |
+| **`Deflate`** | 1 | Compresses the memory footprint of other programs, allowing more to be held simultaneously | Moderate — ironic, as it requires overwriting some memories to save others |
+| **`Encrypt`** | 1 | Masks a coder's signature from `Ping` and `Inspect` — makes them invisible to other coders | Moderate — must be kept running continuously; drains while active |
+| **`Invoke`** | 2 | Calls system-level functions on physical forces — air pressure, thermal energy, water current, kinetic force | Low to moderate — basic `Invoke` is common; fine-grained control costs more |
+| **`Chmod`** | 2 | Changes the "permissions" of a physical object or region — who/what can interact with it, how energy flows through it | Moderate — used for barriers, locks, and containment |
+| **`Fork`** | 3 | Copies memories or programs from one brain to another — the donor loses the transferred content permanently | High — requires deep neurological access; creates an exact duplicate in the recipient |
+| **`Inject`** | 3 | Writes a program directly into another person's brain without their consent | Very high — invasive, requires overwriting the recipient's memories to make room |
+| **`Refactor`** | 3 | Restructures living tissue — healing, reshaping, or destroying cellular structures | High — the more precise the edit, the greater the cost |
+| **`Null`** | 3 | Erases specific memories or data from a target's mind — surgical, selective deletion | High — precision targeting costs more than brute erasure |
+| **`Grep`** | 3 | Searches the local code layer for specific patterns — finds hidden programs, dormant daemons, or buried data | Moderate — passive but deep; the deeper the search, the higher the cost |
+| **`Sudo`** | 4 | Temporarily elevates a coder's access by one layer beyond their natural depth — a forced privilege escalation | Extreme — the borrowed access burns through memory at accelerated rates; extended use causes permanent damage |
+| **`Kill`** | 4 | Permanently terminates another coder's interface with the simulation — destroys their ability to code, forever | Extreme — one of the most devastating programs; often costs the caster as much as the target |
+| **`Overflow`** | 4 | Forces more power through a program than it was designed to handle — amplifies effect but with unpredictable, often catastrophic results | Extreme and unpredictable — the program equivalent of overclocking until something melts |
+
+#### Theoretical / Unconfirmed Programs
+
+| Program | Layer | Rumored Effect |
+|---------|-------|---------------|
+| **`Rollback`** | 5+ | Reverses a local region of the simulation to a previous state — undoing events, restoring the dead, unmaking changes. No confirmed execution. Some Architects believe it exists at Layer 6 |
+| **`Root`** | 6 | Full read-write access to the simulation's source code. Rewrite physics. Alter time. Reshape causality. No human has ever accessed Layer 6. The name is spoken like a prayer |
 
 ---
 
@@ -109,11 +125,11 @@ A program is a discrete set of instructions that a coder can execute to alter th
 
 ### Exploitation
 
-Program Transfer is the fulcrum of the world's cruelty. If you can write code into someone else's brain, you can:
+`Inject` is the fulcrum of the world's cruelty. If you can write code into someone else's brain, you can:
 
-- **Weaponize people.** Install combat programs into conscripts, burning away their personalities to make room. They become tools — efficient, obedient, empty.
-- **Create cooperative programs.** Some code is too large for one brain. It requires *distributed execution* — multiple people holding fragments of the same program, running it in concert. This demands coordination, and often, the participants don't volunteer. They are *written*, their individual memories sacrificed for collective function.
-- **Erase selectively.** Remove specific memories — loyalties, loves, grudges. Rewrite a person's emotional landscape. It's not mind control. It's worse. The person still has free will. They just no longer remember why they'd use it differently.
+- **Weaponize people.** `Inject` combat programs into conscripts, burning away their personalities to make room. They become tools — efficient, obedient, empty.
+- **Create distributed programs.** Some code is too large for one brain. It requires *distributed execution* — multiple people holding fragments of the same program, running it in concert. The participants are `Inject`ed and `Null`ed until they are nothing but nodes in a human cluster. They don't volunteer.
+- **Erase selectively.** Run `Null` on specific memories — loyalties, loves, grudges. Rewrite a person's emotional landscape. It's not mind control. It's worse. The person still has free will. They just no longer remember why they'd use it differently.
 
 ### The Hierarchy of Coders
 
@@ -123,9 +139,9 @@ Power concentrates. The deepest coders can do things the shallowest cannot defen
 - **Layer 2–3 coders** are the working class of power — dangerous enough to be respected, not deep enough to be feared.
 - **Layer 4–5 Architects** are the aristocracy. They shape the world's power structures, and they have paid for their position in pieces of their own humanity. Many are functionally sociopathic — not because they chose to be, but because empathy was the price of their fifth program.
 
-### The Unwritten
+### The Uncompiled
 
-Those rare coders who refuse to learn programs, keeping their memories intact. They are whole, human, and powerless. Some see them as wise. Most see them as fools.
+Those rare coders who refuse to compile any programs, keeping their memories intact. They have the access but never write a single line. They are whole, human, and powerless. Some see them as wise. Most see them as fools. The Architects call them `//` — commented out.
 
 ---
 
@@ -145,7 +161,7 @@ Unlike human coders, who access the code through the bottleneck of a biological 
 
 When a daemon grows large enough, reality begins to degrade in its vicinity. Physics becomes unreliable. Time stutters. Objects lose coherence. The simulation is allocating resources to the daemon instead of to rendering the world. If unchecked, a daemon can hollow out an entire region — turning it into a grey, featureless void where the simulation has stopped bothering to compute.
 
-The world's coders are the only defense. Daemons must be found and terminated — their code excised from the simulation's runtime. This is brutal, dangerous work. Daemons fight back, and they don't tire.
+The world's coders are the only defense. Daemons must be found with `Grep` or `Ping`, then `Kill`ed — their code excised from the simulation's runtime. This is brutal, dangerous work. Daemons fight back, and they don't tire.
 
 ### The Irony
 
@@ -189,7 +205,7 @@ And the daemons keep eating.
 
 4. **The daemons may be a feature, not a bug.** If Zero built the world and Zero built the coders, did Zero also anticipate the daemons? Are they a stress test? A population control? A reason for the coders to never become complacent?
 
-5. **The memory cost may not be permanent.** Somewhere deep in the code — deeper than any Architect has reached — there may be a restore function. The memories aren't destroyed. They're moved. But no one alive knows where.
+5. **The memory cost may not be permanent.** Somewhere deep in the code — deeper than any Architect has reached — there may be a `Rollback`. The memories aren't destroyed. They're moved. But no one alive knows where.
 
 ---
 
