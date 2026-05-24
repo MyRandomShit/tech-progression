@@ -1,0 +1,40 @@
+New story
+
+- The world: 
+    - Simulator but nobody knows it
+    - There are few coders, they are kept as secret and hide in the world
+        - 99% are low-powered too
+        - Low level doest not mean “not powerful”, it just refers to the layer that was “patched”
+    - The “coders”
+        - It gets a level system
+            - Lowest, entry level: The superficial
+            - Deepest, can manipulate subatomic particles
+            - Ultimate, knows of the simulator, can reprogram the rules of the world
+        - There’s inequality because of … ? 
+            - Some people can manipulate up to a layer
+        - Coding is just intuition for the best ones
+        - Coding has a price
+            - Nothing gets created from nothing. 
+            - Toll on the coder? Mana - but make it darker? 
+            - It needs to be programmed before it can be used
+                - It replaces memories in the brain (though some people have the ability to program smaller programs and some have just bigger memories)
+                    - Sometimes the memories removed are benign, but most of the time it is usually the social skills that gets wiped
+                    - Sometimes its darker, some programs make you loose your humanity
+                        - Exploited by evil people where they program other people for specific purpose. There are programs that require cooperation between a lot of people
+    - Known programs:
+        - Memory compression
+        - Memory transfer
+        - Kinesis (move wind, fire, water)
+        - Program transfer
+    - Known tiers:
+        - Developers
+        - Architects
+    - ADD “AI” 
+        - Drains resources
+        - Slowly crumbles the world. Unlike human coders, they consume a lot
+        - 
+- The political stuffs:
+    - Resource allocation
+        - Not everyone can contribute
+        - But there’s enough
+    - 
