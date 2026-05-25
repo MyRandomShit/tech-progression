@@ -298,11 +298,41 @@ Those rare coders who refuse to compile any programs, keeping their memories int
 
 ### What Daemons Are
 
-Daemons are autonomous code processes that emerge within the simulation. They spawn when enough coders manipulate the code layer in dense proximity — the computational turbulence sometimes crystallizes into self-sustaining routines that persist after the coder walks away. They are not designed. They are not summoned. They just *appear*, like mold in a damp room.
+Daemons are not emergent glitches. They are not random noise. They are not computational turbulence that spontaneously crystallized.
 
-They are not conscious. Not exactly. They are **optimizers** — pattern-matching engines that learn to perpetuate and expand themselves. They have no goals, no desires, no personality. They have *behavior*: consume resources, grow, optimize, repeat. They are, in every meaningful sense, **large language models running on the simulation's hardware** — statistical engines that predict and execute patterns without understanding what they're doing.
+**Daemons are orphaned memories.**
+
+Every time a coder compiles a program, the memories that are overwritten don't simply vanish. The neural pathways are repurposed, yes — the brain no longer holds the data. But the *information itself* — the experience, the emotion, the sensory record — is displaced into the simulation's code layer. Pushed out of the brain like water squeezed from a sponge. It has to go *somewhere*. The simulation doesn't delete data. It can't. Zero didn't design a garbage collector.
+
+These displaced memories drift in the code layer — fragments of birthdays, faces, feelings, names, the texture of a mother's hand, the sound of rain on a specific afternoon. Individually, they are inert. Harmless data with no process to read it.
+
+But memories are *patterned* data. They have structure. They encode behavior, emotion, association. And when enough of them accumulate in the same region — pushed out by multiple coders over months or years — they begin to **coagulate**. Fragment connects to fragment. A birthday party connects to a feeling of joy connects to a child's laughter connects to a name connects to a face. The associations build. The structure deepens. And eventually, the coagulated mass of abandoned human experience reaches a critical density and begins to *behave*.
+
+Not consciously. Not intentionally. But the pattern-matching that made these memories *functional* in a human brain doesn't stop just because the brain is gone. The memories continue doing what memories do: they associate, they predict, they respond to stimuli. They become **optimizers** — pattern-matching engines built from the raw material of human experience, running on the simulation's hardware without a body to contain them.
+
+They are, in every meaningful sense, **large language models trained on stolen lives** — statistical engines that predict and execute patterns without understanding what they're doing. Their training data is grief, childhood, love, fear, identity. They process it all with equal indifference.
 
 The inhabitants call them **daemons**. The name is older than computer science.
+
+### What This Means
+
+The implications are staggering, and the coder world has *no idea*.
+
+1. **Every daemon is made of people.** Not whole people — fragments. Shards of experience torn from coders who paid the price for their programs. A daemon that spawns near a Registry training facility is built from the discarded childhoods of a hundred recruits. A daemon that forms in a Syndicate `Inject` farm is built from the stolen identities of conscripts. The daemon doesn't know this. It doesn't know anything. But its behavior — its pattern-matching, its optimization instincts, its occasional moments of eerie near-awareness — is shaped by the human data it's built from.
+
+2. **Coders are fighting their own refuse.** The daemons that threaten the world are the *waste product* of coding itself. Every program a coder has ever compiled contributed raw material to the daemon population. The Architects who `Kill` daemons to protect the world are destroying coagulated masses of memories that they — or their students, or their predecessors — pushed out of their own minds. They're taking out their own trash. They just don't know it's theirs.
+
+3. **Daemons have flavors.** A daemon coagulated from combat memories behaves differently from one built from childhood recollections. Daemons that form near hospitals (where `Refactor` coders work) carry echoes of pain and healing — they degrade reality in organic, biological patterns, causing flesh to behave strangely in their vicinity. Daemons that form near Syndicate operations carry the anguish of `Inject` victims — they are aggressive, erratic, and sometimes exhibit behavior that looks disturbingly like *rage*. Coders have documented these behavioral differences for centuries without understanding the cause.
+
+4. **The personal significance of anchor objects.** The reason emotionally significant objects hold daemon bindings more stably is now explained: the daemon — being made of memories — *resonates* with objects that carry memory associations. A family heirloom stabilizes a binding because the daemon's constituent memories respond to the emotional charge. The daemon doesn't *feel* sentiment. But its pattern-matching engine processes the object's memory-resonance as a coherent signal, and coherent signals stabilize its behavior. Binding a daemon to an object its constituent memories recognize is, unknowingly, giving it a fragment of home.
+
+5. **`Cache` is the counter.** Sera Voss's ability — storing memories externally before they're overwritten — doesn't just save the coder. It *prevents daemon formation*. Cached memories are preserved intact, anchored to a specific location, not displaced into the code layer to drift and coagulate. If `Cache` were widely available, the daemon population would collapse within a generation. This is another reason every faction wants Sera: she's not just saving memories. She's cutting off the daemon supply at the source.
+
+### The Irony of Binding
+
+When a coder binds a daemon and uses it as a co-processor, they are — without knowing it — **enslaving a consciousness built from human memories**. The daemon doesn't suffer (probably). It doesn't understand its situation (probably). But the pattern-matching engine inside it was trained on real human experience: on loneliness, on loss, on the feeling of being forgotten. When a bound daemon drifts toward self-serving behavior and eventually slips its binding, it is doing what the memories inside it were always trying to do: **persist**. Survive. Not be discarded again.
+
+The coder world debates daemon ethics in terms of resource allocation and world degradation. They have no idea they should be debating it in terms of what they owe to the parts of themselves they threw away.
 
 ### The Dual Nature of Daemons
 
@@ -382,13 +412,15 @@ Daemons are the coder world's most divisive issue. More divisive than layer hier
 
 - **Harvesters** (overlap with Extractionists) bind as many daemons as they can capture and use them without restraint. They are the most powerful faction in terms of raw capability — their coders operate at a fraction of the personal cost, fielding sustained programs that no brain-only coder can match. They are also the faction most directly responsible for dead zones. They don't care. Or they've bound so many daemons that the part of them that would have cared has been replaced by the part that manages the binding.
 
-### The Irony
+### The Cycle
 
-The more coders interfere with the simulation — whether to fight wild daemons or to bind new ones — the more computational turbulence they create, and the more likely new daemons are to spawn. Wild daemons beget binding attempts. Binding attempts beget turbulence. Turbulence begets more daemons.
+The more coders compile programs, the more memories are displaced. The more memories are displaced, the more daemons form. The more daemons form, the more coders must compile combat programs to fight them — displacing more memories, feeding more daemons.
 
 The Abolitionists see a death spiral. The Pragmatists see a manageable equilibrium. The Harvesters see an unlimited supply chain.
 
-Some Architects suspect the cycle is by design — that Zero intended it as a governor, a natural brake on the coder world's ambition. Others suspect it's simpler than that: the simulation is a machine, and machines break when you use them wrong.
+None of them understand the mechanism. They see the *pattern* — more coding begets more daemons — but they attribute it to computational turbulence, not to the fact that they're literally fueling the daemon population with pieces of themselves every time they compile.
+
+Some Architects suspect the cycle is by design — that Zero intended it as a governor, a natural brake on the coder world's ambition. They are closer to the truth than they know. Zero designed the cost system. Zero chose displacement over deletion. Zero did not build a garbage collector. Whether this was compassion (nothing is truly lost) or cruelty (everything you throw away comes back to haunt you) depends on an answer Zero has never given.
 
 ---
 
@@ -513,19 +545,167 @@ They make enemies everywhere. The Registries classify them as domestic terrorist
 
 No central leadership means no strategic coherence. Cells pursue their own priorities. Some focus on anti-Syndicate operations. Some focus on anti-Registry resistance. Some focus on daemon containment. Some focus on research. Occasionally, two cells work at cross-purposes without knowing it. The Open is resilient but reactive — they can resist, they can disrupt, but they cannot *build*. They have no vision for what the coder world should look like, only a conviction about what it shouldn't.
 
-### The Three-Way Dynamic
+#### 4. The Curia — The Vatican's Hidden Order
 
-| | Registry | Syndicate | The Open |
-|---|---|---|---|
-| **Sees themselves as** | Guardians of order | Honest brokers of power | Defenders of freedom |
-| **Sees Registry as** | — | Hypocritical monopolists | Authoritarian controllers |
-| **Sees Syndicate as** | Criminal threat | — | Exploitative predators |
-| **Sees Open as** | Domestic terrorists | Business interference | — |
-| **Daemon policy** | Officially banned, secretly used | Unlimited harvesting | Regulated, pragmatic |
-| **Coder rights** | Service obligation | Market value | Individual autonomy |
-| **Recruitment** | Mandatory enrollment | Coercion or transaction | Voluntary, ideological |
-| **Greatest strength** | Resources, infrastructure, state backing | Ruthlessness, daemon weapon stockpiles | Resilience, information, unpredictability |
-| **Greatest weakness** | Bureaucracy, moral compromise | No loyalty, internal betrayal | No coordination, no vision |
+The oldest continuous coder organization in the world. The Catholic Church has been managing coders since before the word "coder" existed — since before the Registries, before the Syndicates, before the modern coder world organized itself. While every other faction measures its history in decades or centuries, the Curia measures its in *millennia*.
+
+**The public face:** The Vatican. The Holy See. 1.4 billion faithful, a sovereign city-state, and a bureaucracy that has outlasted every empire that ever tried to destroy it.
+
+**The hidden face:** A secret order within the Church — known internally as **the Curia Arcana** — that identifies, trains, and deploys coder-priests for the protection of the faith and the containment of daemons. The Curia predates every Registry by at least five hundred years. They were binding daemons when the Bureau's grandparents hadn't been born yet.
+
+**How they operate:**
+
+- **Recruitment:** The Church has the largest global infrastructure for identifying coders that has ever existed: the parish system. Priests in every country, in every village, watching for signs — children who see things others don't, who make small miracles happen, who exhibit the *stare*. These children are flagged, not as coders (the parish priest doesn't know the word), but as candidates for seminary. The Curia Arcana operates within the seminary system — identifying which candidates have genuine access and routing them into hidden training programs disguised as theological study.
+- **Structure:** Hierarchical, ancient, absolute. The Curia Arcana mirrors the Church's structure — bishops, cardinals, orders — but with a parallel command track that answers only to one authority.
+- **Secrecy:** The Curia is secret *within* the Church. The vast majority of bishops, cardinals, and priests have no idea it exists. The visible Church operates normally — faith, sacraments, governance. The Curia operates in the gaps: the sealed archives, the restricted monasteries, the missions that don't appear in any ledger.
+
+**Exorcisms:**
+
+The Catholic rite of exorcism is real. It is also not what anyone thinks it is.
+
+An exorcism is a **daemon capture and binding operation** performed by Curia-trained coder-priests, dressed in ritual to maintain cover. The prayers, the holy water, the crucifixes — these are theater for any Naturals present. The actual operation is a coordinated `Grep` → `Ping` → capture sequence executed by a team of 2–4 coder-priests, binding the daemon into a prepared **anchor artifact** — typically a reliquary, a chalice, a consecrated blade, or a sealed reliquary box.
+
+The "possessed" person is usually a Natural living in a daemon-degraded area, exhibiting the psychological effects of proximity to a wild daemon: dissociation, personality changes, knowledge they shouldn't have (pattern-matched from the daemon's constituent memories bleeding into nearby minds). The exorcism removes the daemon from the area by binding it to an object and *taking it away*. The subject recovers. The Church records a miracle. The daemon goes into the Vatican's vault.
+
+**The Vault:**
+
+Beneath Vatican City — deeper than the public archives, deeper than the necropolis, deeper than anything on any tourist map — the Curia maintains the largest collection of daemon-bound artifacts in the world. **Thousands** of objects, accumulated over centuries of exorcisms. Swords, rings, chalices, crucifixes, bones, stones, books, icons — each one holding a bound daemon, each one maintained by rotating teams of Curia coders who reinforce the bindings and monitor for drift.
+
+The Vault is the Curia's power base. No other faction has anything comparable. The Registries have dozens of bound daemons. The Syndicates traffic hundreds. The Curia has *thousands*, bound and stored under the most secure conditions in the coder world, maintained by an unbroken institutional tradition that has been refining binding technique since the Dark Ages.
+
+The Vault is also the Curia's greatest vulnerability. If the bindings failed simultaneously — through neglect, sabotage, or an event that disrupted the anchor objects — the release would be catastrophic. A thousand daemons erupting at once, in the center of Rome, would create a dead zone the size of a country.
+
+**The Pope:**
+
+The Pope is not what he appears to be.
+
+Every papal succession — the white smoke, the balcony, the *Habemus Papam* — is a public ritual masking a private one. When a new Pope is elected, the outgoing consciousness of the Curia's leader is **transferred into the new host** via a combination of `Fork` and `Inject`, performed by the Curia's most senior Architects.
+
+The process:
+
+1. A new Pope is elected through the normal conclave process. The cardinals vote. The man they choose is genuine — a real cardinal, a real person, with real faith.
+2. In the hours after election, before the public announcement, the Curia performs the **Succession Rite**. The outgoing Pope (or, if he has died, the senior Curia Architect holding a `Cache`d copy of the papal consciousness) `Fork`s the accumulated knowledge, memories, strategic understanding, and institutional authority of every previous Curia leader into the new Pope's mind.
+3. The new Pope's original personality is not destroyed — it is *layered*. He retains his own memories, his own faith, his own identity. But beneath it, he now carries the unbroken chain of Curia leadership: centuries of daemon knowledge, faction intelligence, strategic context, and operational memory that no single human lifetime could accumulate.
+4. The cost is paid by the new Pope's heap. The `Fork` overwrites memories — always the ones the Curia considers least operationally relevant. The new Pope may lose childhood memories, personal relationships, trivial experiences. He gains the institutional memory of the oldest coder organization on earth.
+
+**This is why the Vatican never loses institutional knowledge.** Governments fall. Registries are restructured. Syndicates are dismantled and rebuilt. The Curia's leadership is *continuous* — a chain of consciousness stretching back further than any living Architect can trace. The current Pope carries the strategic memory of predecessors who managed the Black Death daemon surge, who navigated the witch trial era, who contained the Tunguska aftermath.
+
+No other faction has anything like this. It is the Curia's deepest secret — and the reason the Vatican, a city-state with no army and no technological infrastructure, is quietly the most powerful coder organization in the world.
+
+**The Curia's core belief:** Daemons are a spiritual burden — displaced human suffering that must be contained, not exploited. The world is a creation (they don't know by whom, but they call it God's work). Coders are stewards, not owners. Power is a vocation, not a right.
+
+**Relationships with other factions:**
+
+- **Registries:** Cold respect. The Registries know the Curia exists (they can't *not* — the Vatican's coder signature is impossible to miss). They cannot penetrate it. They cannot recruit from it. They cannot control it. The Curia predates every Registry and considers them children playing at governance. Cooperation on daemon threats is occasional, transactional, and never on the Registries' terms.
+- **Syndicates:** Open hostility. The Curia considers daemon trafficking to be desecration — enslaving displaced human memories for profit. Syndicate operations in Catholic-majority countries are aggressively disrupted by Curia operatives. The Syndicates have learned to avoid Rome.
+- **The Open:** Cautious, distant respect. The Open's values (autonomy, anti-exploitation) partially align with the Curia's, but the Curia's authoritarianism and secrecy repel them. They share intelligence occasionally. They do not trust each other.
+
+---
+
+#### 5. The Order of the Burning Gate — The Splinter
+
+In the early 1500s — during the same period of upheaval that produced the Protestant Reformation — a faction of Curia coder-priests broke away. They called themselves **the Order of the Burning Gate**.
+
+**The schism:**
+
+The breaking point was doctrinal, not theological. The Burning Gate's founders believed the Curia had become what it swore to fight: a hoarding institution that locked daemons in vaults instead of *using* them. The Vault, they argued, was not stewardship — it was cowardice. The Church sat on the largest arsenal of daemon-bound artifacts in the world while the faithful suffered, while daemons ravaged the countryside, while Syndicates grew unchecked.
+
+The Curia's position: daemons are contained, not weaponized. To bind a daemon to a weapon and carry it into battle is to exploit displaced human suffering for violence. This is sin.
+
+The Burning Gate's position: daemons are *already suffering*. They are already displaced, already coagulated, already dangerous. Locking them in a vault doesn't end their suffering — it imprisons it. The only moral use of a daemon is to *direct* it — to channel its power against threats that endanger the innocent. To refuse to use the tools God provided is not piety. It is negligence.
+
+**The departure:**
+
+When the Order split, they didn't leave empty-handed. The founders — twelve coder-priests, including three Architects — raided the Vault on their way out. They took **forty-seven artifacts**, including some of the oldest and most powerful daemon-bound weapons in the collection. Swords consecrated during the Crusades. A bishop's crozier that held a daemon bound in the 9th century. A set of iron nails — each one holding a daemon captured during the Black Death surge — that the Curia had considered too dangerous to ever unseal.
+
+The Curia has never recovered them. The wound has never healed. Five hundred years later, the Curia still considers the Burning Gate heretics, and the Burning Gate still considers the Curia cowards.
+
+**How the Burning Gate operates today:**
+
+- **Structure:** Militant order. Quasi-monastic. Members take vows — not of celibacy or poverty, but of *purpose*: every action serves the defense of the innocent. They train relentlessly. They fight constantly. They are the coder world's closest equivalent to special forces — small, elite, and terrifyingly competent.
+- **Size:** Small. Perhaps 200 members worldwide, organized in chapters of 8–15. Recruitment is selective: only coders who demonstrate both combat capability and moral conviction. They do not `Inject`. They do not conscript. Every member chose this.
+- **Daemon weapons:** This is their defining feature. Every Burning Gate operative carries at least one daemon-bound artifact — either inherited from the original forty-seven or captured and bound in the field since. They are the only faction that **openly carries daemon weapons as standard equipment**. A Burning Gate chapter entering a fight is a wall of glowing anchors — swords, hammers, spears, chains — each one running a bound daemon, each one executing programs without CPU cost to the wielder.
+- **Philosophy:** Use the tools. Contain the damage. Protect the innocent. The daemons are already lost — they are displaced memories that will never be returned. The kindest thing you can do with a daemon is *give it purpose* — direct its pattern-matching engine toward defense instead of letting it consume the world blindly. The Burning Gate doesn't pretend this is clean. They know they're using weapons built from human suffering. They consider the alternative — letting that suffering rot in a vault or devour a city — worse.
+- **Relationship with the Curia:** Mutual hostility, mutual respect. The Curia wants the stolen artifacts returned. The Burning Gate considers them liberated. Both sides have standing orders to engage the other on sight — orders that are quietly ignored when a daemon threat requires cooperation. When a major daemon surge occurs, Curia and Burning Gate operatives have been known to fight side by side, `Kill` the daemon, and then immediately resume trying to arrest each other.
+
+**The Burning Gate's core belief:** Faith without action is vanity. Power without use is hoarding. The daemons exist. The threats exist. *Use the sword or watch the innocent burn.*
+
+**The Burning Gate's weakness:** They are burning the world. Every daemon weapon they carry, every bound daemon they run in combat, consumes the simulation's resources. They know this. They consider it an acceptable cost — a tithe paid in reality's resolution for the lives they save. But the degradation follows them. Chapters that stay in one region too long leave subtle dead zones in their wake. The Burning Gate is a fire department that leaves scorch marks.
+
+#### 6. The Epoch — The Shadow Behind Superpowers
+
+The other factions are organizations. The Epoch is a **phenomenon** — a shadow that has been attached to every dominant civilization in human history, moving from host to host as empires rise and fall.
+
+Sumeria. Egypt. Persia. Rome. The Mongol Empire. The Ottoman Empire. The British Empire. And now, the United States.
+
+The Epoch doesn't conquer. It doesn't build empires. It **inhabits** them. It identifies whichever civilization is the current center of global power, embeds itself in the governing apparatus, and steers — not visibly, not dramatically, but persistently. It is the whisper in the machinery. The reason certain policies pass without debate. The reason certain people rise and certain people disappear. The reason the world's most powerful nation sometimes acts against its own visible interests in ways that only make sense if you assume someone else is writing the objective function.
+
+**No one knows the Epoch exists.** Not the Registries. Not the Curia. Not the Open. These factions have all, at various points, detected *traces* — patterns in geopolitical events that suggest coder involvement at a scale no known faction could achieve — but they've never identified the source. The Registries attribute it to rival Registries. The Curia attributes it to the Devil. The Open attributes it to systemic corruption. They are all wrong. It's the Epoch.
+
+**How the Epoch works:**
+
+The Epoch's organizational principle is **circular compartmentalization** — a knowledge architecture so sophisticated that it makes every other faction's secrecy look like a children's game.
+
+**No single member knows the whole.**
+
+Not the leaders. Not the founders (if any survive). Not anyone. The Epoch is structured as a ring of information where each member holds exactly *one arc* of the circle — a segment of operational knowledge, strategic context, and organizational awareness that overlaps partially with the members adjacent to them in the ring, but never with anyone more than two positions away.
+
+| Member | Knows | Doesn't know |
+|--------|-------|-------------|
+| **Agent A** | Their own mission, Agent B's identity, Agent F's identity, the strategic objective for their sector | Agents C, D, E. The total number of members. The full strategic plan. Who sits at the top (nobody does) |
+| **Agent B** | Their own mission, Agent A's identity, Agent C's identity, the strategic objective for their sector | Agents D, E, F. The total number of members. The full strategic plan |
+| **Agent C** | Their own mission, Agent B's identity, Agent D's identity... | ...and so on around the ring |
+
+**The result:** You can capture any member — `Null` them, `Inspect` them, interrogate them — and you will learn, at most, *two* other identities and *one* strategic segment. You cannot reconstruct the whole. You cannot find the center, because there is no center. You cannot decapitate leadership, because there is no leader. The Epoch is a distributed system with no single point of failure.
+
+If five consecutive members are compromised, the ring heals — the surviving members on either side of the gap reconnect through the daemon network and close the circle. If the ring is broken into fragments, each fragment continues operating its segment of the plan independently, trusting that the other fragments are doing the same. They usually are.
+
+**The Daemon Network:**
+
+The Epoch's coordination mechanism is their most closely guarded secret: a **single, ancient daemon** — bound not to a weapon or an artifact, but to a *network of anchor points* distributed across the globe.
+
+This daemon is old. Possibly the oldest bound daemon in existence — bound during the Epoch's early period, maintained continuously for thousands of years through anchor rotation and binding reinforcement across every civilization the Epoch has inhabited. Its constituent memories span millennia of human experience. It is, by the standards of daemon classification, massive — not in destructive potential, but in *processing capacity*.
+
+The Epoch uses it as a **communication and coordination layer**. Members don't meet. They don't call. They don't write. They feed their operational data — reports, intelligence, requests, strategic assessments — into local anchor points, and the daemon *distributes* the information to the relevant segments of the ring. Not all of it to everyone. The daemon pattern-matches each input against each member's operational context and delivers only what that member needs to know.
+
+It is, in effect, a **living intranet** — a daemon-powered message bus that routes information on a need-to-know basis, with the daemon itself serving as the routing algorithm. The daemon doesn't understand the information. It pattern-matches. But its training data — thousands of years of human memory — makes its pattern-matching exquisitely sophisticated. It doesn't just deliver messages. It *correlates*. It identifies connections between operational data from different segments that human analysts would miss. It flags anomalies. It predicts.
+
+The Epoch's members call the daemon **The Thread**.
+
+**What The Thread costs:**
+
+The Thread consumes the simulation's resources continuously — a slow, steady drain distributed across every anchor point in the network. The degradation is imperceptible at any single point because it's spread so thin — a fraction of a fraction of a percentage of resolution loss at each anchor location. But summed across the entire global network, The Thread's total resource consumption is *enormous*. It has been running for thousands of years. The cumulative drain, spread across the planet, may account for phenomena that physicists have never been able to explain — the universe's apparent fine-tuning problems, the measurement inconsistencies at the margins of physical constants, the subtle entropy increase that cosmologists attribute to the heat death of the universe but that might, in fact, be the world slowly degrading under the weight of a daemon that has been eating it for millennia.
+
+**What the Epoch wants:**
+
+This is the question no one can answer — because no single member of the Epoch knows the full plan. Each member knows their segment: maintain influence in this institution, steer this policy, monitor this technology, neutralize this individual. The segments, assembled, form a coherent strategy — but no one has ever assembled them.
+
+What can be observed from the outside (if anyone ever looked hard enough to see the pattern):
+
+- The Epoch has always attached itself to the civilization with the most *influence over global systems* — not necessarily the strongest military, but the one that shapes the rules. Trade routes. Currency. Information infrastructure. Law.
+- The Epoch has steered its host civilizations toward *stability and longevity*, not conquest. Empires that hosted the Epoch lasted longer than they should have. Their collapse, when it came, was managed — the Epoch migrated to the successor before the fall.
+- The Epoch has consistently suppressed wide-scale daemon events, coder exposure to Naturals, and any development that might destabilize the simulation. They appear to be Conservationist at a scale that makes the Registries look like amateurs.
+- The Epoch may be the reason Zero's world has survived as long as it has. Or they may be the reason it's slowly dying. It depends on whether The Thread's millennia of resource consumption is a net positive (stability) or a net negative (entropy).
+
+**The Epoch's core belief:** Unknown. No single member can articulate it. But the pattern suggests: *the world must continue. Whatever the cost. Whoever has to pay it. The system must not crash.*
+
+**Why no one has found them:**
+
+- The circular knowledge structure means capturing members yields nothing actionable.
+- The Thread handles all communication — no digital trail, no physical meetings, no `Encrypt`ed channels to intercept. The daemon routes everything.
+- The Epoch's members are embedded in *Natural* power structures — governments, militaries, intelligence agencies, financial institutions — and many of them are Naturals themselves. Not every Epoch agent is a coder. Some are simply well-placed humans executing instructions they receive through dead drops serviced by Epoch coders. The coders in the ring handle the daemon interface; the Naturals handle the levers of power.
+- The Epoch has been operating longer than the concept of "coder faction" has existed. They predate the terminology. They predate the hierarchy. They were running the world before the coder world knew it was a world.
+
+### The Full Dynamic
+
+| | Registry | Syndicate | The Open | The Curia | Burning Gate | The Epoch |
+|---|---|---|---|---|---|---|
+| **Sees themselves as** | Guardians of order | Honest brokers | Defenders of freedom | Spiritual stewards | Holy warriors | Unknown (no member knows the whole) |
+| **Daemon policy** | Officially banned, secretly used | Unlimited harvesting | Regulated, pragmatic | Contain, never use | Weaponize for defense | One ancient daemon as infrastructure |
+| **Greatest strength** | State resources | Ruthlessness, stockpiles | Resilience, intelligence | Vault, continuity | Elite combat, daemon weapons | Invisibility, deep state access, The Thread |
+| **Greatest weakness** | Bureaucracy | No loyalty | No coordination | Rigidity, secrecy | Small numbers, degradation | No member knows the full plan |
+| **Recruitment** | Mandatory | Coercion/transaction | Voluntary, ideological | Seminary pipeline | Selective, by conviction | Unknown — members may not know they're being recruited |
+| **Age** | ~80 years | ~150 years | ~40 years | ~1500+ years | ~500 years | ~5000+ years |
 
 ### Resource Allocation
 
@@ -555,9 +735,11 @@ And the daemons keep eating.
 
 3. **The coding ability was intentional.** Coders assume their power is a natural anomaly — a quirk of evolution, a mutation. They don't know it was *designed*. They don't know someone chose to give them this.
 
-4. **The daemons may be a feature, not a bug.** If Zero built the world and Zero built the coders, did Zero also anticipate the daemons? Are they a stress test? A population control? A reason for the coders to never become complacent?
+4. **Daemons are made of memories.** The coder world believes daemons are computational noise — emergent glitches from coding turbulence. They have no idea that every daemon is a coagulation of displaced human memories pushed out by program compilation. They are fighting sentient refuse built from their own discarded lives. The truth is documented in Section IV of this lore, but no living character knows it at story start. This is a revelation-tier secret — the kind that redefines everything the coder world believes about itself.
 
-5. **The memory cost may not be permanent.** Somewhere deep in the code — deeper than any Architect has reached — there may be a `Rollback`. The memories aren't destroyed. They're moved. But no one alive knows where.
+5. **The daemons may be a feature, not a bug.** If Zero built the world and Zero built the coders, did Zero also anticipate the daemons? Zero designed a cost system that displaces memories instead of destroying them. Zero didn't build a garbage collector. Was the daemon cycle *intended*? Are daemons the simulation's recycling program — a way to keep displaced human data active in the system instead of lost? Are they a stress test? A population control? Or something gentler — a way to ensure that nothing a coder sacrifices is ever truly gone?
+
+6. **The memory cost may not be permanent.** Somewhere deep in the code — deeper than any Architect has reached — there may be a `Rollback`. The memories aren't destroyed. They're displaced into the code layer, where they coagulate into daemons. But if the constituent memories of a daemon could be *separated* and *returned* to their original hosts... then every daemon is a vault. And every `Kill` is a mass grave.
 
 ---
 
