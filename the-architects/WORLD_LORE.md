@@ -428,7 +428,19 @@ Some Architects suspect the cycle is by design — that Zero intended it as a go
 
 ### The Setting
 
-The story takes place in the **present day**. Smartphones, social media, office jobs, traffic jams. The world looks exactly like ours. It *is* ours — or close enough that the seams don't show.
+The story takes place in **2038**. The world is recognizably ours — smartphones, social media, cities, traffic — but a quiet revolution has reshaped daily life.
+
+Automation, AI, and efficiency breakthroughs have reduced the productive labor needed to sustain civilization to roughly **1% of the global population**. The remaining 99% are not unemployed — they are *unnecessary* for baseline production. Food, energy, infrastructure, manufacturing, logistics: all of it runs on a skeleton crew of systems and the people who maintain them.
+
+Rather than mass unemployment or dystopian collapse, the world's governments — in an unprecedented act of collective pragmatism — restructured the work week:
+
+**3 days. Monday, Wednesday, Friday. 20 hours per week.**
+
+This is the global standard. Not every country adopted it at the same time or for the same reasons, but by 2038 it is the norm across developed economies. The remaining four days are the individual's own. Some people fill them with second careers, creative work, community, or education. Many fill them with nothing — a generation learning, for the first time, what to do with time they didn't earn and can't productively fill.
+
+The societal consequences are still unfolding: a population with unprecedented leisure and no cultural framework for what to do with it. Meaning has become the scarcest resource. Purpose is the new class divide — those who have something to do versus those who don't.
+
+The coder world exists *within* this changed society, but is largely unaffected by it. Coders have always operated outside normal economic structures. The three-day work week does, however, give Linus more time to game, more time to maintain his potato farm spreadsheet, and — after his awakening — more empty hours to fill with a secret life he never wanted.
 
 But coding has existed as long as humans have. The interface was embedded at instantiation. Throughout history, a small percentage of people have been born with access — and they've shaped the world in ways that Naturals recorded as miracles, sorcery, divine wrath, or unexplained phenomena.
 
@@ -745,7 +757,7 @@ And the daemons keep eating.
 
 ## VIII. Tone and Atmosphere
 
-- **Genre:** Dark science-fantasy. The aesthetics are contemporary — this is our world, right now — but the power system is fantasy-coded with programming terminology.
+- **Genre:** Dark science-fantasy. Set in 2038 — near-future, recognizable but shifted. A world with too much free time and not enough purpose. The power system is fantasy-coded with programming terminology.
 - **Mood:** Melancholic. Power costs you the things that make power worth having. The strongest people in the world are the loneliest.
 - **Moral complexity:** No clean heroes. The coders who protect the world from daemons are also the ones draining it. The leaders who ration power are also the ones hoarding it.
 - **Central irony:** The world was built with love by an absent creator. The gift of coding was meant to empower. Instead, it stratifies, corrupts, and devours. Zero gave humanity the tools to save themselves, and they built a hierarchy of suffering.
