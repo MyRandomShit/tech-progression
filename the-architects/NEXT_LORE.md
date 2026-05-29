@@ -1,0 +1,33 @@
+# Next Lore — Plan
+
+- Lore: how we solved the AI problem — two-tier system (local + global processing)
+  - global processors are very few, sorrounded by military or paramliltary forces
+  - a global processor is a matter of national security
+  - local nodes can work independently, but the larger processors boost and update their capability
+  - global procesors are really huge, they got forced into centralization due to the nature and energy requirements of quantuum computers. they really need fission reactors to power them. normally a processor cluster is powered by at least 3 modern nuclear reactors around them and they are the size of a large city. 
+- Lore: how lives have improved in the PH
+  - PH learned its lesson on the global supply chain
+  - Local production liberated from global supply chain — one industry at a time
+  - Protectionist policies created to buffer emergencies
+  - Renewables of all kinds popped up all over the place
+  - Local drone industry emerged (domestic and military)
+  - Startups engaged in self-driving vehicles
+  - Rail system from the tip of Luzon to Davao City, with hubs in between
+  - environmental protection has become another national pasttime
+- Lore: China — now emerging as top dogs of new technology
+  - other countries are still wary after the previous superpower messed up the world (now in slow decline)
+  - money slowly migrated from US-based companies to China
+  - surrounding countries also boosted their economies
+- Lore: 3-day workweek
+  - Happened gradually
+  - Started by shortening Tuesday and Thursday, then work on those days was removed entirely
+- Lore: Architects
+  - Really few in number — probably less than 100
+  - Corporations either recruit them or build around their abilities
+  - They have programs of their own, but their greatest skill is coordinating multiple roles through their specialized skill
+- Lore: space exploration
+  - mining was a normal thing. computer and battery-related minerals are mostly from space now
+  - moon and mars have human populations now. and the tech to sustain them got funneled into civilian life.
+- Lore: normal life
+  - most people have AI assistants that overlays information via "Apple Vision" (a product realeased in 2030)
+  - 
