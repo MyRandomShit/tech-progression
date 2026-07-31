@@ -8,6 +8,8 @@
 
 Monday. Wednesday. Friday. Twenty hours total. This is the global standard across developed economies. Most jobs run a 6–7 hour shift with no expectation of overtime. The concept of "working late" still exists but carries a different weight — it's a personal choice, not a survival mechanism.
 
+**How we got here:** The change was **gradual**, not legislated in a single shock. Employers first **shortened Tuesday and Thursday** — half-days, then "light" days with no meetings and async-only work. When productivity held or rose, those days emptied. Tuesday and Thursday went fully off-calendar; Monday, Wednesday, and Friday absorbed the real work. The Philippines adopted the final form later than the US or Europe (2034 vs. 2031) but followed the same staircase.
+
 The 1% who maintain critical infrastructure — power grids, food systems, logistics networks, AI oversight — work conventional schedules. They are well-compensated and quietly resentful of the fact that everyone else gets four-day weekends.
 
 ### The Workspace Is Virtual
@@ -37,7 +39,7 @@ Nobody types code anymore. Not by hand. Not in 2038.
 3. **Refinement.** For complex logic, the developer can switch to a visual flow mode — seeing the logic as a diagram, dragging nodes, adjusting conditions. The assistant translates the visual changes back to code. For micro-adjustments, some developers gesture at specific lines and dictate inline changes. A few old-school holdouts still occasionally type — but it's like writing longhand in a world with printers. Functional, slightly eccentric.
 4. **Deployment.** CI/CD is fully automated and visualized in the 3D workspace. Push a change and you can *watch* it propagate through the infrastructure — the affected services glow, tests run (green pulses for passing, red for failing), and the deployment rolls out as a visible wave. Rollbacks are a verbal command: "Roll back the last deploy on order-service."
 
-**The assistant is not AI in the coder-world sense.** It's a conventional large language model — sophisticated pattern-matching, no access to the simulation's code layer, no coding ability. It is to `Decompile` what a calculator is to a mathematician: a tool that handles the mechanical work so the human can focus on the thinking.
+**The assistant is not AI in the coder-world sense.** It's a conventional large language model — sophisticated pattern-matching, no access to the simulation's code layer, no coding ability. It is to `Decompile` what a calculator is to a mathematician: a tool that handles the mechanical work so the human can focus on the thinking. Under the hood it runs on the **two-tier AI stack** (see below): local inference for speed and privacy, periodic sync with a **global processor** tier for capability upgrades — the same architecture that "solved" the AI problem for civilization without putting every thought on a distant server.
 
 ### Linus's Job in 2038
 
@@ -210,13 +212,27 @@ Education in 2038 has been rebuilt from the ground up. The old model — general
 - **Apprenticeship over theory.** The 2038 education system learned from the failures of the 2010s university model: too much theory, too little application, too much debt, too little relevance. Modern training is apprenticeship-heavy — embedded in real work environments from year one, supervised by active practitioners, assessed on practical output rather than exam scores. Linus went through a 4-year software development track that put him inside a VR workspace in month three. He was directing code by month six. The remaining three and a half years were refinement, edge-case training, and system comprehension — learning *why* things work, not just *how* to make them work.
 - **Education as a pastime.** With free access and free time, a significant portion of the population takes courses recreationally — not for career advancement, but for interest. History courses, language courses, art courses, science courses. The university lecture hall, which was dying in the 2020s, has been reborn as a leisure activity. Some people game on their off days. Some people take a semester of marine biology because they felt like it.
 
+### The AI Stack — Local and Global
+
+The AI wars ended with **split custody**, not a single god-model.
+
+| Tier | What it does | Where it lives |
+|------|----------------|----------------|
+| **Local** | Inference, personalization, privacy-sensitive tasks, offline resilience | On-device, home hub, municipal node. Works when the link drops |
+| **Global** | Training-scale compute, model validation, capability pushes to every dependent local node | A handful of **city-scale processor clusters**, each fed by **multiple fission reactors**, ringed by **military security**. National-security assets |
+
+Locals run day to day. Globals **boost and update** them on controlled sync windows. Treating a global processor as "just cloud" is how outsiders get laughed out of policy rooms — you don't rent these; you **alliance** for them.
+
+Linus doesn't think about any of this. His headset assistant just works. His company's compliance team thinks about it constantly.
+
 ### Technology in Daily Life
 
 | Technology | Status in 2038 |
 |-----------|---------------|
 | **AR/VR** | Mainstream. Lightweight headsets (glasses-form-factor, ~6hr battery). Used for work, entertainment, social. Not implanted — still external hardware |
+| **Personal AI overlay** | Most people carry an assistant that **overlays information on the world** — navigation arrows on streets, subtitles on conversation, inventory tags in a pantry, quest markers in games. **Apple Vision** (2030) normalized the form factor: glasses-weight hardware, all-day wear, voice + gaze. Not coder interfaces — pattern-matching tools on the local tier |
 | **AI assistants** | Ubiquitous. Voice-first interaction for everything: shopping, cooking, navigation, creative work, code. They are helpful, occasionally wrong, and never truly understood by the people who use them |
-| **Self-driving vehicles** | Standard in urban areas. Mixed in rural. Linus doesn't own a car — he uses ride-share on work days and walks everywhere else |
+| **Self-driving vehicles** | Standard in urban areas. Mixed in rural. **Filipino startups** compete on autonomy stacks tuned for archipelago roads, flooding, and informal traffic — not just licensing foreign fleets. Linus doesn't own a car — he uses ride-share on work days and walks everywhere else |
 | **Social media** | Evolved into persistent VR social spaces. Still addictive. Still toxic. Now in three dimensions |
 | **Physical keyboards/screens** | Retro. Some people still use them — the way some people in 2024 still used vinyl records. Functional, nostalgic, slightly performative. Linus keeps a mechanical keyboard on his desk. He doesn't use it for work. He uses it for gaming. Old habits |
 | **Gaming** | The dominant entertainment industry on the planet. See below |
@@ -258,6 +274,26 @@ Nobody knows this yet. The coder world is about to get a lot more crowded.
 
 ---
 
+## Space, Materials, and What's Mined Where
+
+**Orbital and lunar mining** is boring infrastructure in 2038 — tugs, refineries, mass drivers, the accounting of delta-v. The minerals that matter for **chips and batteries** mostly **come from off-world** now; Earth still mines, but it doesn't set the scarcity narrative for the devices in every pocket.
+
+**Humans live on the Moon and Mars** — not cities of millions, but real settlements with schools, rotations, and grievances. Closed-loop life support, radiation mitigation, and remote ops **matured up there first**, then leaked down: township water plants, vertical farms, municipal battery walls, drone swarms that don't need a highway.
+
+Linus has never left the atmosphere. He has a savings line item labeled "Benguet," not "Luna."
+
+---
+
+## China and the Post-American Order
+
+**China is the top dog of new technology** in 2038 — processors, space logistics, grid hardware, the export stack everyone plugs into even when they complain about it.
+
+The **United States is in slow decline**: still rich, still armed, still culturally loud, but no longer the automatic home for capital or trust after how it handled automation, inequality, and the AI transition at home. Money **drifted** toward Chinese and pan-Asian champions over a decade, not in a single crash.
+
+**Everyone else is wary.** Southeast Asia, Europe, India, and the Gulf all **boosted** on Chinese supply chains while building **buffers** — local fabs where they can, treaty access to global processors where they can't, citizen auditors watching procurement. The Philippines is explicit about **protectionism as emergency insulation**, not ideology for its own sake.
+
+---
+
 ## The Philippines in 2038
 
 The story is set primarily in the **Philippines** — a country that, by 2038, has transformed more dramatically than most developed economies precisely because it had the furthest to leap.
@@ -273,7 +309,13 @@ The Philippines adopted the 3-day work week later than the US or Europe (2034 vs
 - **The COVID memory.** The pandemic years are still culturally vivid — not as trauma alone, but as **proof**. Every township built or rebuilt after 2030 carries the lesson: when the capital locks down and the ports choke, you survive on what you have *locally*. Barangay-level food gardens, municipal cold storage, water treatment micro-plants, solar+battery backup for critical buildings, and drone-delivery redundancy aren't prepper eccentricity. They're municipal checklist items, the way fire exits were after earlier disasters. Older Filipinos say "after COVID" the way their parents said "after Martial Law" — a shorthand for *we don't assume the center will save us*. Linus's Benguet potato dream fits this logic exactly: land, water, calories, independence from a supply chain that once failed everyone at once.
 - **Supply-independent townships.** A typical 2038 township aims for **baseline self-sufficiency**, not autarky. It won't manufacture semiconductors or refine fuel. It *will* cover a week of staples without Manila: rice and vegetables from surrounding farms or vertical plots, protein from regional aquaculture and poultry cooperatives, medicine from a municipal formulary stockpile, and power from a mix of grid, solar, and municipal batteries. Inter-town trade fills the gaps. National logistics still matter for luxuries and specialized goods. The design goal is simple: **no single chokepoint can starve us in seven days**. Drone networks between townships made this achievable in the archipelago faster than road-heavy countries could copy it.
 - **Government less centralized.** Manila still hosts Malacañang, the central agencies, and the largest tax base. But governance **followed the population**. Regional and provincial governments gained real budget authority, hiring power, and standard-setting capacity that used to require a trip to the capital or a decade of political patronage. Health, education, zoning, local infrastructure, and disaster response are increasingly **provincial or city-first** — with national policy setting floors, not micromanaging floors. Citizen auditors watch both layers now; a suspicious municipal contract in Iloilo gets the same swarm attention as a national defense line item. The result is messier, slower to coordinate on megaprojects, and harder for a single president to steer by decree — but far more resilient when one island loses contact with the center. The Philippines in 2038 is a **network of townships**, not a wheel with one hub.
-- **Infrastructure leapfrog.** The Philippines skipped several infrastructure generations entirely. Fiber-optic and satellite internet blanketed the archipelago by 2033 (a necessity for VR workspaces — latency kills). Drone delivery networks arrived before reliable road logistics did — in many island provinces, drones deliver faster and more reliably than any vehicle ever could, because there are no roads to get stuck on. The joke is that the Philippines solved its infrastructure problems by making infrastructure irrelevant.
+- **Supply chain lesson, applied industry by industry.** COVID and port shocks are still cultural shorthand for *the center will not save you*. National policy **liberated production from the global supply chain one sector at a time** — not autarky, but **domestic capacity floors**: food, medicine, power electronics, drones, rail steel, critical chemicals. **Protectionist tariffs and procurement rules** exist to **buffer emergencies**, not to close the border forever. Imports still flow; the country no longer bets its survival on a single chokepoint.
+- **Renewables everywhere.** Solar on every viable roof, wind where the typhoon math allows, geothermal and hydro where geology cooperates, municipal batteries next to barangay halls. The grid is still national; the **generation footprint** is provincial. Townships brag about their mix the way they once bragged about fiber speed.
+- **Domestic drone industry.** Filipino manufacturers build **delivery, survey, agricultural, and military** airframes — not just operate foreign fleets. Drone operators in VR control rooms often supervise hardware designed in Laguna and assembled in Cavite. Export contracts to ASEAN neighbors are normal.
+- **Self-driving startups.** Dozens of firms compete on autonomy for **Manila congestion, provincial flooding, and motorcycle-heavy traffic** — the problems global stacks got wrong. Vehicle recovery specialists still exist because the archipelago breaks sensors for a living.
+- **The Luzon–Mindanao rail spine.** High-speed and freight rail runs from **northern Luzon to Davao City**, with **hubs** in Clark, Manila, Naga, Iloilo, Cebu, Cagayan de Oro, and points between. Islanders joke that they finally have a backbone; Mindanaoans note the backbone still reports to Manila for budget. Linus has taken the southern line once — Benguet research, window seat, six hours of rice terraces and tunnel.
+- **Environmental protection as pastime.** With four days off, **reforestation crews, coastal cleanups, and watershed monitoring** are volunteer weekends on the same tier as gaming guilds. Citizen auditors track illegal logging with satellite feeds and drone overflights; a viral thread can end a mayor's career faster than a protest march.
+- **Infrastructure leapfrog.** The Philippines skipped several infrastructure generations entirely. Fiber-optic and satellite internet blanketed the archipelago by 2033 (a necessity for VR workspaces — latency kills). Drone delivery networks arrived before reliable road logistics did — in many island provinces, drones deliver faster and more reliably than any vehicle ever could, because there are no roads to get stuck on. The joke is that the Philippines solved its infrastructure problems by making infrastructure irrelevant — then built a rail spine anyway because some problems need steel.
 - **Gaming culture hit differently.** The Philippines was already one of the most gaming-dense countries in the world before the transition. Internet cafés, mobile gaming, esports — the culture was *there*. When the 3-day work week freed four days and VR gaming went mainstream, the Philippines didn't adopt gaming as a pastime. It *deepened* an existing identity. Filipino esports teams are globally competitive. Filipino gaming communities are among the largest and most organized in the world. The country produces a disproportionate number of pro gamers, game developers, and VR world-builders. Linus is not unusual for being a gamer — he's unusual for *not* being more serious about it.
 
 ### Linus's Manila

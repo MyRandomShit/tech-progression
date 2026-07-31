@@ -1,5 +1,7 @@
 # Next Lore — Plan
 
+> **Status:** Integrated into `WORLD_LORE.md` and `WORLD_2038.md` (2038 worldbuilding pass). Keep this file as a scratchpad for future additions.
+
 - Lore: how we solved the AI problem — two-tier system (local + global processing)
   - global processors are very few, sorrounded by military or paramliltary forces
   - a global processor is a matter of national security

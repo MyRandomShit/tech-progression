@@ -6,6 +6,7 @@
 
 **Name:** Linus Kerrigan
 **Age:** Mid 20s at story start
+**Setting:** **2038**, **Philippines** — Makati condo, M/W/F VR work, four-day weekends for gaming and the Benguet spreadsheet. Everyday world detail: `WORLD_2038.md`. Coder-world rules: `WORLD_LORE.md`.
 **Job:** Software developer at a mid-size enterprise — the kind that builds internal tools nobody outside the company will ever see. Inventory management systems. Approval workflow dashboards. JIRA tickets that say things like "fix date picker timezone offset on the PO form." He writes Java, sits through sprint retros, and argues about naming conventions in pull request comments.
 
 He is good at his job — not brilliant, not a prodigy, just *solid*. The guy who ships clean code on time, writes tests without being asked, and debugs production issues at 11 PM without complaining. His manager likes him. His coworkers respect him. He will never be a tech lead. He's fine with that.

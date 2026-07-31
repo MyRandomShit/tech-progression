@@ -97,6 +97,14 @@ Most coders (99%) operate at Layers 0–2. They are called **Developers**.
 
 A handful reach Layers 3–5. They are called **Architects**.
 
+#### Architects — Scale and Role
+
+There are probably **fewer than a hundred** Architects alive worldwide. The coder population is already tiny; depth access winnows it further. Most factions have never met one.
+
+**Corporations and states orbit them.** Registries don't just employ Architects — they **build operational doctrine around them**: team structures, mission parameters, resource budgets shaped to one person's layer depth and program loadout. Syndicates price access. The Open protects defectors who still compile at depth. A corporation without an Architect doesn't compete at the tier where reality is negotiable; one with an Architect doesn't always win either — but it fights in a different weight class.
+
+**Programs vs. coordination.** Architects compile their own programs like any deep coder — often the most dangerous loadouts in the world. Their defining skill is not a single spell. It is **role coordination**: running multiple programs, threads, Gates, and human or daemon assets in parallel so that a squad of Developers performs like a unit with Architect-level reach. The best Architects are force multipliers. The worst are solo monsters who forgot how to delegate before they forgot their own names.
+
 Layer 6 has never been accessed by a human. It may not be accessible. Those who theorize about it call it **Root** — and they are either visionaries or lunatics, depending on whom you ask.
 
 ### The Cost: Memory Replacement
@@ -286,7 +294,7 @@ Power concentrates. The deepest coders can do things the shallowest cannot defen
 
 - **Layer 0–1 coders** are common enough to be expendable. They serve, they labor, they are occasionally *written* without consent.
 - **Layer 2–3 coders** are the working class of power — dangerous enough to be respected, not deep enough to be feared.
-- **Layer 4–5 Architects** are the aristocracy. They shape the world's power structures, and they have paid for their position in pieces of their own humanity. Many are functionally sociopathic — not because they chose to be, but because empathy was the price of their fifth program.
+- **Layer 4–5 Architects** are the aristocracy — **fewer than a hundred worldwide**. They shape the world's power structures, and they have paid for their position in pieces of their own humanity. Corporations and Registries recruit them or rebuild operations around them. Many are functionally sociopathic — not because they chose to be, but because empathy was the price of their fifth program.
 
 ### The Uncompiled
 
@@ -436,6 +444,8 @@ Rather than mass unemployment or dystopian collapse, the world's governments —
 
 **3 days. Monday, Wednesday, Friday. 20 hours per week.**
 
+The shift did not arrive overnight. It **happened gradually** — first by shortening **Tuesday and Thursday** (half-days, then light-duty days), then by **removing work on those days entirely** until the calendar settled on a three-day core. Early adopters reached M/W/F by 2031; laggards followed through the mid-2030s. See `WORLD_2038.md` for everyday consequences.
+
 This is the global standard. Not every country adopted it at the same time or for the same reasons, but by 2038 it is the norm across developed economies. The remaining four days are the individual's own. Some people fill them with second careers, creative work, community, or education. Many fill them with nothing — a generation learning, for the first time, what to do with time they didn't earn and can't productively fill.
 
 The societal consequences are still unfolding: a population with unprecedented leisure and no cultural framework for what to do with it. Meaning has become the scarcest resource. Purpose is the new class divide — those who have something to do versus those who don't.
@@ -443,6 +453,24 @@ The societal consequences are still unfolding: a population with unprecedented l
 The coder world exists *within* this changed society, but is largely unaffected by it. Coders have always operated outside normal economic structures. The three-day work week does, however, give Linus more time to game, more time to maintain his potato farm spreadsheet, and — after his awakening — more empty hours to fill with a secret life he never wanted.
 
 But coding has existed as long as humans have. The interface was embedded at instantiation. Throughout history, a small percentage of people have been born with access — and they've shaped the world in ways that Naturals recorded as miracles, sorcery, divine wrath, or unexplained phenomena.
+
+### The AI Settlement — Two-Tier Processing
+
+The AI crisis of the 2020s–2030s did not end with a single breakthrough. It ended with an **architectural compromise**: **local nodes** and **global processors**, each doing what the other cannot.
+
+**Local nodes** — on-device, municipal, or regional — handle inference, personalization, privacy-sensitive work, and day-to-day assistance. They run **independently** when the network fails. Most people never think about them; they are the voice in the headset, the code assistant in the VR workspace, the routing brain in a delivery drone. They are upgraded periodically when they sync with a global tier.
+
+**Global processors** are something else entirely. There are **very few** of them — national assets, not cloud regions. Each sits at the center of a **processor cluster** the size of a **large city**, powered by **at least three modern fission reactors** (often more). Quantum-scale workloads and the energy budget they demand **forced centralization**; you cannot hide that footprint in a data center park. Every site is surrounded by **military or paramilitary** security. Access is treated as **national security** — not because the models are chatty, but because whoever controls a global processor controls the sync path that **boosts and updates** every dependent local node in their sphere.
+
+**How it works in practice:** Locals execute. Globals train, validate, and push capability upgrades on controlled schedules. A country without treaty access to a friendly global tier runs stale local models until it builds or buys in — which is why global processor placement is the quietest arms race of the century.
+
+Naturals call this "solved AI." Coders call it infrastructure — and wonder, privately, whether the global tiers are reading the simulation more clearly than anyone admits.
+
+### Space, Materials, and the Off-World Economy
+
+By the 2030s, **orbital and lunar mining** is routine — not spectacle. Computer-grade and battery-grade minerals are **predominantly sourced off-world**; Earth-side extraction still exists but no longer sets the price floor for the industries that matter.
+
+**The Moon and Mars host permanent human populations** — small by planetary standards, enormous by historical ones. Life-support, closed-loop agriculture, radiation shielding, and remote robotics matured in space first, then **funnelled into civilian life**: township water systems, vertical farms, municipal power buffers, drone logistics. The PH rail spine and domestic drone industry both owe debts to supply chains that learned to work when Earth is three days away by packet, not three hours by truck.
 
 ### Historical Echoes
 
@@ -477,6 +505,14 @@ Coders have always existed. They've rarely understood what they were doing. The 
 ---
 
 ## VI. Society and Politics
+
+### The World Order in 2038 — China and the American Decline
+
+The previous superpower **messed up the transition** — politically, economically, and in how it deployed AI and automation at home. The United States is not collapsed; it is in **slow decline**, still dangerous, still heavily armed, still host to coder Registries and corporate giants — but no longer the default center of gravity for capital or trust.
+
+**China emerged as the top dog of new technology** — quantum-adjacent compute, global processor diplomacy, space infrastructure, battery and grid exports. Capital **migrated slowly** from US-domiciled platforms to Chinese and pan-Asian champions; surrounding economies (Southeast Asia included) **rode the uplift** without fully trusting Beijing. Everyone remembers what the last hegemon did with the keys.
+
+The Philippines sits in that tension deliberately: **protectionist buffers** and **local production** where COVID and port shocks taught hard lessons, but also **VR hubs and remote work** plugged into global processors hosted elsewhere. Manila builds around Chinese hardware and American software idioms simultaneously — and citizen auditors watch both.
 
 ### The Hidden World
 
@@ -766,7 +802,7 @@ And the daemons keep eating.
 
 ## IX. Open Questions (Story Decisions)
 
-- [ ] How many Architects exist in the world? (Dozens? Hundreds?)
+- [x] How many Architects exist in the world? **Fewer than ~100** (see Architects — Scale and Role)
 - [ ] Has anyone ever *suspected* the simulation? What happened to them?
 - [ ] Is there a daemon threat active at story start, or is it building?
 - [ ] Does Zero ever intervene, even once? Or is the hands-off policy absolute?
